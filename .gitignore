@@ -1,5 +1,9 @@
 _site
+_posts.old
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+*.backup
+
