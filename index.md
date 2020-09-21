@@ -4,5 +4,6 @@
 
 layout: home
 ---
+
 # Welcome to the ManyDogs Project!
 ![ManyDogs](assets/images/manydogs.jpeg)
