@@ -29,6 +29,7 @@ github_username:  manydogsproject
 
 # Build settings
 theme: minima
+#theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
@@ -46,8 +47,10 @@ plugins:
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
+#   - README.md
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: ['README.md']
