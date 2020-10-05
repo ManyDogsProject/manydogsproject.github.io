@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sign-Up
-permalink: /signup/
+title: Get Involved
+permalink: /getinvolved/
 ---
 
 # Get Involved in ManyDogs
