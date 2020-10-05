@@ -5,7 +5,7 @@ title: Home
 layout: home
 ---
 
-# Welcome to the ManyDogs Project!
+# Welcome to ManyDogs!
 ![ManyDogs](assets/images/manydogs.jpeg)
 
 ## About ManyDogs
