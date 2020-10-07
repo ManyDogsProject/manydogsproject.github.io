@@ -29,4 +29,4 @@ Ideally, two trained experimenters will perform all of the experimenting and dog
 
 For a comprehensive overview of MD1 and how to get involved, see the MD1 [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing). 
 
-We have pre-registered our study's method and analysis on [OSF](https://www.google.com/url?q=https%3A%2F%2Fosf.io%2F9r5xf%2F&sa=D&sntz=1&usg=AFQjCNFIKKbxOBqSTQrG4HEYDanW-sNKqQ). For a thoroughly detailed experimental procedure, please read the [Protocol](https://docs.google.com/document/d/1IV2h2YXmyYpOw0U3IgxxQZD8zlkc0VHcencWx1fJm4s/edit?usp=sharing).  
+We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/). For a thoroughly detailed experimental procedure, please read the [Protocol](https://docs.google.com/document/d/1IV2h2YXmyYpOw0U3IgxxQZD8zlkc0VHcencWx1fJm4s/edit?usp=sharing).  
