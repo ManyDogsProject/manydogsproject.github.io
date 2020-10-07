@@ -1,11 +1,12 @@
 ---
 layout: single
-title: ManyDogs 1
-permalink: /manydogs1/
+title: "" 
+permalink: /md1/
+author_profile: true
 
 ---
 
-# Social Communication
+# ManyDogs 1: Social Communication
 
 The first ManyDogs study (MD1) investigates domestic dogs' understanding of a common human gesture, the point. Previous research shows that dogs usually follow pointing cues, but whether they do so because they are following a communicative cue from a human partner or because they feel compelled to follow the gesture as a command is still debated. 
 

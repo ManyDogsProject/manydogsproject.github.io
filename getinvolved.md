@@ -1,7 +1,8 @@
 ---
 layout: single
-title: Get Involved
+title: ""
 permalink: /getinvolved/
+author_profile: true
 
 ---
 
