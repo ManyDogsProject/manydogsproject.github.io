@@ -1,9 +1,11 @@
 ---
-title: Home
+title: ""
+layout: single
+author_profile: true
+
 ---
 
-# Welcome to ManyDogs!
-![ManyDogs](assets/images/manydogs.jpeg)
+# Welcome to the ManyDogs Project!
 
 ## About ManyDogs
 

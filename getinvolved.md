@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Get Involved
 permalink: /getinvolved/
+
 ---
 
 # Get Involved in ManyDogs

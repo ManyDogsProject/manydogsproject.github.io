@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Team
 permalink: /team/
+
 ---
 
 # Project Coordinators

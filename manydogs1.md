@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: ManyDogs 1
 permalink: /manydogs1/
+
 ---
 
 # Social Communication

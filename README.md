@@ -3,7 +3,7 @@
 This repo contains the source code for the [ManyDogs Project website](https://manydogsproject.github.io/).
 
 ## Site info
-* This site uses the [minima](https://github.com/jekyll/minima) theme and is built with [Jekyll](https://jekyllrb.com/).
+* This site uses the [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) theme and is built with [Jekyll](https://jekyllrb.com/).
 
 ## Making changes to the content
 
