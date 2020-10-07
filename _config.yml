@@ -92,10 +92,6 @@ repository               : manydogsproject/manydogsproject.github.io # GitHub us
 logo                     : /assets/images/manydogs_logo.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #masthead_title           : "ManyDogs Project" # overrides the website title displayed in the masthead, use " " for no title
 
-# Social Sharing
-twitter:
-  username               : manydogsproject
-  
 # Site Author
 author:
   name             : "ManyDogs Project"
@@ -105,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:manydogsproject@gmail.com
+      #url:  "mailto:manydogsproject@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://manydogsproject.github.io"
@@ -134,6 +130,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/manydogsproject"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:manydogsproject@gmail.com"
 
 # Sass/SCSS
 sass:
