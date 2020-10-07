@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -31,7 +31,7 @@
 #    twitter: manydogsproject
 #    github: manydogsproject
 #    slack: manydogsproject
-    
+
 #twitter_username: manydogsproject
 #github_username:  manydogsproject
 
@@ -74,7 +74,7 @@ plugins:
 #titles_from_headings:
 #  enabled:     true
 #  strip_title: true
-#  collections: true 
+#  collections: true
 
 minimal_mistakes_skin    : "air" #"default," "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -91,6 +91,7 @@ repository               : manydogsproject/manydogsproject.github.io # GitHub us
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/manydogs_logo.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #masthead_title           : "ManyDogs Project" # overrides the website title displayed in the masthead, use " " for no title
+search                   : true
 
 # Site Author
 author:
@@ -111,6 +112,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/manydogsproject"
+    - label: "OSF"
+      icon: "ai ai-osf"
+      url:  "https://osf.io/9r5xf/"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url:  "https://manydogsproject.slack.com"
@@ -122,24 +126,18 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/manydogsproject"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/manydogsproject"
+    - label: "OSF"
+      icon: "ai ai-osf"
+      url:  "https://osf.io/9r5xf/"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url:  "https://manydogsproject.slack.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto:manydogsproject@gmail.com"
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Sass/SCSS
 sass:
