@@ -1,8 +1,8 @@
 main:
-  - title: "Home"
-    url: /home/
   - title: "ManyDogs 1"
     url: /manydogs1/
+  - title: "Get Involved"
+    url: /getinvolved/
   - title: "Collaborators"
     url: /collaborators/
   - title: "Team"
