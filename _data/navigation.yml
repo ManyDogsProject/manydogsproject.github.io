@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /home/
+  - title: "ManyDogs 1"
+    url: /manydogs1/
+  - title: "Collaborators"
+    url: /collaborators/
+  - title: "Team"
+    url: /team/
+  - title: "Contact"
+    url: /contact/
