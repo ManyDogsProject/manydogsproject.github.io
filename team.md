@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-# Project Coordinators
+# The ManyDogs 1 Team
 
 * [Daphna Buchsbaum] (http://www.cocodevlab.com/), Brown University
 
