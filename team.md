@@ -8,7 +8,7 @@ author_profile: true
 
 # The ManyDogs 1 Team
 
-* [Daphna Buchsbaum] (http://www.cocodevlab.com/), Brown University
+* [Daphna Buchsbaum](http://www.cocodevlab.com/), Brown University
 
 * Sarah-Elizabeth Byosiere, Hunter College
 
