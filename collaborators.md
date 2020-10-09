@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # ManyDogs 1 Collaborators <br>
-These research groups are registered collaborators in the first ManyDogs study. If you're interested in bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up process. 
+These research groups are registered collaborators in the first ManyDogs study. If you're interested in joining their team or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up process. 
 
 * [The Dog Cognition Lab](https://dogcognition.weebly.com/), _Barnard College_
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_
