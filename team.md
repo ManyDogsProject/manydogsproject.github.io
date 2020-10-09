@@ -18,7 +18,7 @@ author_profile: true
   Methods Team
 
 * [Julia Espinosa](https://sites.google.com/view/jespinosa), _University of Toronto_<br> 
-  Project Coordinator & Data Team
+  Project Coordinator, Data Team & Website Team
 
 * [Gitanjali E. Gnanadesikan](http://u.arizona.edu/~gitag/), _University of Arizona_<br>
   Project Coordinator & Experimenter Video Team
@@ -27,4 +27,4 @@ author_profile: true
   Methods Team & Experimenter Video Team
 
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), _University of Nebraska-Lincoln_<br>
-  Data Team
+  Data Team & Website Team
