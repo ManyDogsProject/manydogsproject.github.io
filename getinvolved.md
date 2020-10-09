@@ -8,11 +8,14 @@ author_profile: true
 
 # Get Involved in ManyDogs
 
-There are multiple ways that you can get involved in ManyDogs, and contributors at all stages of their careers (Undergraduate to Professor Emeritus) are very welcome. 
+There are multiple ways that you can get involved in ManyDogs, and contributors at all stages of their careers (Undergraduate to Professor Emeritus) are very welcome to join us. 
 
-At this stage, **we have an open call for contributors** who are able to collect data for MD1. If your research site would like to sign up, please read the [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing)  before registering through our [Contributor Sign-Up Survey](https://bit.ly/2OQujZZ).
+# Participate in ManyDogs 1
+At this time, **we have an open call for contributors** who are able to collect data for MD1. If your research site would like to sign up, please read the [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing)  before registering through our [Contributor Sign-Up Survey](https://bit.ly/2OQujZZ).
 
-If you would like to get involved but do not have a site for behavioural data collection, please get in touch anyway! There are multiple administrative and creative roles that meet authorship criteria. 
+If you would like to get involved but do not have a site for behavioural data collection, please get in touch anyway! There are administrative and creative roles within the project that can lead to authorship on this or subsequent studies. 
+
+If you want to participate in ManyDogs 1 with your dog, check out the list of [Collaborators](/collaborators) for a complete list of the locations where ManyDogs 1 is taking place. If there's a location near you, reach out to them for details on how to sign up with their institution.
 
 # Join Our Communication Network
 
