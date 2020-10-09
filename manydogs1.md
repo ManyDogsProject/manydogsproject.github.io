@@ -10,13 +10,13 @@ author_profile: true
 
 The first ManyDogs study (MD1) investigates domestic dogs' understanding of a common human gesture, the point. Previous research shows that dogs usually follow pointing cues, but whether they do so because they are following a communicative cue from a human partner or because they feel compelled to follow the gesture as a command is still debated. 
 
-Furthermore, we don't know how various methodological differences that are common among labs (e.g. indoor/outdoor testing, room size, owner presence) might affect study results in our field, so we have implemented an approach by which the core methodological details are standardized but other aspects are allowed to vary and are recorded for subsequent exploratory analyses.
+Furthermore, we don't know how various methodological differences that exist in diverse labs (e.g. indoor/outdoor testing, room size, owner presence) might affect study results in our field, so we have implemented an approach by which the core methodological details are standardized but other aspects are allowed to vary and are recorded for subsequent exploratory analyses.
 
 ## Implementing MD1 at your site
 
 We have designed the methods to be minimalistic and inexpensive so that the cost of running the study is low; the only materials necessary are:
 
-* solo cups (or items of a similar shape and size) 
+* solo cups (or containers of a similar shape and size) 
 * an occluder (which can be made from foam board or cardboard) 
 * tape or post-its to mark out the testing area 
 * a leash 
