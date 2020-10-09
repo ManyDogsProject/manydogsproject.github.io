@@ -8,23 +8,23 @@ author_profile: true
 
 # The ManyDogs 1 Team
 
-* [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), _Project Coordinator_<br>
-  Brown University
+* [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), _Brown University_<br>
+  Project Coordinator
 
-* Sarah-Elizabeth Byosiere, _Project Coordinator_<br> 
-  Hunter College
+* Sarah-Elizabeth Byosiere, _Hunter College_<br> 
+  Project Coordinator
 
-* Molly Byrne, _Methods Team_<br>
-  Boston College
+* Molly Byrne, _Boston College_<br>
+  Methods Team
 
-* Julia Espinosa, _Project Coordinator & Data Team_<br> 
-  University of Toronto
+* Julia Espinosa, _University of Toronto_<br> 
+  Project Coordinator
 
-* Gitanjali E. Gnanadesikan, _Project Coordinator & Experimenter Video Team_<br>
-  University of Arizona
+* Gitanjali E. Gnanadesikan, _University of Arizona_<br>
+  Project Coordinator & Experimenter Video Team
 
-* Madeline Pelgrim, _Methods Team & Experimenter Video Team_<br>
-  Brown University
+* Madeline Pelgrim, _Brown University_<br>
+  Methods Team & Experimenter Video Team
 
-* Jeffrey Stevens, _Data Team_<br>
-  University of Nebraska-Lincoln
+* Jeffrey Stevens, _University of Nebraska-Lincoln_<br>
+  Data Team
