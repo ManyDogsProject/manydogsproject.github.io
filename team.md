@@ -9,6 +9,7 @@ author_profile: true
 # The ManyDogs 1 Team
 
 * [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), Brown University
+_Project Coordinator_
 
 * Sarah-Elizabeth Byosiere, Hunter College
 
