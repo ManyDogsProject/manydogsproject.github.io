@@ -10,6 +10,6 @@ If you are generally interested in learning more about ManyDogs, we recommend re
 
 For information or inquiries that aren't covered by the [ManyDogs 1](/md1) resources, or if you are from the media, please [email](mailto:manydogsproject@gmail.com) the ManyDogs project coordinators.
 
-follow us on Twitter for updates on project developments!
+Follow us on Twitter for updates!
 
 
