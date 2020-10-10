@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # ManyDogs 1 Collaborators <br>
-These research groups are registered collaborators in the first ManyDogs study. If you're interested in joining their team or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up process. 
+These research groups are registered collaborators in the first ManyDogs study. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process. 
 
 * [The Dog Cognition Lab](https://dogcognition.weebly.com/), _Barnard College_
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_
@@ -22,5 +22,6 @@ These research groups are registered collaborators in the first ManyDogs study. 
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_
 
 # Many-X Collaborators
-* [ManyBabies](https://www.google.com/url?q=https%3A%2F%2Fmanybabies.github.io%2F&sa=D&sntz=1&usg=AFQjCNGR_Ynrp3ZM9Ov7qPCFpAc9y244xQ)
-* [ManyPrimates](https://manyprimates.github.io)
+We're thrilled to parnter with other multi-lab consortiums that promote open science practices and collaboration. 
+* [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology. 
+* [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research. 
