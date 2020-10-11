@@ -1,6 +1,13 @@
+# Folders
 _site
 
+# Files
+Gemfile.lock
+Gemfileold
+
+# File types
 *.backup
 
+# R Project files
 .Rproj.user
 *.Rproj

@@ -22,6 +22,6 @@ These research groups are registered collaborators in the first ManyDogs study. 
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_
 
 # Many-X Collaborators
-We're thrilled to parnter with other multi-lab consortiums that promote open science practices and collaboration. 
+We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration. 
 * [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology. 
 * [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research. 
