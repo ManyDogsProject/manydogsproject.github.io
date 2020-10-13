@@ -80,10 +80,10 @@ minimal_mistakes_skin    : "air" #"default," "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ManyDogs Project"
+title                    : "ManyDogs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ManyDogs Project"
+name                     : "ManyDogs"
 description              : "The ManyDogs Project is an international consortium of researchers interested in canine science."
 url                      : "https://manydogsproject.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ search                   : true
 
 # Site Author
 author:
-  name             : "ManyDogs Project"
+  name             : "ManyDogs"
   avatar           : /assets/images/manydogs_small.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The ManyDogs Project is an international consortium of researchers interested in canine science."
   email            : "manydogsproject@gmail.com"
