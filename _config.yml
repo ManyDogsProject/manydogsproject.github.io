@@ -118,6 +118,9 @@ author:
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url:  "https://manydogsproject.slack.com"
+    - label: "GoogleGroups"
+      icon: "fab fa-fw fa-google"
+      url:  "https://groups.google.com/u/2/g/manydogs"
 
 
 # Site Footer
