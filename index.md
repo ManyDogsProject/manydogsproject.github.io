@@ -1,13 +1,16 @@
 ---
 title: ""
 layout: single
-author_profile: true
+tagline: "Welcome to the ManyDogs project!"
+header:
+  overlay_image: /assets/images/many_dogs_banner_wide.jpg
+  caption: "Photo credit: [Eddie Galaxy](https://www.pexels.com/@eddie-galaxy-727497?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
+  show_overlay_excerpt: true
+
 
 ---
 
-# Welcome to the ManyDogs project!
-
-## About ManyDogs
+# About ManyDogs
 
 ManyDogs is an international consortium of researchers interested in Canine Science. Our primary goal is to foster global collaboration and open science practices (i.e., transparency and reproducibility) through multi-site projects. Read our [Mission Statement](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit#bookmark=id.jesmtfmdggiu) for a detailed explanation of our purpose. 
 
