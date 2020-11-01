@@ -2,7 +2,7 @@
 layout: single
 title: "" 
 permalink: /md1/
-author_profile: true
+# author_profile: true
 
 ---
 
