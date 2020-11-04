@@ -11,3 +11,6 @@ Gemfileold
 # R Project files
 .Rproj.user
 *.Rproj
+
+# Unnecessary files
+.DS_Store
