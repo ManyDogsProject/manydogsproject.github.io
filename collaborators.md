@@ -21,7 +21,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 
 * [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_
 * [The Canine Cognition Lab](http://www.torontodoglab.com/), _University of Toronto_ <br>
-	<font size="24"><span style="color:navy;">Team Captain: Julia Espinosa, MSc MA</span></font>
+	<font size="24"><span style="color:#25679E;">Team Captain: Julia Espinosa, MSc MA</span></font>
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/en/messerli/science/cognition/canines/dogs-clever-dog-lab/the-clever-dog-lab/), _University of Veterinary Medicine Vienna_
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_
 
