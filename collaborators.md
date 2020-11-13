@@ -7,7 +7,7 @@ permalink: /collaborators/
 ---
 
 # ManyDogs 1 Collaborators <br>
-These research groups are registered collaborators in the first ManyDogs study. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process. 
+These research groups are registered collaborators in the first ManyDogs study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process. 
 
 * [The Dog Cognition Lab](https://dogcognition.weebly.com/), _Barnard College_
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_
@@ -16,7 +16,7 @@ These research groups are registered collaborators in the first ManyDogs study. 
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_
 * [Human-Animal Interaction Lab](https://thehumananimalbond.com/), _Oregon State University_
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_
-* [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_
+* [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_ <br>
 	Team Captain: Jeffrey Stevens
 * [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_
 * [The Canine Cognition Lab](http://www.torontodoglab.com/), _University of Toronto_
