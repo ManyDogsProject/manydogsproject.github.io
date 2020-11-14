@@ -16,7 +16,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 * Canine Cognition Lab, _Brown University_ <br>
 	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
 * [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
-	<span style="color:#25679E;">Team Captain: Hannah Solomons</span>
+	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captains: Sarah Byosiere & Sasha Prasad</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
