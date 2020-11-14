@@ -34,7 +34,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/en/messerli/science/cognition/canines/dogs-clever-dog-lab/the-clever-dog-lab/), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
-	<span style="color:#25679E;">Team Captain: Zachery Silver</span>	
+	<span style="color:#25679E;">Team Captain: Zachary Silver</span>	
 
 # Many-X Collaborators
 We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration. 
