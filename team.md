@@ -28,6 +28,7 @@ feature_row:
     alt: "Madeline Pelgrim"
     title: "Madeline Pelgrim"
     excerpt: "Brown University, Methods Team & Experimenter Video Team"
+  - image_path: /assets/images/transparent_square.png
   - image_path: /assets/images/jeff_stevens.jpg
     alt: "Jeffrey Stevens"
     title: "Jeffrey Stevens"
