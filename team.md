@@ -38,7 +38,7 @@ feature_row:
 # The ManyDogs 1 Team
 Meet our team of individuals that are responsible for organizing ManyDogs, and continue to move the project forward through their time and dedication.  
 
-{% include feature_row type="center"%}
+{% include feature_row type="grid"%}
 
 <!--
 * [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), _Brown University_<br>
