@@ -45,7 +45,7 @@ Meet our team of individuals that are responsible for organizing ManyDogs, and c
 * [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), _Brown University_<br>
   Project Coordinator
 
-* [Sarah-Elizabeth Byosiere](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), _Hunter College_<br> 
+* [Sarah-Elizabeth Byosiere](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), _Hunter College_ <br> 
   Project Coordinator
 
 * [Molly Byrne](https://sites.bc.edu/doglab/people/), _Boston College_<br>
@@ -60,5 +60,5 @@ Meet our team of individuals that are responsible for organizing ManyDogs, and c
 * Madeline Pelgrim, _Brown University_<br>
   Methods Team & Experimenter Video Team
 
-* [Jeffrey Stevens](https://dogcog.unl.edu/people), _University of Nebraska-Lincoln_<br>
+* [Jeffrey Stevens](https://dogcog.unl.edu/people), _University of Nebraska-Lincoln_ <br>
   Data Team & Website Team -->
