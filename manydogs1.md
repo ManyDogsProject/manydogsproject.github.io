@@ -23,7 +23,7 @@ We have designed the methods to be minimalistic and inexpensive so that the cost
 * some dog treats 
 * a stopwatch/timer 
 * a chair 
-* and video recording capabilities 
+* video recording capabilities 
 
 Ideally, two trained experimenters will perform all of the experimenting and dog handling, but if necessary a single trained experimenter can instruct the dog's guardian in the role of handler. Participating researchers will need to provide proof of ethics (e.g., IACUC) approval from their institution for conducting this study (we are able to advise on obtaining ethics!). 
 
