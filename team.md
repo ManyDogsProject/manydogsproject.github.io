@@ -24,11 +24,15 @@ feature_row:
     alt: "Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
     excerpt: "[University of Arizona](http://u.arizona.edu/~gitag/), Project Coordinator & Experimenter Video Team"
+  - image_path: /assets/images/daniel_horschler.jpg
+    alt: "Daniel Horschler"
+    title: "Daniel Horschler"
+    excerpt: "[University of Arizona](https://www.danielhorschler.com/), Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
     alt: "Madeline Pelgrim"
     title: "Madeline Pelgrim"
     excerpt: "Brown University, Methods Team & Experimenter Video Team"
-  - image_path: /assets/images/transparent_square.png
+#  - image_path: /assets/images/transparent_square.png
   - image_path: /assets/images/jeff_stevens.jpg
     alt: "Jeffrey Stevens"
     title: "Jeffrey Stevens"
