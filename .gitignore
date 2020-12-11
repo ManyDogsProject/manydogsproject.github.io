@@ -7,6 +7,8 @@ Gemfileold
 
 # File types
 *.backup
+*_orig.jpg
+*_orig.jpeg
 
 # R Project files
 .Rproj.user
