@@ -155,11 +155,11 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Analytics
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "G-B5P7JCFX7F"
-    anonymize_ip: true
+#analytics:
+#  provider: "google"
+#  google:
+#    tracking_id: "G-B5P7JCFX7F"
+#    anonymize_ip: true
 
 # Outputting
 #permalink: /:categories/:title/
@@ -178,3 +178,5 @@ defaults:
       related: true
       
 github: [metadata]      
+
+environment: production
