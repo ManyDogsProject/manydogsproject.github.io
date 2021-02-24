@@ -9,8 +9,6 @@ permalink: /collaborators/
 # ManyDogs 1 Collaborators <br>
 These research groups are registered collaborators in the first ManyDogs study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process. 
 
-* [The Dog Cognition Lab](https://dogcognition.weebly.com/), _Barnard College_ <br>
-	<span style="color:#25679E;">Team Captain: Alexandra Horowitz</span>
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
 	<span style="color:#25679E;">Team Captain: Molly Byrne</span>
 * Canine Cognition Lab, _Brown University_ <br>
