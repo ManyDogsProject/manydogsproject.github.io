@@ -11,7 +11,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
 	<span style="color:#25679E;">Team Captain: Molly Byrne</span>
-* [Canine Cognition Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
+* [Brown Dog Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
 	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
 * [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
 	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
