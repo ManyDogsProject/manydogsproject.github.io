@@ -7,11 +7,11 @@ permalink: /collaborators/
 ---
 
 # ManyDogs 1 Collaborators <br>
-These research groups are registered collaborators in the first ManyDogs study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process. 
+These research groups are registered collaborators in the first ManyDogs study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process.
 
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
 	<span style="color:#25679E;">Team Captain: Molly Byrne</span>
-* Canine Cognition Lab, _Brown University_ <br>
+* [Canine Cognition Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
 	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
 * [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
 	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
@@ -32,9 +32,9 @@ These research groups are registered collaborators in the first ManyDogs study a
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/en/messerli/science/cognition/canines/dogs-clever-dog-lab/the-clever-dog-lab/), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
-	<span style="color:#25679E;">Team Captain: Zachary Silver</span>	
+	<span style="color:#25679E;">Team Captain: Zachary Silver</span>
 
 # Many-X Collaborators
-We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration. 
-* [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology. 
-* [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research. 
+We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration.
+* [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology.
+* [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research.
