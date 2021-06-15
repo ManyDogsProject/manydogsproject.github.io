@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/daniel_horschler.jpg
     alt: "Daniel Horschler"
     title: "Daniel Horschler"
-    excerpt: "[University of Arizona](https://www.danielhorschler.com/), Data Team"
+    excerpt: "[Yale University](https://www.danielhorschler.com/), Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
     alt: "Madeline Pelgrim"
     title: "Madeline Pelgrim"
