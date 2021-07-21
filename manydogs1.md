@@ -29,6 +29,6 @@ Ideally, two trained experimenters will perform all of the experimenting and dog
 
 For a comprehensive overview of ManyDogs 1 and instructions on how to get involved in different aspects of the study, hit the button below and also see the ManyDogs [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing). The ManyDogs 1 [Protocol](https://docs.google.com/document/d/1IV2h2YXmyYpOw0U3IgxxQZD8zlkc0VHcencWx1fJm4s/edit?usp=sharing) contains the detailed experimental protocol for collaborators and information on collecting and submitting data.  
 
-We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/).
+We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
 
 <p align="center"><a href="/getinvolved" class="btn btn--primary">Get Involved!</a></p>
