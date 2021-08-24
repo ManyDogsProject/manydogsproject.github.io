@@ -27,7 +27,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Jeffrey Stevens</span>
 * [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_ <br>
 	<span style="color:#25679E;">Team Captain: Juliane Kaminski</span>
-*[Consultorio comportamentale](https://www.unime.it/it/dipartimenti/vet), _Università degli Studi di Messina_<br> 
+* [Consultorio comportamentale](https://www.unime.it/it/dipartimenti/vet), _Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captains: Daniela Alberghina</span>
 * [The Canine Cognition Lab](http://www.torontodoglab.com/), _University of Toronto_ <br>
 	<span style="color:#25679E;">Team Captain: Julia Espinosa</span>
