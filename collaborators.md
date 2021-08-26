@@ -23,6 +23,8 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Monique Udell</span>
 * [Consultorio comportamentale](https://www.unime.it/it/dipartimenti/vet), _Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
+* [DogUP](https://www.dogsup.it/), _Università degli Studi di Padova_<br>
+	<span style="color:#25679E;">Team Captain: Paolo Mongillo</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
 	<span style="color:#25679E;">Team Captains: Emily Bray, Gitanjali Gnanadesikan, & Evan MacLean</span>
 * [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_ <br>
