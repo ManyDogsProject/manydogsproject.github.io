@@ -16,7 +16,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 * [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
 	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
-	<span style="color:#25679E;">Team Captains: Sarah Byosiere</span>
+	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
 	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
 * [Human-Animal Interaction Lab](https://thehumananimalbond.com/), _Oregon State University_ <br>
