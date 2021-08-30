@@ -21,7 +21,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
 * [Human-Animal Interaction Lab](https://thehumananimalbond.com/), _Oregon State University_ <br>
 	<span style="color:#25679E;">Team Captain: Monique Udell</span>
-* [Consultorio comportamentale](https://www.unime.it/it/dipartimenti/vet), _Università degli Studi di Messina_<br> 
+* [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
 * [DogUP](http://www.dogup.it/), _Università degli Studi di Padova_<br>
 	<span style="color:#25679E;">Team Captain: Paolo Mongillo</span>
