@@ -27,6 +27,8 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Paolo Mongillo</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
 	<span style="color:#25679E;">Team Captains: Emily Bray, Gitanjali Gnanadesikan, & Evan MacLean</span>
+* Animal Health and Welfare Centre, _University Centre Sparsholt_ <br>
+	<span style="color:#25679E;">Team Captain: Marianne Freeman</span>
 * [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_ <br>
 	<span style="color:#25679E;">Team Captain: Jeffrey Stevens</span>
 * [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_ <br>
