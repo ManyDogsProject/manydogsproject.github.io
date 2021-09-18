@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/julia_espinosa.jpg
     alt: "Julia Espinosa"
     title: "Julia Espinosa"
-    excerpt: "[University of Toronto](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team & Website Team"
+    excerpt: "[University of Toronto](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team, & Website Team"
   - image_path: /assets/images/gita_gnanadesikan.jpg
     alt: "Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
@@ -36,8 +36,8 @@ feature_row:
   - image_path: /assets/images/jeff_stevens.jpg
     alt: "Jeffrey Stevens"
     title: "Jeffrey Stevens"
-    excerpt: "[University of Nebraska-Lincoln](https://dogcog.unl.edu/people), Data Team & Website Team"
- 
+    excerpt: "[University of Nebraska-Lincoln](https://dogcog.unl.edu/people), Project Coordinator, Data Team, & Website Team"
+
 ---
 
 # The ManyDogs 1 Team
@@ -49,13 +49,13 @@ Meet our team of individuals that are responsible for organizing ManyDogs, and c
 * [Daphna Buchsbaum](http://www.cocodevlab.com/principal-investigator.html/), _Brown University_<br>
   Project Coordinator
 
-* [Sarah-Elizabeth Byosiere](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), _Hunter College_ <br> 
+* [Sarah-Elizabeth Byosiere](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), _Hunter College_ <br>
   Project Coordinator
 
 * [Molly Byrne](https://sites.bc.edu/doglab/people/), _Boston College_<br>
   Methods Team
 
-* [Julia Espinosa](https://sites.google.com/view/jespinosa), _University of Toronto_<br> 
+* [Julia Espinosa](https://sites.google.com/view/jespinosa), _University of Toronto_<br>
   Project Coordinator, Data Team & Website Team
 
 * [Gitanjali E. Gnanadesikan](http://u.arizona.edu/~gitag/), _University of Arizona_<br>
