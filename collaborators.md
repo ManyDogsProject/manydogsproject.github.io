@@ -35,7 +35,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Juliane Kaminski</span>
 * [The Canine Cognition Lab](http://www.torontodoglab.com/), _University of Toronto_ <br>
 	<span style="color:#25679E;">Team Captain: Julia Espinosa</span>
-* [The Clever Dog Lab](https://www.vetmeduni.ac.at/en/messerli/science/cognition/canines/dogs-clever-dog-lab/the-clever-dog-lab/), _University of Veterinary Medicine Vienna_ <br>
+* [The Clever Dog Lab](https://www.vetmeduni.ac.at/cleverdoglab), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
 	<span style="color:#25679E;">Team Captain: Zachary Silver</span>
