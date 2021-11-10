@@ -12,7 +12,7 @@ The first ManyDogs study investigates domestic dogs' understanding of a common h
 
 In addition to directly addressing the question of how dogs are perceiving point gestures, ManyDogs 1 will allow us to investigate various methodological differences (e.g. indoor/outdoor testing, room size, owner presence) that can influence dog behavior. To answer these questions, we have implemented an approach in which the core methodological details are standardized across all participating labs, but other aspects are allowed to vary and are recorded for subsequent exploratory analyses. Some of these other aspects include dog breed, sex, and age. When collected on a small scale in a single lab it can be challenging to gather enough data to get a satisfying answer. Collectively, this multi-lab study will help us gain a better understanding of the factors that influence dog behavior.  
 
-We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study (accepted in principle at _Animal Behavior and Cognition_) is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
+We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study (pre-registered report accepted in principle at _Animal Behavior and Cognition_) is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
 
 ## Implementing ManyDogs 1 at your site
 
