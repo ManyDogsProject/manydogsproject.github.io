@@ -6,11 +6,13 @@ permalink: /md1/
 
 ---
 
-# ManyDogs 1: Social Communication
+# ManyDogs 1: Dog-human social interaction
 
 The first ManyDogs study investigates domestic dogs' understanding of a common human gesture, the point. Previous research shows that dogs usually follow pointing cues, but whether they do so because they are following a communicative cue from a human partner or because they feel compelled to follow the gesture as a command is still debated. 
 
 In addition to directly addressing the question of how dogs are perceiving point gestures, ManyDogs 1 will allow us to investigate various methodological differences (e.g. indoor/outdoor testing, room size, owner presence) that can influence dog behavior. To answer these questions, we have implemented an approach in which the core methodological details are standardized across all participating labs, but other aspects are allowed to vary and are recorded for subsequent exploratory analyses. Some of these other aspects include dog breed, sex, and age. When collected on a small scale in a single lab it can be challenging to gather enough data to get a satisfying answer. Collectively, this multi-lab study will help us gain a better understanding of the factors that influence dog behavior.  
+
+We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study (accepted in principle at _Animal Behavior and Cognition_) is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
 
 ## Implementing ManyDogs 1 at your site
 
@@ -29,6 +31,5 @@ Ideally, two trained experimenters will perform all of the experimenting and dog
 
 For a comprehensive overview of ManyDogs 1 and instructions on how to get involved in different aspects of the study, hit the button below and also see the ManyDogs [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing). The ManyDogs 1 [Protocol](https://docs.google.com/document/d/1IV2h2YXmyYpOw0U3IgxxQZD8zlkc0VHcencWx1fJm4s/edit?usp=sharing) contains the detailed experimental protocol for collaborators and information on collecting and submitting data.  
 
-We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
 
 <p align="center"><a href="/getinvolved" class="btn btn--primary">Get Involved!</a></p>
