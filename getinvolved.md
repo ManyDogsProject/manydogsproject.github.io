@@ -14,7 +14,7 @@ At this time, **we have an open call for contributors** who are able to collect 
 
 If you would like to get involved but do not have a site for behavioural data collection, please get in touch anyway! There are administrative, funding acquisition, and creative roles within ManyDogs that can lead to authorship on this or subsequent studies. 
 
-If you want to participate in ManyDogs 1 with your dog, check out our [Collaborators](/collaborators) for a complete list of the locations where ManyDogs 1 is taking place. If there's a location near you, we suggest that you reach out to them for details on how to sign up with their institution.
+If you want to participate in ManyDogs 1 with your dog, check out our [Collaborators](/collaborators) for a complete list of the locations where ManyDogs 1 is being offered. If there's a location near you, we recommend that you reach out to them for details on how to sign up for their research program.
 
 # Join Our Communication Network
 
