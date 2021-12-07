@@ -29,7 +29,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captains: Emily Bray, Gitanjali Gnanadesikan, & Evan MacLean</span>
 * [Animal Health and Welfare Centre](https://www.sparsholt.ac.uk/ucs-animal-zoo-management-facilities/), _University Centre Sparsholt_ <br>
 	<span style="color:#25679E;">Team Captain: Marianne Freeman</span>
-*[Canine Language Perception Lab](http://dogs.umd.edu), _University of Maryland, College Park_ <br>
+* [Canine Language Perception Lab](http://dogs.umd.edu), _University of Maryland, College Park_ <br>
 	<span style="color:#25679E;">Team Captain: Emily Shroads</span>
 * [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_ <br>
 	<span style="color:#25679E;">Team Captain: Jeffrey Stevens</span>
