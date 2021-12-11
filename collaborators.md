@@ -37,6 +37,8 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Juliane Kaminski</span>
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/cleverdoglab), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
+* Laboratory for Comparative Ethnobiology, _Washington State University_ <br>
+	<span style="color:#25679E;">Team Captain: Marsha Quinlan</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
 	<span style="color:#25679E;">Team Captains: Daniel Horschler & Zachary Silver</span>
 
