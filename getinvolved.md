@@ -10,7 +10,7 @@ permalink: /getinvolved/
 
 There are multiple ways that you can get involved in ManyDogs, and contributors at all stages of their careers (Undergraduate to Professor Emeritus) are very welcome to join the project.  
 
-At this time, **we have an open call for contributors** who are able to collect data for ManyDogs 1. If your research site would like to register for data collection, please read the [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing)  before registering through our [Contributor Sign-Up Survey](https://bit.ly/2OQujZZ).
+At this time, **we have an open call for contributors** who are able to collect data for ManyDogs 1. If your research site would like to register for data collection, please read the [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing)  before registering through our [Contributor Sign-Up Survey](https://bit.ly/md1contributor).
 
 If you would like to get involved but do not have a site for behavioural data collection, please get in touch anyway! There are administrative, funding acquisition, and creative roles within ManyDogs that can lead to authorship on this or subsequent studies. 
 
