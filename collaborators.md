@@ -44,7 +44,12 @@ These research groups are registered collaborators in the first ManyDogs study a
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
 	<span style="color:#25679E;">Team Captains: Daniel Horschler & Zachary Silver</span>
 
+### Map of labs
+<iframe height="350" width="500" src="../assets/html/na_labs.html" title="Interactive map of labs in North America and Europe" style="border:none;" ></iframe>
+Hover over dots to see lab names, and drag map to Europe to see our European labs.
+
 # Many-X Collaborators
 We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration.
 * [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology.
 * [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research.
+
