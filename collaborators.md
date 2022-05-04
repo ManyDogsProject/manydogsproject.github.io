@@ -21,8 +21,6 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
 	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
-* [Human-Animal Interaction Lab](https://thehumananimalbond.com/), _Oregon State University_ <br>
-	<span style="color:#25679E;">Team Captain: Monique Udell</span>
 * [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
