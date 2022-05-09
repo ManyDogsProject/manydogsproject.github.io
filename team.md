@@ -12,10 +12,6 @@ feature_row:
     alt: "Sarah-Elizabeth Byosiere"
     title: "Sarah-Elizabeth Byosiere"
     excerpt: "[Hunter College](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), Project Coordinator"
-  - image_path: /assets/images/molly_byrne.jpg
-    alt: "Molly Byrne"
-    title: "Molly Byrne"
-    excerpt: "[Boston College](https://sites.bc.edu/doglab/people/), Methods Team"
   - image_path: /assets/images/julia_espinosa.jpg
     alt: "Julia Espinosa"
     title: "Julia Espinosa"
