@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/gita_gnanadesikan.jpg
     alt: "Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
-    excerpt: "[University of Arizona](http://u.arizona.edu/~gitag/), Project Coordinator & Experimenter Video Team"
+    excerpt: "[University of Arizona](http://u.arizona.edu/~gitag/), Project Coordinator, Experimenter Video Team, & Methods Team"
   - image_path: /assets/images/daniel_horschler.jpg
     alt: "Daniel Horschler"
     title: "Daniel Horschler"
