@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/madeline_pelgrim.jpg
     alt: "Madeline Pelgrim"
     title: "Madeline Pelgrim"
-    excerpt: "Brown University, Methods Team & Experimenter Video Team"
+    excerpt: "[Brown University](https://mpelgrim.github.io/), Methods Team & Experimenter Video Team"
 #  - image_path: /assets/images/transparent_square.png
   - image_path: /assets/images/jeff_stevens.jpg
     alt: "Jeffrey Stevens"
