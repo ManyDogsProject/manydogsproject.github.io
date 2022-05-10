@@ -15,8 +15,6 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
 * [Canine Companions](https://canine.org/), _Canine Companions_ <br>
 <span style="color:#25679E;">Team Captain: Emily Bray</span>
-* [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
-	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
@@ -35,12 +33,12 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Jeffrey Stevens</span>
 * [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_ <br>
 	<span style="color:#25679E;">Team Captain: Jennifer Leighton</span>
+* [Comparative Cognitive Science Lab](http://www.ccsl.uniri.hr/), _University of Rijeka_ <br>
+	<span style="color:#25679E;">Team Captain: Ljerka Ostojić</span>
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/cleverdoglab), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
-* Laboratory for Comparative Ethnobiology, _Washington State University_ <br>
-	<span style="color:#25679E;">Team Captain: Marsha Quinlan</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
-	<span style="color:#25679E;">Team Captains: Daniel Horschler & Zachary Silver</span>
+	<span style="color:#25679E;">Team Captains: Daniel Horschler, Emily Richards, & Zachary Silver</span>
 
 ### Map of labs
 <iframe height="350" width="500" src="../assets/html/na_labs.html" title="Interactive map of labs in North America and Europe" style="border:none;" ></iframe>
