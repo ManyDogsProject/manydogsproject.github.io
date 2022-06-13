@@ -24,7 +24,7 @@ These research groups are registered collaborators in the first ManyDogs study a
 * [Canid Behavior Research Group](https://www.canids.com.ar/), _National Scientific and Technical Research Council_ <br>
 	<span style="color:#25679E;">Team Captain: Mariana Bentosela</span>
 * [Social Cognition Lab](https://www.socialcognitionlab.com/), _Queen's University_<br>
-	<span style="color:#25679E;">Team Captain: Valerie Kuklmeier</span>
+	<span style="color:#25679E;">Team Captain: Valerie Kuhlmeier</span>
 * [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
