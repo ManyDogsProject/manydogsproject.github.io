@@ -15,10 +15,16 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
 * [Canine Companions](https://canine.org/), _Canine Companions_ <br>
 <span style="color:#25679E;">Team Captain: Emily Bray</span>
+* [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
+	<span style="color:#25679E;">Team Captains: Hannah Salomons</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
 	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
+* [Canid Behavior Research Group](https://www.canids.com.ar/), _National Scientific and Technical Research Council_ <br>
+	<span style="color:#25679E;">Team Captain: Mariana Bentosela</span>
+* [Social Cognition Lab](https://www.socialcognitionlab.com/), _Queen's University_<br>
+	<span style="color:#25679E;">Team Captain: Valerie Kuklmeier</span>
 * [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br> 
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
@@ -37,6 +43,8 @@ These research groups are registered collaborators in the first ManyDogs study a
 	<span style="color:#25679E;">Team Captain: Ljerka Ostojić</span>
 * [The Clever Dog Lab](https://www.vetmeduni.ac.at/cleverdoglab), _University of Veterinary Medicine Vienna_ <br>
 	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
+* [Department of Psychology of Individual Differences], _University of Warsaw_ <br>
+	<span style="color:#25679E;">Team Captains: Marta Golańska</span>
 * [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
 	<span style="color:#25679E;">Team Captains: Daniel Horschler, Emily Richards, & Zachary Silver</span>
 
