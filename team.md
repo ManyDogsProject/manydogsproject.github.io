@@ -6,18 +6,18 @@ permalink: /team/
 feature_row:
   - image_path: /assets/images/mikey_bogese.jpg
     alt: "Headshot of Mikey Bogese"
-    title: "Mikey Bogese"
-    excerpt: "[Hunter College](https://sites.google.com/view/huntertdc/who-are-we), Project Administrator"
+    title: "Mikey<br> Bogese"
+    excerpt: "[Hunter College](https://sites.google.com/view/huntertdc/who-are-we),<br> Project Administrator"
   - image_path: /assets/images/daphna_buchsbaum.jpg
     alt: "Headshot of Daphna Buchsbaum"
     title: "Daphna Buchsbaum"
     excerpt: "[Brown University](http://www.cocodevlab.com/principal-investigator.html/), Project Coordinator"
   - image_path: /assets/images/sarah_byosiere.jpg
-    alt: "Headshot of Sarah-Elizabeth Byosiere"
+    alt: "Headshot of Sarah-Elizabeth Byosiere with Sadie the black Labrador/Golden Retriever Cross"
     title: "Sarah-Elizabeth Byosiere"
-    excerpt: "[Hunter College](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), Project Coordinator"
+    excerpt: "[Hunter College](https://sarahbyosiere.wixsite.com/sarahbyosiere/about),<br> Project Coordinator"
   - image_path: /assets/images/julia_espinosa.jpg
-    alt: "Headshot of Julia Espinosa"
+    alt: "Headshot of Julia Espinosa holding Winnie the Pembroke Welsh Corgi in a field of yellow flowers"
     title: "Julia Espinosa"
     excerpt: "[University of Toronto](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team, & Website Team"
   - image_path: /assets/images/gita_gnanadesikan.jpg
@@ -27,16 +27,16 @@ feature_row:
   - image_path: /assets/images/daniel_horschler.jpg
     alt: "Headshot of Daniel Horschler"
     title: "Daniel Horschler"
-    excerpt: "[Yale University](https://www.danielhorschler.com/), Data Team"
+    excerpt: "[Yale University](https://www.danielhorschler.com/),<br> Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
     alt: "Headshot of Madeline Pelgrim"
     title: "Madeline Pelgrim"
     excerpt: "[Brown University](https://mpelgrim.github.io/), Methods Team & Experimenter Video Team"
 #  - image_path: /assets/images/transparent_square.png
   - image_path: /assets/images/jeff_stevens.jpg
-    alt: "Headshot of Jeffrey Stevens petting brown Catahoula leopard dog"
+    alt: "Headshot of Jeffrey Stevens with Koda the brown Catahoula leopard dog"
     title: "Jeffrey Stevens"
-    excerpt: "[University of Nebraska-Lincoln](https://dogcog.unl.edu/people), Project Coordinator, Data Team, & Website Team"
+    excerpt: "[University of Nebraska-Lincoln](https://dogcog.unl.edu/people),<br> Project Coordinator, Data Team, & Website Team"
 
 ---
 

@@ -4,6 +4,7 @@ layout: single
 tagline: "Welcome to the ManyDogs project!"
 header:
   overlay_image: /assets/images/many_dogs_banner_wide.jpg
+  image_alt: "Wide image of four puppies looking at camera."
   caption: "Photo credit: [Eddie Galaxy](https://www.pexels.com/@eddie-galaxy-727497?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)"
   show_overlay_excerpt: true
 
@@ -19,4 +20,4 @@ By forming the ManyDogs consortium, we are establishing a collegial platform for
 
 We are currently running our first study, ManyDogs 1, on dog-human social communication. The aim of ManyDogs 1 is to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We are currently investigating this by running a single study with standardized methodology in a large number of labs. Participating labs are currently based in North America and Europe, and we hope more researchers from around the world will join us. For more information on this study and how to get involved, please see the [ManyDogs 1](md1) section of this website. 
 
-![ManyDogs banner]({{ site.url }}/assets/images/manydogs_banner.png)
+![ManyDogs banner with the words Many Dogs and three overlaid dog silouettes (yellow dachshund, orange Laborador retriever, and blue German shepard) jumping in the air.]({{ site.url }}/assets/images/manydogs_banner.png)

@@ -47,7 +47,7 @@ These research groups are registered collaborators in the [first ManyDogs](manyd
 	<span style="color:#25679E;">Team Captains: Daniel Horschler, Emily Richards, & Zachary Silver</span>
 
 ### Map of labs
-<iframe height="350" width="500" src="../assets/html/na_labs.html" title="Interactive map of labs in North America and Europe" style="border:none;" ></iframe>
+<iframe height="350" width="500" src="../assets/html/na_labs.html" title="Interactive map of labs in North America and Europe" alt="Map of North America with dots representing the location of each ManyDogs lab." style="border:none;" ></iframe>
 Hover over dots to see lab names, and drag map to Europe to see our European labs.
 
 
