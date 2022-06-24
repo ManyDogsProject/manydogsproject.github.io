@@ -4,33 +4,37 @@ title: ""
 permalink: /team/
 # author_profile: true
 feature_row:
+  - image_path: /assets/images/mikey_bogese.jpg
+    alt: "Headshot of Mikey Bogese"
+    title: "Mikey Bogese"
+    excerpt: "[Hunter College](https://sites.google.com/view/huntertdc/who-are-we), Project Administrator"
   - image_path: /assets/images/daphna_buchsbaum.jpg
-    alt: "Daphna Buchsbaum"
+    alt: "Headshot of Daphna Buchsbaum"
     title: "Daphna Buchsbaum"
     excerpt: "[Brown University](http://www.cocodevlab.com/principal-investigator.html/), Project Coordinator"
   - image_path: /assets/images/sarah_byosiere.jpg
-    alt: "Sarah-Elizabeth Byosiere"
+    alt: "Headshot of Sarah-Elizabeth Byosiere"
     title: "Sarah-Elizabeth Byosiere"
     excerpt: "[Hunter College](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), Project Coordinator"
   - image_path: /assets/images/julia_espinosa.jpg
-    alt: "Julia Espinosa"
+    alt: "Headshot of Julia Espinosa"
     title: "Julia Espinosa"
     excerpt: "[University of Toronto](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team, & Website Team"
   - image_path: /assets/images/gita_gnanadesikan.jpg
-    alt: "Gitanjali Gnanadesikan"
+    alt: "Headshot of Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
     excerpt: "[University of Arizona](http://u.arizona.edu/~gitag/), Project Coordinator, Experimenter Video Team & Methods Team"
   - image_path: /assets/images/daniel_horschler.jpg
-    alt: "Daniel Horschler"
+    alt: "Headshot of Daniel Horschler"
     title: "Daniel Horschler"
     excerpt: "[Yale University](https://www.danielhorschler.com/), Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
-    alt: "Madeline Pelgrim"
+    alt: "Headshot of Madeline Pelgrim"
     title: "Madeline Pelgrim"
     excerpt: "[Brown University](https://mpelgrim.github.io/), Methods Team & Experimenter Video Team"
 #  - image_path: /assets/images/transparent_square.png
   - image_path: /assets/images/jeff_stevens.jpg
-    alt: "Jeffrey Stevens"
+    alt: "Headshot of Jeffrey Stevens petting brown Catahoula leopard dog"
     title: "Jeffrey Stevens"
     excerpt: "[University of Nebraska-Lincoln](https://dogcog.unl.edu/people), Project Coordinator, Data Team, & Website Team"
 
