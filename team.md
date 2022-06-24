@@ -18,8 +18,8 @@ feature_row:
     excerpt: "[Hunter College](https://sarahbyosiere.wixsite.com/sarahbyosiere/about), Project Coordinator"
   - image_path: /assets/images/julia_espinosa.jpg
     alt: "Headshot of Julia Espinosa"
-    title: "Julia Espinosa"
-    excerpt: "[University of Toronto](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team, & Website Team"
+    title: "Julia Espinosa holding Winnie the Pembroke Welsh Corgi"
+    excerpt: "[Harvard University](https://sites.google.com/view/jespinosa), Project Coordinator, Data Team, & Website Team"
   - image_path: /assets/images/gita_gnanadesikan.jpg
     alt: "Headshot of Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
@@ -29,7 +29,7 @@ feature_row:
     title: "Daniel Horschler"
     excerpt: "[Yale University](https://www.danielhorschler.com/), Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
-    alt: "Headshot of Madeline Pelgrim"
+    alt: "Headshot of Madeline Pelgrim with Loki the Golden Retriever"
     title: "Madeline Pelgrim"
     excerpt: "[Brown University](https://mpelgrim.github.io/), Methods Team & Experimenter Video Team"
 #  - image_path: /assets/images/transparent_square.png
