@@ -12,7 +12,7 @@ There are multiple ways that you can get involved in ManyDogs, and contributors 
 
 ## The overall project
 
-The ManyDogs Project is a large group of researchers who hope to conduct a number of studies over the next several years. If you're interested in becoming a member of the overall project, please complete the [Member Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdf_VKUTtblsFNOKItO1W67zQz5Po2NKYMD71k4z5gh_Inuyg/). If you want to participate in a particular study, (e.g., ManyDogs 1), no need to complete the Member Registration Form---just skip down to the Contributor Sign-Up Survey below for the study you're interested in.
+The ManyDogs Project is a large group of researchers who hope to conduct a number of studies over the next several years. If you're interested in becoming a member of the overall project, please complete the [Member Registration Form](https://forms.gle/nERgQYgAWTDgAza67). If you want to participate in a particular study, (e.g., ManyDogs 1), no need to complete the Member Registration Form---just skip down to the Contributor Sign-Up Survey below for the study you're interested in.
 
 ## ManyDogs 1
 
