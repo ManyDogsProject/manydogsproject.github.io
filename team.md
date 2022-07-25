@@ -24,10 +24,10 @@ feature_row:
     alt: "Headshot of Gitanjali Gnanadesikan"
     title: "Gitanjali Gnanadesikan"
     excerpt: "[University of Arizona](http://u.arizona.edu/~gitag/), Project Coordinator, Experimenter Video Team & Methods Team"
-  - image_path: /assets/images/daniel_horschler.jpg
-    alt: "Headshot of Daniel Horschler"
-    title: "Daniel Horschler"
-    excerpt: "[Yale University](https://www.danielhorschler.com/),<br> Data Team"
+  - image_path: /assets/images/liz_hare.jpg
+    alt: "Headshot of Elizabeth Hare"
+    title: "Elizabeth Hare"
+    excerpt: "[Dog Genetics LLC](http://doggenetics.com/),<br> Data Team"
   - image_path: /assets/images/madeline_pelgrim.jpg
     alt: "Headshot of Madeline Pelgrim with Loki the Golden Retriever"
     title: "Madeline Pelgrim"
