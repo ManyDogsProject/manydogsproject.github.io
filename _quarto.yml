@@ -6,14 +6,16 @@ website:
   favicon: images/favicon.ico
   navbar:
     left:
-      - href: manydogs1.qmd
-        text: ManyDogs1
       - href: getinvolved.qmd
         text: Get Involved
-      - href: collaborators.qmd
-        text: Collaborators
-      - href: team.qmd
-        text: Team
+      - text: "ManyDogs1"
+        menu:
+        - href: manydogs1.qmd
+          text: Project
+        - href: collaborators.qmd
+          text: Collaborators
+        - href: team.qmd
+          text: Team
       - href: contact.qmd
         text: Contact
 
