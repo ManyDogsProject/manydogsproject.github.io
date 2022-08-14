@@ -3,25 +3,22 @@
 This repo contains the source code for the [ManyDogs Project website](https://manydogsproject.github.io/).
 
 ## Site info
-* This site uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme and is built with [Jekyll](https://jekyllrb.com/).
+* This site is built with [Quarto](https://quarto.org/).
 
 ## Making changes to the content
 
 - Pull any remote changes to your local repo (i.e., make sure you have the latest version).
-- Edit the Markdown `.md` files. When you push changes to the remote repo, GitHub will build the site (typically within a few minutes).
-- Put images in the `assets/images` folder.
+- Edit the Quarto Markdown `.qmd` files and push changes to the remote repo. Then use `quarto publish gh-pages` from your terminal (not in the R console).
+- Put images in the `images` folder.
 - Use relative URLs whenever possible, e.g., `pilot.html` instead of `https://manydogsproject.github.io/pilot.html`.
 - **Do not touch the files in the folders that start with an underscore `_` unless you're sure you know what you're doing!**
 
 ## Setting up a local site to preview changes
 
 - Clone the GitHub repo on your local machine.
-- Install Jekyll: `gem install bundler jekyll`.
-    - If that gives you any errors, Google them... or check [Jekyll's documentation](https://jekyllrb.com/docs/installation/).
-- Install jekyll-seo-tag: `gem install bundler jekyll-seo-tag`.
+- Install [Quarto](https://quarto.org/docs/get-started/).
 - `cd` into the Git repo for the website.
-- Build the local Jekyll site: `bundle exec jekyll serve`.
-- Open your browser and go to: `http://localhost:4000`.
+- Preview the local site: `quarto preview`.
 - You should see any changes you save on your local `.md` files (refresh).
 - Push your changes when you're happy with the preview!
 
