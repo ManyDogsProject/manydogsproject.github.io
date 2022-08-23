@@ -14,6 +14,8 @@ These research groups are registered collaborators in the [first ManyDogs](manyd
 	<span style="color:#25679E;">Team Captain: Emily Bray</span>
 * [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
 	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
+* [The Family Dog Project](https://familydogproject.elte.hu/)	, _Eötvös Loránd University_ <br>
+  <span style="color:#25679E;">Team Captain: Andrea Sommese</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
 * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
@@ -44,7 +46,7 @@ These research groups are registered collaborators in the [first ManyDogs](manyd
 	<span style="color:#25679E;">Team Captains: Daniel Horschler, Emily Richards, & Zachary Silver</span>
 
 ### Map of labs
-<iframe height="400" width="600" src="images/html/all_labs.html" title="Interactive map of labs" alt="Map of world with dots representing the location of each ManyDogs lab." style="border:none;"  data-external="1"></iframe>
+<iframe height="400" width="600" src="images/html/md1_labs.html" title="Interactive map of labs" alt="Map of world with dots representing the location of each ManyDogs lab." style="border:none;"  data-external="1"></iframe>
 Hover over dots to see lab names, and zoom and drag map to explore lab locations more closely.
 
 # Many-X Collaborators
