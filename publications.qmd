@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+# Publications
+
+## Preprints
+
+ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N. A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V. A., MacLean, E., Pelgrim, M. H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & Stevens, J. R. (2022). [ManyDogs Project: A big team science approach to investigating canine behavior and cognition](https://doi.org/10.31234/osf.io/j82uc)  _PsyArXiv_.
+
+* This article introduces the ManyDogs Project by discussing the importance of studying canine behavioral science, situating ManyDogs among other examples of large-scale canine science, and describing the core aims of the ManyDogs Project.
+
+ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., Stevens, J. R., Völter, C., & Zipperling, L. (2021). [ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension](https://doi.org/10.31234/osf.io/f86jq) _PsyArXiv_. 
+
+* This article is a Stage 1 Registered Report at [_Animal Behavior & Cognition_](https://www.animalbehaviorandcognition.org/) [we are currently collecting data]. It describes [ManyDogs 1](manydogs1.html), the first empirical study to come out of the ManyDogs Project that evaluates domestic dogs’ understanding of a common human gesture, the point.
+
+

@@ -16,6 +16,8 @@ website:
           text: Collaborators
         - href: team.qmd
           text: Team
+      - href: publications.qmd
+        text: Publications
       - href: contact.qmd
         text: Contact
 
