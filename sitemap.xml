@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/collaborators.html</loc>
-    <lastmod>2022-08-28T16:56:10.440Z</lastmod>
+    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/getinvolved.html</loc>
+    <lastmod>2022-09-02T22:20:12.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/publications.html</loc>
+    <lastmod>2022-09-02T22:20:13.270Z</lastmod>
   </url>
   <url>
     <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/contact.html</loc>
-    <lastmod>2022-08-28T16:56:10.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/getinvolved.html</loc>
-    <lastmod>2022-08-28T16:56:11.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/index.html</loc>
-    <lastmod>2022-08-28T16:56:12.072Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/manydogs1.html</loc>
-    <lastmod>2022-08-28T16:56:12.492Z</lastmod>
+    <lastmod>2022-09-02T22:20:13.566Z</lastmod>
   </url>
   <url>
     <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/team.html</loc>
-    <lastmod>2022-08-28T16:56:13.004Z</lastmod>
+    <lastmod>2022-09-02T22:20:13.874Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/manydogs1.html</loc>
+    <lastmod>2022-09-02T22:20:14.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/collaborators.html</loc>
+    <lastmod>2022-09-02T22:20:14.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ManyDogsProject.github.io/manydogsproject.github.io/index.html</loc>
+    <lastmod>2022-09-02T22:20:14.698Z</lastmod>
   </url>
 </urlset>
