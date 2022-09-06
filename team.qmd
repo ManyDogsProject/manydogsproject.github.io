@@ -1,0 +1,104 @@
+---
+title: ""
+---
+
+<style>
+figure {
+  margin:2px;
+  display:inline-block;
+  vertical-align:top;
+  border:solid gray;
+  text-align:center;
+  position:relative;
+  padding-bottom:9em;
+}
+figure img {
+  display:block;
+  border:solid white
+}
+figcaption{
+  position:absolute;
+  top:250px;
+  left:0;
+  right:0;
+  padding:0.2em 2px;
+  min-height:3em;
+  opacity:1;
+  transition:0.5s;;
+}
+figcaption p {
+  margin:0;
+}
+
+</style>
+
+# The ManyDogs 1 Team
+Meet our team of individuals that are responsible for organizing ManyDogs, and continue to move the project forward through their time and dedication.  
+
+<div id="gridimg">
+  <figure>
+    <img src="images/mikey_bogese.jpg" id="headshot" alt="Headshot of Mikey Bogese"/>
+    <figcaption>
+      <p id="name-header">Mike Bogese</p>
+      <p><a href="https://sites.google.com/view/huntertdc/who-are-we">Hunter College</a></p>
+      <p>Project Administrator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/daphna_buchsbaum.jpg" id="headshot" alt="Headshot of Daphna Buchsbaum" />
+    <figcaption>
+      <p id="name-header">Daphna Buchsbaum </p>
+      <p><a href="http://www.cocodevlab.com/principal-investigator.html/">Brown University</a></p>
+      <p>Project Coordinator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/sarah_byosiere.jpg" id="headshot" alt="Headshot of Sarah-Elizabeth Byosiere with Sadie the black Labrador/Golden Retriever Cross" />
+    <figcaption>
+      <p id="name-header">Sarah-Elizabeth Byosiere</p>
+      <p><a href="https://sarahbyosiere.wixsite.com/sarahbyosiere/about">Hunter College</a></p>
+      <p>Project Coordinator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/julia_espinosa.jpg" id="headshot" alt="Headshot of Julia Espinosa holding Winnie the Pembroke Welsh Corgi in a field of yellow flowers" />
+    <figcaption>
+      <p id="name-header">Julia Espinosa</p>
+      <p><a href="https://sites.google.com/view/jespinosa">Harvard University</a></p>
+      <p>Project Coordinator, Data Team, & Website Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/gita_gnanadesikan.jpg" id="headshot" alt="Headshot of Gita Gnanadesikan" />
+    <figcaption>
+      <p id="name-header">Gita Gnanadesikan</p>
+      <p><a href="http://u.arizona.edu/~gitag/">University of Arizona</a></p>
+      <p>Project Coordinator, Experimenter Video Team & Methods Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/liz_hare.jpg" id="headshot" alt="Headshot of Elizabeth Hare" />
+    <figcaption>
+      <p id="name-header">Elizabeth Hare</p>
+      <p><a href="http://doggenetics.com/">Dog Genetics LLC</a></p>
+      <p>Data Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/madeline_pelgrim.jpg" id="headshot" alt="Headshot of Madeline Pelgrim with Loki the Golden Retriever" />
+    <figcaption>
+      <p id="name-header">Madeline Pelgrim</p>
+      <p><a href="https://mpelgrim.github.io/">Brown University</a></p>
+      <p>Methods Team & Experimenter Video Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/jeff_stevens.jpg" id="headshot" alt="Headshot of Jeffrey Stevens with Koda the brown Catahoula leopard dog" />
+    <figcaption>
+      <p id="name-header">Jeffrey Stevens</p>
+      <p><a href="https://dogcog.unl.edu/people">University of Nebraska-Lincoln</a></p>
+      <p>Project Coordinator, Data Team, & Website Team</p>
+    </figcaption>
+  </figure>
+</div>
+
