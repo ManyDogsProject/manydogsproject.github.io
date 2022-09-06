@@ -6,6 +6,8 @@ title: ""
 # ManyDogs 1 Collaborators <br>
 These research groups are registered collaborators in the [first ManyDogs](manydogs1) study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process.
 
+* [Auburn Comparative Cognition Lab](https://cla.auburn.edu/auccl/lab-members/) and [Auburn Canine Performance Sciences](https://www.vetmed.auburn.edu/research/cps/), _Auburn University_ <br>
+	<span style="color:#25679E;">Team Captain: Lane Montgomery</span>
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
 	<span style="color:#25679E;">Team Captains: Shennai Palermo & Anya Parks</span>
 * [Brown Dog Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
@@ -18,12 +20,14 @@ These research groups are registered collaborators in the [first ManyDogs](manyd
   <span style="color:#25679E;">Team Captain: Andrea Sommese</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
-* [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
-	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
+* [Canine Research Unit](http://play.psych.mun.ca/cru/), _Memorial University of Newfoundland & Labrador_ <br>
+	<span style="color:#25679E;">Team Captain: Carolyn Walsh</span>
 * [Canid Behavior Research Group](https://www.canids.com.ar/), _National Scientific and Technical Research Council_ <br>
 	<span style="color:#25679E;">Team Captain: Mariana Bentosela</span>
 * [Social Cognition Lab](https://www.socialcognitionlab.com/), _Queen's University_<br>
 	<span style="color:#25679E;">Team Captain: Valerie Kuhlmeier</span>
+* Furlong Lab, _Transylvania University_ <br>
+	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
 * [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br>
 	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
 * [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
