@@ -7,6 +7,7 @@ This repo contains the source code for the [ManyDogs Project website](https://ma
 
 ## Making changes to the content
 
+- Make sure you are on the `gh-pages` branch.
 - Pull any remote changes to your local repo (i.e., make sure you have the latest version).
 - Edit the Quarto Markdown `.qmd` files and push changes to the remote repo. Then use `quarto publish gh-pages` from your terminal (not in the R console).
 - Put images in the `images` folder.
