@@ -4,7 +4,7 @@ title: ""
 ---
 
 # ManyDogs 1 Collaborators <br>
-These research groups are registered collaborators in the [first ManyDogs](manydogs1) study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process.
+These research groups are registered collaborators in the [first ManyDogs](manydogs1.html) study and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process.
 
 * [Auburn Comparative Cognition Lab](https://cla.auburn.edu/auccl/lab-members/) and [Auburn Canine Performance Sciences](https://www.vetmed.auburn.edu/research/cps/), _Auburn University_ <br>
 	<span style="color:#25679E;">Team Captain: Lane Montgomery</span>
