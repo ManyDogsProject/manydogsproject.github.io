@@ -30,6 +30,8 @@ website:
         href: https://github.com/manydogsproject
       - icon: twitter 
         href: https://twitter.com/manydogsproject
+      - icon: mastodon 
+        href: https://fediscience.org/@ManyDogs
       - icon: slack
         href: https://manydogsproject.slack.com/
       - icon: google
