@@ -1,0 +1,59 @@
+---
+layout: single
+title: ""
+permalink: /leadership/
+# author_profile: true
+
+---
+
+# ManyDogs Leadership Team
+
+
+## Co-Directors
+
+### Dr. Sarah-Elizabeth Byosiere, CAAB
+
+::: {.column-margin}
+![](images/sarah_byosiere.jpg)
+:::
+
+[Dr. Byosiere]() a co-founder and co-director of the ManyDogs Project. She is also a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focuses on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center.
+
+
+### Dr. Jeffrey R. Stevens
+
+::: {.column-margin}
+![](images/jeff_stevens.jpg)
+:::
+
+[Dr. Stevens](https://jeffreyrstevens.quarto.pub/) is a Susan J. Rosowski Associate Professor of Psychology at the University of Nebraska-Lincoln, where he leads the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) studying dog behavior/cognition and canine-human interaction. He obtained his undergraduate degree at Baylor University and completed his Ph.D. at the University of Minnesota, followed by a postdoctoral fellowship at Harvard University and a research scientist position at the Max Planck Institute for Human Development. He has worked with 15 different species, ranging from fish to birds to primates. He's now settled down to two: dogs and humans.
+
+
+## Assistant Directors
+
+### Emily Bray - Community Building and Network Expansion
+
+::: {.column-margin}
+![](images/emily_bray.jpg)
+:::
+
+[Dr. Bray](https://www.emilyebray.com/) is a Postdoctoral Research Associate at the [Arizona Canine Cognition Center](https://dogs.arizona.edu/) in the College of Veterinary Medicine and at [Canine Companions](https://canine.org/), the largest US non-profit providing service dogs to people with disabilities. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D. from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, in her postdoctoral research, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions' population.
+
+### Liz Hare -  Data Management and Open Science
+
+::: {.column-margin}
+![](images/liz_hare.jpg)
+:::
+
+[Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center.
+
+
+### Madeline Pelgrim  - Methods Development
+
+::: {.column-margin}
+![](images/madeline_pelgrim.jpg)
+:::
+
+[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment.
+
+
