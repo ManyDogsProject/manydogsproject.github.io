@@ -111,7 +111,7 @@ format:
 
 ### Funding Committee
 
-#### Daphna Buchbaum
+#### Daphna Buchsbaum
 
 ::: {.column-margin}
 ![](images/daphna_buchsbaum.jpg)
