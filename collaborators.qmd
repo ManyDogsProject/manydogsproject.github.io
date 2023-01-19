@@ -1,6 +1,9 @@
 ---
 layout: single
 title: ""
+resources: 
+  - "images/html/md1_labs.html"
+  - "images/html/lib"
 ---
 
 # ManyDogs 1 Collaborators <br>
