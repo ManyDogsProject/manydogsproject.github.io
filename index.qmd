@@ -39,8 +39,17 @@ ManyDogs is an international consortium of researchers interested in Canine Scie
 
 By forming the ManyDogs consortium, we are establishing a collegial platform for addressing new questions and replicating historical findings on a greater scale than has been possible for any single research unit to date. Collectively, we will have the power to address questions such as breed or individual differences, or the impact of culture on behaviour, both of which have important implications for dog-human interaction and general dog welfare.
 
+We have collaborators from all over the world: 
+
+<center>
+<iframe height="400" width="600" src="images/html/md1_labs.html" title="Interactive map of labs" alt="Map of world with dots representing the location of each ManyDogs lab." style="border:none;"  data-external="1"></iframe></center>
+Hover over dots to see lab names, and zoom and drag map to explore lab locations more closely.
+
+
+
 ## ManyDogs 1
 
-We are currently running our first study, ManyDogs 1, on dog-human social communication. The aim of ManyDogs 1 is to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We are currently investigating this by running a single study with standardized methodology in a large number of labs. Participating labs are currently based in North America and Europe, and we hope more researchers from around the world will join us. For more information on this study and how to get involved, please see the [ManyDogs 1](md1) section of this website. 
+We are currently running our first study, ManyDogs 1, on dog-human social communication. The aim of ManyDogs 1 is to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We are currently investigating this by running a single study with standardized methodology in a large number of labs. Participating labs are currently based in North America, South America, and Europe, and we hope more researchers from around the world will join us. For more information on this study, please see the [ManyDogs 1](md1) section of this website. 
 
 ![](assets/images/manydogs_banner.png){fig-alt="ManyDogs banner with the words Many Dogs and three overlaid dog silouettes (yellow dachshund, orange Laborador retriever, and blue German shepard) jumping in the air."}
+

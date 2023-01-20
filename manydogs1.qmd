@@ -1,8 +1,37 @@
 ---
 title: ""
 ---
+<style>
+figure {
+  margin:2px;
+  display:inline-block;
+  vertical-align:top;
+  border:solid gray;
+  text-align:center;
+  position:relative;
+  padding-bottom:9em;
+}
+figure img {
+  display:block;
+  border:solid white
+}
+figcaption{
+  position:absolute;
+  top:250px;
+  left:0;
+  right:0;
+  padding:0.2em 2px;
+  min-height:3em;
+  opacity:1;
+  transition:0.5s;;
+}
+figcaption p {
+  margin:0;
+}
 
-# ManyDogs 1: Dog-human social interaction
+</style>
+
+# ManyDogs 1: Dog-Human Social Interaction
 
 The first ManyDogs study investigates domestic dogs' understanding of a common human gesture, the point. Previous research shows that dogs usually follow pointing cues, but whether they do so because they are following a communicative cue from a human partner or because they feel compelled to follow the gesture as a command is still debated. 
 
@@ -10,7 +39,7 @@ In addition to directly addressing the question of how dogs are perceiving point
 
 We have pre-registered our study's method and analysis on [OSF](https://osf.io/9r5xf/) and the pre-print of our first study (pre-registered report accepted in principle at _Animal Behavior and Cognition_) is now available on [_PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq).
 
-## Implementing ManyDogs 1 at your site
+<!--## Implementing ManyDogs 1 at your site
 
 We have designed the methods to be minimalistic and inexpensive so that the cost of running the study is low; the only materials necessary are:
 
@@ -28,4 +57,117 @@ Ideally, two trained experimenters will perform all of the experimenting and dog
 For a comprehensive overview of ManyDogs 1 and instructions on how to get involved in different aspects of the study, hit the button below and also see the ManyDogs [Manual](https://docs.google.com/document/d/1iuYElQSssoOMVC3nu7BLrFZovoM0TIEqmGM1bUaYbpo/edit?usp=sharing). The ManyDogs 1 [Protocol](https://docs.google.com/document/d/1IV2h2YXmyYpOw0U3IgxxQZD8zlkc0VHcencWx1fJm4s/edit?usp=sharing) contains the detailed experimental protocol for collaborators and information on collecting and submitting data.  
 
 
-<p align="center"><a href="/getinvolved" class="btn btn-primary">Get Involved!</a></p>
+<p align="center"><a href="/getinvolved" class="btn btn-primary">Get Involved!</a></p>-->
+
+## ManyDogs 1 Collaborators 
+These research groups are registered collaborators in ManyDogs 1, and the Team Captains designated at each institution are responsible for organizing ManyDogs at their site. If you're interested in joining their teams or bringing your dog to participate in the study at one of these locations, we recommend contacting them directly to learn more about their site's sign-up and participation process.
+
+* [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
+	<span style="color:#25679E;">Team Captains: Shennai Palermo & Anya Parks</span>
+* [Brown Dog Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
+	<span style="color:#25679E;">Team Captains: Daphna Buchsbaum & Madeline Pelgrim</span>
+* [Canine Companions](https://canine.org/), _Canine Companions_ <br>
+	<span style="color:#25679E;">Team Captain: Emily Bray</span>
+* [Duke Canine Cognition Center](https://evolutionaryanthropology.duke.edu/research/dogs), _Duke University_ <br>
+	<span style="color:#25679E;">Team Captain: Hannah Salomons</span>
+* [The Family Dog Project](https://familydogproject.elte.hu/)	, _Eötvös Loránd University_ <br>
+  <span style="color:#25679E;">Team Captain: Andrea Sommese</span>
+* [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
+	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
+* [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
+	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
+* [Canid Behavior Research Group](https://www.canids.com.ar/), _National Scientific and Technical Research Council_ <br>
+	<span style="color:#25679E;">Team Captain: Mariana Bentosela</span>
+* [Social Cognition Lab](https://www.socialcognitionlab.com/), _Queen's University_<br>
+	<span style="color:#25679E;">Team Captain: Valerie Kuhlmeier</span>
+* [Pet Behaviour Consulting](https://www.unime.it/it/dipartimenti/vet), _Department of Veterinary Sciences, Università degli Studi di Messina_<br> 
+	<span style="color:#25679E;">Team Captain: Daniela Alberghina</span>
+* [Arizona Canine Cognition Center](https://dogs.arizona.edu/), _The University of Arizona_ <br>
+	<span style="color:#25679E;">Team Captains: Emily Bray, Gitanjali Gnanadesikan, & Evan MacLean</span>
+* [Animal Health and Welfare Centre](https://www.sparsholt.ac.uk/ucs-animal-zoo-management-facilities/), _University Centre Sparsholt_ <br>
+	<span style="color:#25679E;">Team Captain: Marianne Freeman</span>
+* Comparative Cognition Lab, _University of Manitoba_<br>
+	<span style="color:#25679E;">Team Captain: Debbie Kelly</span>
+* [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu), _University of Nebraska-Lincoln_ <br>
+	<span style="color:#25679E;">Team Captain: Jeffrey Stevens</span>
+* [Dog Cognition Centre](https://www.port.ac.uk/research/research-centres-and-groups/dog-cognition-centre), _University of Portsmouth_ <br>
+	<span style="color:#25679E;">Team Captain: Jennifer Leighton</span>
+* [Comparative Cognitive Science Lab](http://www.ccsl.uniri.hr/), _University of Rijeka_ <br>
+	<span style="color:#25679E;">Team Captain: Ljerka Ostojić</span>
+* [The Clever Dog Lab](https://www.vetmeduni.ac.at/cleverdoglab), _University of Veterinary Medicine Vienna_ <br>
+	<span style="color:#25679E;">Team Captains: Ludwig Huber & Christoph Völter</span>
+* Department of Psychology of Individual Differences, _University of Warsaw_ <br>
+	<span style="color:#25679E;">Team Captains: Marta Golańska & Anna Reinholz</span>
+* [Canine Cognition Center](https://doglab.yale.edu/), _Yale University_ <br>
+	<span style="color:#25679E;">Team Captains: Daniel Horschler, Emily Richards, & Zachary Silver</span>
+
+## The ManyDogs 1 Team
+Meet our team of individuals that are responsible for organizing ManyDogs 1 and continue to move the project forward through their time and dedication.  
+
+<div id="gridimg">
+  <figure>
+    <img src="images/mikey_bogese.jpg" id="headshot" alt="Headshot of Mikey Bogese"/>
+    <figcaption>
+      <p id="name-header">Mike Bogese</p>
+      <p><a href="https://sites.google.com/view/huntertdc/who-are-we">Hunter College</a></p>
+      <p>Project Administrator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/daphna_buchsbaum.jpg" id="headshot" alt="Headshot of Daphna Buchsbaum" />
+    <figcaption>
+      <p id="name-header">Daphna Buchsbaum </p>
+      <p><a href="http://www.cocodevlab.com/principal-investigator.html/">Brown University</a></p>
+      <p>Project Coordinator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/sarah_byosiere.jpg" id="headshot" alt="Headshot of Sarah-Elizabeth Byosiere with Sadie the black Labrador/Golden Retriever Cross" />
+    <figcaption>
+      <p id="name-header">Sarah-Elizabeth Byosiere</p>
+      <p><a href="https://sarahbyosiere.wixsite.com/sarahbyosiere/about">Hunter College</a></p>
+      <p>Project Coordinator</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/julia_espinosa.jpg" id="headshot" alt="Headshot of Julia Espinosa holding Winnie the Pembroke Welsh Corgi in a field of yellow flowers" />
+    <figcaption>
+      <p id="name-header">Julia Espinosa</p>
+      <p><a href="https://sites.google.com/view/jespinosa">Harvard University</a></p>
+      <p>Project Coordinator, Data Team, & Website Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/gita_gnanadesikan.jpg" id="headshot" alt="Headshot of Gita Gnanadesikan" />
+    <figcaption>
+      <p id="name-header">Gita Gnanadesikan</p>
+      <p><a href="http://u.arizona.edu/~gitag/">University of Arizona</a></p>
+      <p>Project Coordinator, Experimenter Video Team & Methods Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/liz_hare.jpg" id="headshot" alt="Headshot of Elizabeth Hare" />
+    <figcaption>
+      <p id="name-header">Elizabeth Hare</p>
+      <p><a href="http://doggenetics.com/">Dog Genetics LLC</a></p>
+      <p>Data Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/madeline_pelgrim.jpg" id="headshot" alt="Headshot of Madeline Pelgrim with Loki the Golden Retriever" />
+    <figcaption>
+      <p id="name-header">Madeline Pelgrim</p>
+      <p><a href="https://mpelgrim.github.io/">Brown University</a></p>
+      <p>Methods Team & Experimenter Video Team</p>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="images/jeff_stevens.jpg" id="headshot" alt="Headshot of Jeffrey Stevens with Koda the brown Catahoula leopard dog" />
+    <figcaption>
+      <p id="name-header">Jeffrey Stevens</p>
+      <p><a href="https://dogcog.unl.edu/people">University of Nebraska-Lincoln</a></p>
+      <p>Project Coordinator, Data Team, & Website Team</p>
+    </figcaption>
+  </figure>
+</div>
+

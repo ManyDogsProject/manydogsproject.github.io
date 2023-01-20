@@ -9,16 +9,18 @@ website:
     left:
       - href: getinvolved.qmd
         text: Get Involved
-      - text: "ManyDogs1"
-        menu:
-        - href: manydogs1.qmd
-          text: Project
-        - href: collaborators.qmd
-          text: Collaborators
-        - href: team.qmd
-          text: Team
+      # - text: "ManyDogs1"
+      #   menu:
+      - href: manydogs1.qmd
+        text: ManyDogs1
+        # - href: md1_collaborators.qmd
+        #   text: MD1 Collaborators
+        # - href: md1_team.qmd
+        #   text: MD1 Team
       - href: publications.qmd
         text: Publications
+      - href: leadership.qmd
+        text: "Leadership Team"
       - href: contact.qmd
         text: Contact
 
@@ -30,6 +32,8 @@ website:
         href: https://github.com/manydogsproject
       - icon: twitter 
         href: https://twitter.com/manydogsproject
+      - icon: mastodon 
+        href: https://fediscience.org/@ManyDogs
       - icon: slack
         href: https://manydogsproject.slack.com/
       - icon: google

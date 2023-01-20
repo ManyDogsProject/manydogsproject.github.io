@@ -55,5 +55,10 @@ Hover over dots to see lab names, and zoom and drag map to explore lab locations
 # Many-X Collaborators
 We're thrilled to partner with other multi-lab consortiums that promote open science practices and collaboration.
 
-* [ManyBabies](https://manybabies.github.io/): Multi-lab replications of influential experiments in developmental psychology.
-* [ManyPrimates](https://manyprimates.github.io): Establishing a culture of collaboration in primate cognition research.
+* [ManyBabies](https://manybabies.github.io/)
+* [ManyBirds](https://themanybirds.com/)
+* ManyFishes
+* [ManyGoats](https://www.themanygoatsproject.com/)
+* [ManyPrimates](https://manyprimates.github.io)
+* ManyZoos
+* [Psychological Science Accelerator](https://psysciacc.org/)

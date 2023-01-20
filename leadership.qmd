@@ -59,7 +59,7 @@ format:
 [Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br>
 
 
-## Committee members
+## Committee Members
 
 
 ### Community Building and Network Expansion
