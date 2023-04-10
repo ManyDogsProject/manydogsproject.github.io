@@ -4,11 +4,16 @@ title: ""
 
 # Publications
 
-## Preprints
+## 2023
 
-ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N. A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V. A., MacLean, E., Pelgrim, M. H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & Stevens, J. R. (2022). [ManyDogs Project: A big team science approach to investigating canine behavior and cognition](https://doi.org/10.31234/osf.io/j82uc)  _PsyArXiv_.
+ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N.A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V.A., MacLean, E., Pelgrim, M.H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & Stevens, J.R. (2023). ManyDogs Project: A big team science approach to investigating canine behavior and cognition. _Comparative Cognition and Behavior Reviews_, 18, 59-77. 
+[doi:10.3819/CCBR.2023.180004](https://doi.org/10.3819/CCBR.2023.180004)
+
+[PDF](https://doi.org/10.31234/osf.io/j82uc) • [Preprint](https://doi.org/10.31234/osf.io/j82uc)
 
 * This article introduces the ManyDogs Project by discussing the importance of studying canine behavioral science, situating ManyDogs among other examples of large-scale canine science, and describing the core aims of the ManyDogs Project.
+
+## Preprints
 
 ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., Stevens, J. R., Völter, C., & Zipperling, L. (2021). [ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension](https://doi.org/10.31234/osf.io/f86jq) _PsyArXiv_. 
 
