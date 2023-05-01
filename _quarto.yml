@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "lib/"
 
 website:
   title: "ManyDogs Project"
@@ -34,12 +36,12 @@ website:
         href: https://twitter.com/manydogsproject
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
-      - icon: slack
-        href: https://manydogsproject.slack.com/
-      - icon: google
-        href: https://groups.google.com/u/2/g/manydogs
+      # - icon: slack
+      #   href: https://manydogsproject.slack.com/
+      # - icon: google
+      #   href: https://groups.google.com/u/2/g/manydogs
       - icon: envelope
-        href: manydogsproject@gmail.com
+        href: mailto:manydogsproject@gmail.com
 
 format:
   html:

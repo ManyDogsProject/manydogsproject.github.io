@@ -11,12 +11,12 @@ about:
         href: https://twitter.com/manydogsproject
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
-      - icon: slack
-        href: https://manydogsproject.slack.com/
-      - icon: google
-        href: https://groups.google.com/u/2/g/manydogs
+      # - icon: slack
+      #   href: https://manydogsproject.slack.com/
+      # - icon: google
+      #   href: https://groups.google.com/u/2/g/manydogs
       - icon: envelope
-        href: manydogsproject@gmail.com
+        href: mailto:manydogsproject@gmail.com
 
 ---
 The ManyDogs Project is an international consortium of researchers interested in canine science.
