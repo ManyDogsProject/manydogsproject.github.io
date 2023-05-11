@@ -19,6 +19,8 @@ website:
         #   text: MD1 Collaborators
         # - href: md1_team.qmd
         #   text: MD1 Team
+      - href: call.qmd
+        text: Open Call for MD2
       - href: publications.qmd
         text: Publications
       - href: leadership.qmd
