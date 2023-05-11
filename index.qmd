@@ -58,7 +58,7 @@ We have just wrapped up our first study, ManyDogs 1, on dog-human social communi
 # Call for Project Ideas
 
 ::: {style="font-size:130%"}
-We're currently looking for ideas for our next ManyDogs project! Check out our [call for project ideas](call.qmd), and submit your proposal by **July 15, 2023**.
+We're currently looking for ideas for our next ManyDogs project! Check out our [call for project ideas](call.qmd), and submit your proposal by **July 31, 2023**.
 :::
 :::
 

@@ -64,6 +64,8 @@ format:
 
 ### Community Building and Network Expansion
 
+This committee focuses on outreach to other academic groups (globally) as well as to non-academic professionals (e.g., working dogs). It also manages the project social media accounts.
+
 #### Lucia Lazarowski
 
 ::: {.column-margin}
@@ -80,6 +82,7 @@ format:
 
 [Courtney](https://www.howdogstalk.org) is a PhD candidate at The George Washington University Department of Anthropology’s [Center for the Advanced Study of Human Paleobiology](https://cashp.columbian.gwu.edu/) (CASHP), where she studies human-animal interactions and evolution. She is especially interested in how dogs can inform what we know about the evolution of nonverbal communication and social relationships. Courtney is passionate about scientific outreach and journalism, and often ropes her hound, Sonder, into helping out.
 
+<br> 
 
 #### Andrea Sommese
 
@@ -89,7 +92,11 @@ format:
 
 [Dr. Sommese](https://andreasommese.wordpress.com/) has worked mostly with canids, on topics spacing between ecology and behavior. His particular field of expertise is dog-human communication and dogs' cognition. In the last 3 years, his research focused on language learning in dogs. The gifted dog project received considerable attention from the media, especially since it was the first live broadcast scientific event of its kind (‘the [Genius Dog Challenge](https://geniusdogchallenge.com/)’). The outcome of this research has been featured in many news reports across TV, radio, newspapers, and other platforms. 
 
+<br> <br> <br>
+
 ### Data Management and Open Science Committee
+
+This committee is responsible for supporting ManyDogs projects in implementing open science practices and adhering to reproducibility standards, as well as developing database infrastructure/storage at the larger organization level.
 
 #### Daniela Alberghina
 
@@ -111,6 +118,8 @@ format:
 
 ### Funding Committee
 
+This committee is responsible for applying for funding opportunities, connecting individual projects to funding opportunities, and networking with funding agencies and other big team science groups. 
+
 #### Daphna Buchsbaum
 
 ::: {.column-margin}
@@ -129,6 +138,8 @@ format:
 
 ### Methods Development Committee
 
+This committee is responsible for supporting ManyDogs projects through protocol development and implementing best practices in canine science research methods.
+
 #### Mia Hickey
 
 Mia is an undergraduate student at the University of Arizona. She's currently in her senior year at the University of Arizona. For her senior thesis, she's working on ManyDogs 1 with the [Arizona Canine Cognition Center](https://dogs.arizona.edu/). She helps to run the experiments, and she's collecting data on the effect of canine engagement on experimental performance for her thesis question. <br> <br>
@@ -143,6 +154,9 @@ Mia is an undergraduate student at the University of Arizona. She's currently in
 
 
 ### Project Selection and Monitoring Committee
+
+This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects.
+
 
 #### Robert Ian Bowers
 
