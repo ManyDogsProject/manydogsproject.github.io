@@ -1,0 +1,43 @@
+---
+title: ""
+---
+
+# ManyDogs Subprojects FAQ
+
+## What is a ManyDogs Subproject?
+The main ManyDogs projects, like [ManyDogs 1](manydogs1.html), are efforts by a large number of collaborators and labs to test hypotheses about dog cognition within an open source framework. 
+
+These projects are *preregistered*---the research plan is published in advance to avoid statistical complications of post-hoc analysis.  After publication of the planned study, there may be additional interesting hypotheses that can be examined with the large amounts of data we collected. For example, the questionnaire for ManyDogs1 included the entire *C-BARQ* (Canine Behavior and Research Questionnaire). Subprojects are these projects using the data generated during main projects, and ManyDogs members can propose subprojects.
+
+## What are the steps for proposing a project?
+
+1. Join ManyDogs.  Fill out the [ManyDogs Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdf_VKUTtblsFNOKItO1W67zQz5Po2NKYMD71k4z5gh_Inuyg/viewform?pli=1) if you aren't already a member. You'll be added to our email list and Slack workspace, where we hope you'll introduce yourself and your interests.
+    
+2. Decide whether you are proposing an individual or group project.  Individual projects are likely to be academic projects like undergraduate or Masters' theses. Group projects are projects have the goal of peer reviewed publication.
+    
+* If you're proposing a group project:  
+    1. Use the `#project-ideas` Slack channel to announce a call for collaborators.  
+    2. Organize roles for coauthors.  
+    3. Set timeline for research and writing steps.  
+    4. Proceed to the next section "if you're proposing an individual or a group project."  
+* If you're proposing either an individual or a group project:
+    1. If the data used for the main ManyDogs project, like MD1, is all you need, it's available on [the ManyDogs Open Science Framework site](https://osf.io/9r5xf/). 
+    2. If you need more data such as raw experimental data or demographic data that wasn't in the main MD project analysis, get in touch with the Data Management and Open Science team via Slack.  
+
+## Can proposals be made by a team?
+
+Yes! The ManyDogs community has members with a wide variety of expertise, including cognitive theory, implementation of experimental methods, data cleaning and analysis using open tools, project management, and writing. 
+Research benefits when people from diverse backgrounds contribute to planning, analysis and interpretation. 
+
+## What if I need help with the subproject?
+
+Then just ask! If you want to recruit folks to help you with a project, post your request in Slack. You can either directly contact folks you want to invite or post a general call for help.
+
+## What if I want to analyze the data by myself?
+
+Anyone is welcome to analyze the publicly available data posted on [the ManyDogs Open Science Framework site](https://osf.io/9r5xf/). But if you want to have access to data that is not publicly available yet, you will need to post an open call to help with your subproject.
+
+## Is funding available for ManyDogs Subprojects?
+
+For now, we are an all-volunteer organization and cannot offer funding.
+

@@ -236,5 +236,54 @@
     "title": "Welcome to the ManyDogs project!",
     "section": "ManyDogs 1",
     "text": "ManyDogs 1\nWe have just wrapped up our first study, ManyDogs 1, on dog-human social communication. The aim of ManyDogs 1 was to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We investigated this by running a single study with standardized methodology in a large number of labs in North America, South America, and Europe. For more information on this study, please see the ManyDogs 1 section of this website."
+  },
+  {
+    "objectID": "subprojects.html",
+    "href": "subprojects.html",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "The main ManyDogs projects, like ManyDogs 1, are efforts by a large number of collaborators and labs to test hypotheses about dog cognition within an open source framework.\nThese projects are preregistered—the research plan is published in advance to avoid statistical complications of post-hoc analysis. After publication of the planned study, there may be additional interesting hypotheses that can be examined with the large amounts of data we collected. For example, the questionnaire for ManyDogs1 included the entire C-BARQ (Canine Behavior and Research Questionnaire). Subprojects are these projects using the data generated during main projects, and ManyDogs members can propose subprojects.\n\n\n\n\nJoin ManyDogs. Fill out the ManyDogs Registration Form if you aren’t already a member. You’ll be added to our email list and Slack workspace, where we hope you’ll introduce yourself and your interests.\nDecide whether you are proposing an individual or group project. Individual projects are likely to be academic projects like undergraduate or Masters’ theses. Group projects are projects have the goal of peer reviewed publication.\n\n\nIf you’re proposing a group project:\n\nUse the #project-ideas Slack channel to announce a call for collaborators.\n\nOrganize roles for coauthors.\n\nSet timeline for research and writing steps.\n\nProceed to the next section “if you’re proposing an individual or a group project.”\n\n\nIf you’re proposing either an individual or a group project:\n\nIf the data used for the main ManyDogs project, like MD1, is all you need, it’s available on the ManyDogs Open Science Framework site.\nIf you need more data such as raw experimental data or demographic data that wasn’t in the main MD project analysis, get in touch with the Data Management and Open Science team via Slack.\n\n\n\n\n\nYes! The ManyDogs community has members with a wide variety of expertise, including cognitive theory, implementation of experimental methods, data cleaning and analysis using open tools, project management, and writing. Research benefits when people from diverse backgrounds contribute to planning, analysis and interpretation.\n\n\n\nThen just ask! If you want to recruit folks to help you with a project, post your request in Slack. You can either directly contact folks you want to invite or post a general call for help.\n\n\n\nAnyone is welcome to analyze the publicly available data posted on the ManyDogs Open Science Framework site. But if you want to have access to data that is not publicly available yet, you will need to post an open call to help with your subproject.\n\n\n\nFor now, we are an all-volunteer organization and cannot offer funding."
+  },
+  {
+    "objectID": "subprojects.html#what-is-a-manydogs-subproject",
+    "href": "subprojects.html#what-is-a-manydogs-subproject",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "The main ManyDogs projects, like ManyDogs 1, are efforts by a large number of collaborators and labs to test hypotheses about dog cognition within an open source framework.\nThese projects are preregistered—the research plan is published in advance to avoid statistical complications of post-hoc analysis. After publication of the planned study, there may be additional interesting hypotheses that can be examined with the large amounts of data we collected. For example, the questionnaire for ManyDogs1 included the entire C-BARQ (Canine Behavior and Research Questionnaire). Subprojects are these projects using the data generated during main projects, and ManyDogs members can propose subprojects."
+  },
+  {
+    "objectID": "subprojects.html#what-are-the-steps-for-proposing-a-project",
+    "href": "subprojects.html#what-are-the-steps-for-proposing-a-project",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "Join ManyDogs. Fill out the ManyDogs Registration Form if you aren’t already a member. You’ll be added to our email list and Slack workspace, where we hope you’ll introduce yourself and your interests.\nDecide whether you are proposing an individual or group project. Individual projects are likely to be academic projects like undergraduate or Masters’ theses. Group projects are projects have the goal of peer reviewed publication.\n\n\nIf you’re proposing a group project:\n\nUse the #project-ideas Slack channel to announce a call for collaborators.\n\nOrganize roles for coauthors.\n\nSet timeline for research and writing steps.\n\nProceed to the next section “if you’re proposing an individual or a group project.”\n\n\nIf you’re proposing either an individual or a group project:\n\nIf the data used for the main ManyDogs project, like MD1, is all you need, it’s available on the ManyDogs Open Science Framework site.\nIf you need more data such as raw experimental data or demographic data that wasn’t in the main MD project analysis, get in touch with the Data Management and Open Science team via Slack."
+  },
+  {
+    "objectID": "subprojects.html#can-proposals-be-made-by-a-team",
+    "href": "subprojects.html#can-proposals-be-made-by-a-team",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "Yes! The ManyDogs community has members with a wide variety of expertise, including cognitive theory, implementation of experimental methods, data cleaning and analysis using open tools, project management, and writing. Research benefits when people from diverse backgrounds contribute to planning, analysis and interpretation."
+  },
+  {
+    "objectID": "subprojects.html#is-funding-available-for-manydogs-subprojects",
+    "href": "subprojects.html#is-funding-available-for-manydogs-subprojects",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "For now, we are an all-volunteer organization and cannot offer funding."
+  },
+  {
+    "objectID": "subprojects.html#what-if-i-need-help-with-the-subproject",
+    "href": "subprojects.html#what-if-i-need-help-with-the-subproject",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "Then just ask! If you want to recruit folks to help you with a project, post your request in Slack. You can either directly contact folks you want to invite or post a general call for help."
+  },
+  {
+    "objectID": "subprojects.html#what-if-i-want-to-analyze-the-data-by-myself",
+    "href": "subprojects.html#what-if-i-want-to-analyze-the-data-by-myself",
+    "title": "ManyDogs Subprojects FAQ",
+    "section": "",
+    "text": "Anyone is welcome to analyze the publicly available data posted on the ManyDogs Open Science Framework site. But if you want to have access to data that is not publicly available yet, you will need to post an open call to help with your subproject."
   }
 ]
