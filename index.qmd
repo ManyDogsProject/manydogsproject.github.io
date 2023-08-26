@@ -54,13 +54,15 @@ We have just wrapped up our first study, ManyDogs 1, on dog-human social communi
 
 ## Next for ManyDogs
 
-::: {.callout-important icon=false}
-# Call for Project Ideas
+We are currently evaluating ideas for ManyDogs 2. Stay tuned for more information!
 
-::: {style="font-size:130%"}
-We're currently looking for ideas for our next ManyDogs project! Check out our [call for project ideas](call.qmd), and submit your proposal by **July 31, 2023**.
-:::
-:::
+<!-- ::: {.callout-important icon=false} -->
+<!-- # Call for Project Ideas -->
+
+<!-- ::: {style="font-size:130%"} -->
+<!-- We're currently looking for ideas for our next ManyDogs project! Check out our [call for project ideas](call.qmd), and submit your proposal by **July 31, 2023**. -->
+<!-- ::: -->
+<!-- ::: -->
 
 
 ![](assets/images/manydogs_banner.png){fig-alt="ManyDogs banner with the words Many Dogs and three overlaid dog silouettes (yellow dachshund, orange Laborador retriever, and blue German shepard) jumping in the air."}
