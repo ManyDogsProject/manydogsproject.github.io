@@ -72,6 +72,8 @@ For a comprehensive overview of ManyDogs 1 and instructions on how to get involv
 ## ManyDogs 1 Collaborators 
 These research groups registered collaborators in ManyDogs 1, and the Team Captains designated at each institution were responsible for organizing ManyDogs at their site.
 
+* [Auburn Canine Performance Sciences](https://www.vetmed.auburn.edu/research/cps/), _Auburn University_ <br>
+	<span style="color:#25679E;">Team Captain: Lucia Lazarowski</span>
 * [Canine Cognition Center](https://sites.bc.edu/doglab/), _Boston College_ <br>
 	<span style="color:#25679E;">Team Captains: Shennai Palermo & Anya Parks</span>
 * [Brown Dog Lab](https://sites.brown.edu/browndoglab/), _Brown University_ <br>
@@ -84,8 +86,12 @@ These research groups registered collaborators in ManyDogs 1, and the Team Capta
   <span style="color:#25679E;">Team Captain: Andrea Sommese</span>
 * [Thinking Dog Center](https://sites.google.com/view/huntertdc/home), _Hunter College_ <br>
 	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
-* [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br>
-	<span style="color:#25679E;">Team Captain: Ellen Furlong</span>
+<!-- * [IWU Dog Scientists](https://www.iwudogscientists.com/), _Illinois Wesleyan University_ <br> -->
+<!-- 	<span style="color:#25679E;">Team Captain: Ellen Furlong</span> -->
+* [Leader Dogs for the Blind](https://www.leaderdog.org/), _Leader Dogs for the Blind_ <br>
+	<span style="color:#25679E;">Team Captain: Sarah Byosiere</span>
+* [Canine Research Unit](https://play.psych.mun.ca/cru/), _Memorial University_ <br>
+	<span style="color:#25679E;">Team Captain: Carolyn Walsh</span>
 * [Canid Behavior Research Group](https://www.canids.com.ar/), _National Scientific and Technical Research Council_ <br>
 	<span style="color:#25679E;">Team Captain: Mariana Bentosela</span>
 * [Social Cognition Lab](https://www.socialcognitionlab.com/), _Queen's University_<br>

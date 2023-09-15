@@ -42,7 +42,7 @@ By forming the ManyDogs consortium, we are establishing a collegial platform for
 We have collaborators from all over the world: 
 
 <center>
-<iframe height="400" width="600" src="images/html/md1_labs.html" title="Interactive map of labs" alt="Map of world with dots representing the location of each ManyDogs lab." style="border:none;"  data-external="1"></iframe></center>
+<iframe height="400" width="600" src="images/html/md_labs.html" title="Interactive map of labs" alt="Map of world with dots representing the location of each ManyDogs lab." style="border:none;"  data-external="1"></iframe></center>
 Hover over dots to see lab names, and zoom and drag map to explore lab locations more closely.
 
 
