@@ -13,15 +13,6 @@ format:
 
 ## Co-Directors
 
-#### Sarah-Elizabeth Byosiere, CAAB
-
-::: {.column-margin}
-![](images/sarah_byosiere.jpg)
-:::
-
-[Dr. Byosiere]() a co-founder and co-director of the ManyDogs Project. She is also a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focuses on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br>
-
-
 #### Camila Cavalli
 
 ::: {.column-margin}
@@ -74,7 +65,7 @@ format:
 [Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br>
 
 
-#### Valerie Kuhlmeier
+#### Valerie Kuhlmeier - Funding
 
 ::: {.column-margin}
 ![](images/valerie_kuhlmeier.png)
@@ -95,7 +86,7 @@ format:
 ## Committee Members
 
 
-### Community Building and Network Expansion
+### Community Building and Network Expansion Committee
 
 This committee focuses on outreach to other academic groups (globally) as well as to non-academic professionals (e.g., working dogs). It also manages the project social media accounts.
 
@@ -189,5 +180,25 @@ This committee is responsible for creating materials/templates regarding prospec
 ![](images/angie_johnston.jpg)
 :::
 
-[Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others.
+[Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br>
+
+# Previous Leadership Team Members
+
+#### Sarah-Elizabeth Byosiere, CAAB
+
+::: {.column-margin}
+![](images/sarah_byosiere.jpg)
+:::
+
+[Dr. Byosiere](https://www.linkedin.com/in/sarahbyosiere/) co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of Canine Research and Development at [Guide Dogs for the Blind](https://www.guidedogs.com/). Previously, she was the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> <br>
+
+
+#### Julia Espinosa
+
+::: {.column-margin}
+![](images/julia_espinosa.jpg)
+:::
+
+[Dr. Espinosa](https://sites.google.com/view/jespinosa) co-founded the ManyDogs Project and was the project lead for ManyDogs 1. Dr. Espinosa is a National Science Foundation (NSF) Postdoctoral Fellow at Harvard University's Department of Human Evolutionary Biology where she works with Dr. Erin Hecht's [Evolutionary Neuroscience Lab](https://projects.iq.harvard.edu/evolutionaryneurosciencelab/home) investigating the heritable and experience-dependent factors that influence the development of dog personality and behavior. After graduating with a BSc in Neuroscience  from University of Michigan, she earned a MSc in Animal Biosciences from University of Guelph and a PhD in Cognitive Psychology at University of Toronto. Her work with dogs uses a multi-disciplinary approach to understand the evolution and current phenotypes of aggression and pro-sociality. <br> <br>
+
 
