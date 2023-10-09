@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -56,7 +56,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -75,33 +76,35 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">ManyDogs Project</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./getinvolved.html">
+    <a class="nav-link" href="./getinvolved.html" rel="" target="">
  <span class="menu-text">Get Involved</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./manydogs1.html">
+    <a class="nav-link" href="./manydogs1.html" rel="" target="">
  <span class="menu-text">ManyDogs1</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">
+    <a class="nav-link" href="./publications.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./leadership.html" aria-current="page">
+    <a class="nav-link active" href="./leadership.html" rel="" target="" aria-current="page">
  <span class="menu-text">Leadership Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html">
+    <a class="nav-link" href="./contact.html" rel="" target="">
  <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -109,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
@@ -120,16 +123,18 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#assistant-directors" id="toc-assistant-directors" class="nav-link" data-scroll-target="#assistant-directors">Assistant Directors</a></li>
   <li><a href="#committee-members" id="toc-committee-members" class="nav-link" data-scroll-target="#committee-members">Committee Members</a>
   <ul class="collapse">
-  <li><a href="#community-building-and-network-expansion" id="toc-community-building-and-network-expansion" class="nav-link" data-scroll-target="#community-building-and-network-expansion">Community Building and Network Expansion</a></li>
+  <li><a href="#community-building-and-network-expansion-committee" id="toc-community-building-and-network-expansion-committee" class="nav-link" data-scroll-target="#community-building-and-network-expansion-committee">Community Building and Network Expansion Committee</a></li>
   <li><a href="#data-management-and-open-science-committee" id="toc-data-management-and-open-science-committee" class="nav-link" data-scroll-target="#data-management-and-open-science-committee">Data Management and Open Science Committee</a></li>
   <li><a href="#funding-committee" id="toc-funding-committee" class="nav-link" data-scroll-target="#funding-committee">Funding Committee</a></li>
   <li><a href="#methods-development-committee" id="toc-methods-development-committee" class="nav-link" data-scroll-target="#methods-development-committee">Methods Development Committee</a></li>
   <li><a href="#project-selection-and-monitoring-committee" id="toc-project-selection-and-monitoring-committee" class="nav-link" data-scroll-target="#project-selection-and-monitoring-committee">Project Selection and Monitoring Committee</a></li>
   </ul></li>
   </ul></li>
+  <li><a href="#previous-leadership-team-members" id="toc-previous-leadership-team-members" class="nav-link" data-scroll-target="#previous-leadership-team-members">Previous Leadership Team Members</a></li>
   </ul>
 </nav>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
     </div>
@@ -142,12 +147,19 @@ ul.task-list li input[type="checkbox"] {
 <h1>ManyDogs Leadership Team</h1>
 <section id="co-directors" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="co-directors">Co-Directors</h2>
-<section id="sarah-elizabeth-byosiere-caab" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="sarah-elizabeth-byosiere-caab">Sarah-Elizabeth Byosiere, CAAB</h4>
+<section id="camila-cavalli" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="camila-cavalli">Camila Cavalli</h4>
 
 <div class="no-row-height column-margin column-container"><div class="">
-<p><img src="images/sarah_byosiere.jpg" class="img-fluid"></p>
-</div></div><p><a href="">Dr.&nbsp;Byosiere</a> a co-founder and co-director of the ManyDogs Project. She is also a project coordinator for ManyDogs 1. Dr.&nbsp;Byosiere is the Director of the <a href="https://sites.google.com/view/huntertdc/home">Thinking Dog Center</a> at CUNY Hunter College where she focuses on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br></p>
+<p><img src="images/camila_cavalli.jpg" class="img-fluid"></p>
+</div></div><p><a href="https://www.linkedin.com/in/camila-cavalli%20/">Dr.&nbsp;Cavalli</a> is a Postdoctoral Research Fellow in the <a href="https://awp.landfood.ubc.ca/human-animal-interaction-lab/">Human Animal Interaction Lab</a>, Animal Welfare Program, Faculty of Land and Food Systems, University of British Columbia (Vancouver, Canada). While many studies in the field of dog cognition compare family dogs with dogs that have a limited experience interacting with humans, such as shelter or free ranging dogs, her research focuses on therapy dogs. This allows her to explore what happens with the socio-cognitive abilities of dogs that experience the opposite situation of having an increase in their frequency and variety of interactions with humans. <br> <br></p>
+</section>
+<section id="ljerka-ostojić" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="ljerka-ostojić">Ljerka Ostojić</h4>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="images/ljerka_ostojic.jpg" class="img-fluid"></p>
+</div></div><p><a href="https://www.cogsci.uniri.hr/people/ljerka-ostojic/">Dr Ostojić</a> is Assistant Professor at the Faculty of Humanities and Social Sciences, University of Rijeka in Croatia, where she is currently Head of the Division for Cognitive Sciences. She hold an undergraduate and Masters degree in Psychology from the University of Vienna, Austria, and a PhD in Experimental Psychology from the University of Cambridge, UK. She has continued to work as a postdoctoral researcher in Cambridge on social cognition in humans, corvids, cephalopods, and dogs before moving to the University of Rijeka, where she is now continuing her research on social cognition, primarily in humans and dogs, as well as working on meta-science projects at the Centre for Mind and Behaviour, where she runs the Comparative Cognitive Science Lab.</p>
 </section>
 <section id="jeffrey-r.-stevens" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="jeffrey-r.-stevens">Jeffrey R. Stevens</h4>
@@ -164,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/emily_bray.jpg" class="img-fluid"></p>
-</div></div><p><a href="https://www.emilyebray.com/">Dr.&nbsp;Bray</a> is a Postdoctoral Research Associate at the <a href="https://dogs.arizona.edu/">Arizona Canine Cognition Center</a> in the College of Veterinary Medicine and at <a href="https://canine.org/">Canine Companions</a>, the largest US non-profit providing service dogs to people with disabilities. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D.&nbsp;from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, in her postdoctoral research, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.</p>
+</div></div><p><a href="https://www.emilyebray.com/">Dr.&nbsp;Bray</a> is an Assistant Professor in The University of Arizona College of Veterinary Medicine and a Research Scientist at <a href="https://canine.org/">Canine Companions</a>, the largest US non-profit providing service dogs to people with disabilities. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D.&nbsp;from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.</p>
 </section>
 <section id="liz-hare---data-management-and-open-science" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="liz-hare---data-management-and-open-science">Liz Hare - Data Management and Open Science</h4>
@@ -172,6 +184,13 @@ ul.task-list li input[type="checkbox"] {
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/liz_hare.jpg" class="img-fluid"></p>
 </div></div><p><a href="http://www.doggenetics.com/">Dr.&nbsp;Hare</a> leads <a href="http://www.doggenetics.com/">Dog Genetics LLC</a> where she consults on genetics and genomics research and breeding program planning in dogs. Dr.&nbsp;Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D.&nbsp;at George Washington University. Dr.&nbsp;Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br></p>
+</section>
+<section id="valerie-kuhlmeier---funding" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="valerie-kuhlmeier---funding">Valerie Kuhlmeier - Funding</h4>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="images/valerie_kuhlmeier.png" class="img-fluid"></p>
+</div></div><p><a href="https://www.socialcognitionlab.com/">Dr.&nbsp;Kuhlmeier</a> is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br></p>
 </section>
 <section id="madeline-pelgrim---methods-development" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="madeline-pelgrim---methods-development">Madeline Pelgrim - Methods Development</h4>
@@ -183,8 +202,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="committee-members" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="committee-members">Committee Members</h2>
-<section id="community-building-and-network-expansion" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="community-building-and-network-expansion">Community Building and Network Expansion</h3>
+<section id="community-building-and-network-expansion-committee" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="community-building-and-network-expansion-committee">Community Building and Network Expansion Committee</h3>
+<p>This committee focuses on outreach to other academic groups (globally) as well as to non-academic professionals (e.g., working dogs). It also manages the project social media accounts.</p>
 <section id="lucia-lazarowski" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="lucia-lazarowski">Lucia Lazarowski</h4>
 
@@ -197,18 +217,19 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/courtney_sexton.jpg" class="img-fluid"></p>
-</div></div><p><a href="https://www.howdogstalk.org">Courtney</a> is a PhD candidate at The George Washington University Department of Anthropology’s <a href="https://cashp.columbian.gwu.edu/">Center for the Advanced Study of Human Paleobiology</a> (CASHP), where she studies human-animal interactions and evolution. She is especially interested in how dogs can inform what we know about the evolution of nonverbal communication and social relationships. Courtney is passionate about scientific outreach and journalism, and often ropes her hound, Sonder, into helping out.</p>
+</div></div><p><a href="https://clsexton.wixsite.com/clsexton">Dr.&nbsp;Sexton</a> is a Postdoctoral Researcher in the Department of <a href="https://vetmed.vt.edu/departments/population-health-sciences.html">Population Health Sciences</a> at the Virginia-Maryland College of Veterinary Medicine. She earned her PhD from the George Washington University <a href="https://cashp.columbian.gwu.edu/">Center for the Advanced Study of Human Paleobiology</a>, where her dissertation explored co-evolution, interspecific communication, and social relationships between humans and dogs. As a postdoc at Virginia Tech, she is currently working on the <a href="https://dogagingproject.org/">Dog Aging Project</a>, and is especially interested in One Health applications of canine science research. An accomplished writer, she is passionate about scientific outreach and journalism, and often ropes her hound, Sonder, into helping out. <br></p>
 </section>
 <section id="andrea-sommese" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="andrea-sommese">Andrea Sommese</h4>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/andrea_sommese.png" class="img-fluid"></p>
-</div></div><p><a href="https://andreasommese.wordpress.com/">Dr.&nbsp;Sommese</a> has worked mostly with canids, on topics spacing between ecology and behavior. His particular field of expertise is dog-human communication and dogs’ cognition. In the last 3 years, his research focused on language learning in dogs. The gifted dog project received considerable attention from the media, especially since it was the first live broadcast scientific event of its kind (‘the <a href="https://geniusdogchallenge.com/">Genius Dog Challenge</a>’). The outcome of this research has been featured in many news reports across TV, radio, newspapers, and other platforms.</p>
+</div></div><p><a href="https://andreasommese.wordpress.com/">Dr.&nbsp;Sommese</a> has worked mostly with canids, on topics spacing between ecology and behavior. His particular field of expertise is dog-human communication and dogs’ cognition. In the last 3 years, his research focused on language learning in dogs. The gifted dog project received considerable attention from the media, especially since it was the first live broadcast scientific event of its kind (‘the <a href="https://geniusdogchallenge.com/">Genius Dog Challenge</a>’). The outcome of this research has been featured in many news reports across TV, radio, newspapers, and other platforms. <br> <br> <br></p>
 </section>
 </section>
 <section id="data-management-and-open-science-committee" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="data-management-and-open-science-committee">Data Management and Open Science Committee</h3>
+<p>This committee is responsible for supporting ManyDogs projects in implementing open science practices and adhering to reproducibility standards, as well as developing database infrastructure/storage at the larger organization level.</p>
 <section id="daniela-alberghina" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="daniela-alberghina">Daniela Alberghina</h4>
 
@@ -226,6 +247,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="funding-committee" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="funding-committee">Funding Committee</h3>
+<p>This committee is responsible for applying for funding opportunities, connecting individual projects to funding opportunities, and networking with funding agencies and other big team science groups.</p>
 <section id="daphna-buchsbaum" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="daphna-buchsbaum">Daphna Buchsbaum</h4>
 
@@ -233,16 +255,10 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/daphna_buchsbaum.jpg" class="img-fluid"></p>
 </div></div><p><a href="https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/daphna-buchsbaum">Dr.&nbsp;Buchsbaum</a> is an Assistant Professor of Cognitive, Linguistic and Psychological Sciences at Brown University. She directs the Computational Cognitive Development Lab, and its sister lab the <a href="https://sites.brown.edu/browndoglab/">Brown Dog Lab</a>. Dr.&nbsp;Buchsbaum completed her postdoctoral work as a Senior Research Fellow in the University of St.&nbsp;Andrews Psychology department. She completed her doctoral training the UC Berkeley Psychology department, as well as a master’s degree in the UC Berkeley Statistics department, focusing on applications of probability theory and statistical computing. Before that, she completed a master’s degree at the MIT Media Lab, working on social learning in interactive animated characters.</p>
 </section>
-<section id="valerie-kuhlmeier" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="valerie-kuhlmeier">Valerie Kuhlmeier</h4>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p><img src="images/valerie_kuhlmeier.png" class="img-fluid"></p>
-</div></div><p><a href="https://www.socialcognitionlab.com/">Dr.&nbsp;Kuhlmeier</a> is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br></p>
-</section>
 </section>
 <section id="methods-development-committee" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="methods-development-committee">Methods Development Committee</h3>
+<p>This committee is responsible for supporting ManyDogs projects through protocol development and implementing best practices in canine science research methods.</p>
 <section id="mia-hickey" class="level4">
 <h4 class="anchored" data-anchor-id="mia-hickey">Mia Hickey</h4>
 <p>Mia is an undergraduate student at the University of Arizona. She’s currently in her senior year at the University of Arizona. For her senior thesis, she’s working on ManyDogs 1 with the <a href="https://dogs.arizona.edu/">Arizona Canine Cognition Center</a>. She helps to run the experiments, and she’s collecting data on the effect of canine engagement on experimental performance for her thesis question. <br> <br></p>
@@ -252,32 +268,39 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/hoi-lam_jim.jpg" class="img-fluid"></p>
-</div></div><p><a href="https://www.researchgate.net/profile/Hoi-Lam-Jim">Dr.&nbsp;Jim</a> is a Research Officer for <a href="https://www.dogstrust.org.uk/how-we-help/the-future/research">Dogs Trust</a> (UK). She is interested in animal behaviour and cognition in a variety of species to further our understanding of social cognition in human and non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br></p>
+</div></div><p><a href="https://www.researchgate.net/profile/Hoi-Lam-Jim">Dr.&nbsp;Jim</a> is a Postdoctoral Researcher in the Institute for Advanced Study at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br></p>
 </section>
 </section>
 <section id="project-selection-and-monitoring-committee" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="project-selection-and-monitoring-committee">Project Selection and Monitoring Committee</h3>
-<section id="robert-ian-bowers" class="level4">
-<h4 class="anchored" data-anchor-id="robert-ian-bowers">Robert Ian Bowers</h4>
-<p><a href="http://www.psy.bilkent.edu.tr/faculty/faculty-members/robert-ian-bowers-ph-d/">Dr.&nbsp;Bowers</a> is an Assistant Professor in the Department of Psychology and Neuroscience Programme, Bilkent University, Ankara. He studies behaviour and cognition in specific ecological contexts, notably feeding and mate choice. His research employs a range of methods in several laboratory contexts, including conditioning techniques, cognitive modelling, and simulation of evolutionary processes. Some specific areas of focus include causal reasoning and social influences on mate choice. A general orienting basis for his research is a systems theoretic perspective, behaviour systems theory, which places focus on how multiple behaviours interrelate. Thinking in terms of structured, complex systems helps address questions about complex patterns of behaviour and cognition.</p>
-</section>
-<section id="camila-cavalli" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="camila-cavalli">Camila Cavalli</h4>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p><img src="images/camila_cavalli.jpg" class="img-fluid"></p>
-</div></div><p><a href="https://www.linkedin.com/in/camila-cavalli%20/">Dr.&nbsp;Cavalli</a> is a Postdoctoral Research Fellow in the <a href="https://awp.landfood.ubc.ca/human-animal-interaction-lab/">Human Animal Interaction Lab</a>, Animal Welfare Program, Faculty of Land and Food Systems, University of British Columbia (Vancouver, Canada). While many studies in the field of dog cognition compare family dogs with dogs that have a limited experience interacting with humans, such as shelter or free ranging dogs, her research focuses on therapy dogs. This allows her to explore what happens with the socio-cognitive abilities of dogs that experience the opposite situation of having an increase in their frequency and variety of interactions with humans. <br> <br></p>
-</section>
+<p>This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects.</p>
 <section id="angie-johnston" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="angie-johnston">Angie Johnston</h4>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="images/angie_johnston.jpg" class="img-fluid"></p>
-</div></div><p><a href="https://sites.bc.edu/angiejohnston">Dr.&nbsp;Johnston</a> is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others.</p>
-
-
+</div></div><p><a href="https://sites.bc.edu/angiejohnston">Dr.&nbsp;Johnston</a> is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br></p>
 </section>
 </section>
+</section>
+</section>
+<section id="previous-leadership-team-members" class="level1 page-columns page-full">
+<h1>Previous Leadership Team Members</h1>
+<section id="sarah-elizabeth-byosiere-caab" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="sarah-elizabeth-byosiere-caab">Sarah-Elizabeth Byosiere, CAAB</h4>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="images/sarah_byosiere.jpg" class="img-fluid"></p>
+</div></div><p><a href="https://www.linkedin.com/in/sarahbyosiere/">Dr.&nbsp;Byosiere</a> co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr.&nbsp;Byosiere is the Director of Canine Research and Development at <a href="https://www.guidedogs.com/">Guide Dogs for the Blind</a>. Previously, she was the Director of the <a href="https://sites.google.com/view/huntertdc/home">Thinking Dog Center</a> at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> <br></p>
+</section>
+<section id="julia-espinosa" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="julia-espinosa">Julia Espinosa</h4>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="images/julia_espinosa.jpg" class="img-fluid"></p>
+</div></div><p><a href="https://sites.google.com/view/jespinosa">Dr.&nbsp;Espinosa</a> co-founded the ManyDogs Project and was the project lead for ManyDogs 1. Dr.&nbsp;Espinosa is a National Science Foundation (NSF) Postdoctoral Fellow at Harvard University’s Department of Human Evolutionary Biology where she works with Dr.&nbsp;Erin Hecht’s <a href="https://projects.iq.harvard.edu/evolutionaryneurosciencelab/home">Evolutionary Neuroscience Lab</a> investigating the heritable and experience-dependent factors that influence the development of dog personality and behavior. After graduating with a BSc in Neuroscience from University of Michigan, she earned a MSc in Animal Biosciences from University of Guelph and a PhD in Cognitive Psychology at University of Toronto. Her work with dogs uses a multi-disciplinary approach to understand the evolution and current phenotypes of aggression and pro-sociality. <br> <br></p>
+
+
 </section>
 </section>
 
@@ -309,9 +332,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -376,6 +413,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -419,6 +542,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© 2023 ManyDogs. Powered by Quarto.</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -440,19 +566,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="https://manydogsproject.slack.com/">
-      <i class="bi bi-slack" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://groups.google.com/u/2/g/manydogs">
-      <i class="bi bi-google" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="./manydogsproject@gmail.com">
+    <a class="nav-link" href="mailto:manydogsproject@gmail.com">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>
