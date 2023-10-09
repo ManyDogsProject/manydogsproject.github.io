@@ -42,11 +42,6 @@ format:
 
 ## Assistant Directors
 
-#### Robert Ian Bowers -  Project Selection and Monitoring
-
-[Dr. Bowers](http://www.psy.bilkent.edu.tr/faculty/faculty-members/robert-ian-bowers-ph-d/) is an Assistant Professor in the Department of Psychology and Neuroscience Programme, Bilkent University, Ankara. He studies behaviour and cognition in specific ecological contexts, notably feeding and mate choice. His research employs a range of methods in several laboratory contexts, including conditioning techniques, cognitive modelling, and simulation of evolutionary processes. Some specific areas of focus include causal reasoning and social influences on mate choice. A general orienting basis for his research is a systems theoretic perspective, behaviour systems theory, which places focus on how multiple behaviours interrelate. Thinking in terms of structured, complex systems helps address questions about complex patterns of behaviour and cognition.
-
-
 #### Emily Bray - Community Building and Network Expansion
 
 ::: {.column-margin}
