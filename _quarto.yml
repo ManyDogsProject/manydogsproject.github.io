@@ -3,6 +3,13 @@ project:
   output-dir: docs
   resources: 
     - "lib/"
+  render: 
+    - "*.qmd"
+    - "!call.qmd"
+    - "!collaborators.qmd"
+    - "!index_backup.qmd"
+    - "!team.qmd"
+
 
 website:
   title: "ManyDogs Project"
@@ -11,14 +18,8 @@ website:
     left:
       - href: getinvolved.qmd
         text: Get Involved
-      # - text: "ManyDogs1"
-      #   menu:
       - href: manydogs1.qmd
         text: ManyDogs1
-        # - href: md1_collaborators.qmd
-        #   text: MD1 Collaborators
-        # - href: md1_team.qmd
-        #   text: MD1 Team
       - href: publications.qmd
         text: Publications
       - href: leadership.qmd
@@ -28,7 +29,7 @@ website:
 
   page-footer: 
     background: light
-    left: "&copy; 2023 ManyDogs. Powered by Quarto." 
+    left: "&copy; 2024 ManyDogs. Powered by Quarto." 
     right: 
       - icon: github
         href: https://github.com/manydogsproject
@@ -36,10 +37,6 @@ website:
         href: https://twitter.com/manydogsproject
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
-      # - icon: slack
-      #   href: https://manydogsproject.slack.com/
-      # - icon: google
-      #   href: https://groups.google.com/u/2/g/manydogs
       - icon: envelope
         href: mailto:manydogsproject@gmail.com
 
