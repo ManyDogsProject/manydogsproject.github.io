@@ -1,0 +1,34 @@
+---
+layout: single
+title: ""
+permalink: /mission/
+# author_profile: true
+
+---
+
+![](images/dogs_along_wall.jpg){fig-alt="Nine dogs of different breeds lined up along a bright pink wall. Photo by Hannah Lim on Unsplash"}
+
+# Mission Statement
+
+The past two decades have seen a dramatic increase in canine science research being conducted all around the world. Although this explosion of research has generated a number of exciting findings, the field as a whole is still relatively new. As a new field, we still have much to learn about our field’s best practices, particularly which methodological and analytical practices lead to the most replicable results. Gaining a better grasp of these best practices as a field will be crucial for facilitating replicable work.
+
+To empirically address these questions regarding best practices, other subfields in psychology have begun large-scale collaborations designed to directly investigate the reproducibility of particular subfields. This progression of large-scale collaborations began with the ManyLabs project in social psychology, and that initial project has since paved the way for other reproducibility projects, most notably ManyBabies and ManyPrimates. Each ManyX project has a specific focus relevant to the concerns of its subfield; however, the overarching mission of each of these projects is the same - investigate the boundaries of reproducibility in the subfield and identify factors that influence reproducibility.
+
+With ManyDogs, we are setting out to conduct our own reproducibility project in the subfield of canine science. In selecting our approach, we have chosen a similar approach to the ManyBabies project, given that the logistical concerns of infant research most closely parallel our own. First, as with infant research, research with dogs is typically more time intensive than traditional social psychology research, as each dog has to be tested one-by-one on longer behavioral measures. Second, it can be difficult to determine the cause of contradictory findings given the vast nature of individual, cultural, training, and breed differences among canine populations. These vast differences currently pose a significant barrier to determining whether contradictory findings across labs result from meaningful individual differences across different populations, different methodological approaches across labs, or simply failed replication.
+
+Thus, the primary goals of the first ManyDogs project are to (1) enhance replicability in the field of canine science, (2) quantify differences across labs and investigate how these differences might influence study results, (3) foster collaboration, and (4) provide a platform for testing questions that require large and/or diverse samples. More details can be found on each of these below.
+
+1. **Enhance Replicability**: As with other ManyX projects (e.g., ManyBabies, ManyLabs, ManyPrimates), one of the primary missions of ManyDogs is to enhance the replicability of canine science.  We aim to do this in a collaborative network that (a) uses large, diverse samples to investigate and replicate findings, (b) examines how different research methods and  testing environments influence the robustness of the results, and c) promotes open science practices of preregistering hypotheses, methods, and analysis plans. 
+
+2. **Provide a Platform for Testing Questions that Require Large and/or Diverse Samples**: We aim to develop a platform where researchers can coordinate with each other in the future to investigate questions they could not address without a large and/or diverse sample (e.g., questions about the impact of individual differences such as training history, breed, etc.).
+
+3. **Quantify Differences Across Labs**: As part of enhancing the replicability of results across the field of canine science, we aim to begin quantifying differences across labs (e.g., in testing environments, methodological approaches, and analysis techniques) to investigate how these differences influence study results in canine science. A closer analysis of these differences will hopefully provide useful information for developing a set of “Best Practices”, similar to what the field of infant cognition has done with the findings from ManyBabies.
+
+4. **Foster Collaboration**: In conducting our first ManyDogs project, we aim to foster international collaboration between diverse research labs. The hope is that this will be the first project of many, and that researchers in all areas of canine science will see this platform as a useful tool for generating additional collaborations.
+
+To achieve these goals, we have chosen a “single study” approach, in line with ManyBabies, in which we select one specific study for all participating labs to conduct in parallel. Thus, our aim with ManyDogs is to enhance replicability in canine science by identifying factors that might influence the reproducibility of our work, while also fostering collaboration and providing a platform for testing questions that require large and/or diverse samples. Our hope is that, over time, this process will identify “best practices” in canine science that can provide a strong and replicable foundation for our quickly growing field.
+
+For more information on our origin and mission, check out our introductory paper at _Comparative Cognition and Behavior Reviews_:
+
+ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N.A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V.A., MacLean, E., Pelgrim, M.H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & Stevens, J.R. (2023). [ManyDogs Project: A big team science approach to investigating canine behavior and cognition](https://doi.org/10.3819/CCBR.2023.180004). _Comparative Cognition and Behavior Reviews_, 18, 59-77. 
+[doi:10.3819/CCBR.2023.180004](https://doi.org/10.3819/CCBR.2023.180004)
