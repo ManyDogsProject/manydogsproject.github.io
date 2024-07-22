@@ -101,6 +101,7 @@ create_tml_split <- function(df,
     ))
   }
   
+  if(split > 1) {
   htmltools::tagList(
     cronologia_dependency(),
     htmltools::tags$p("Completed work", style = "text-align: center; font-size: 25px; font-weight: bold;"),
@@ -128,4 +129,20 @@ create_tml_split <- function(df,
       open
     )
   )
+  } else {
+    htmltools::tagList(
+      cronologia_dependency(),
+      timeline(
+        df[(split + 1):nrow(df), ],
+        smr,
+        dsc,
+        smr2_col,
+        smr2_bgcol,
+        dsc2_col,
+        dsc2_bgcol,
+        dsc_size,
+        open
+      )
+    )
+  }
 }

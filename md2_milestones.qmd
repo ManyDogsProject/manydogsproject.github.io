@@ -16,12 +16,21 @@ knitr::opts_chunk$set(echo = TRUE)
 options(width = 9999)
 
 source(here::here("assets/timeline.R"))
+library(tidyverse)
+library(googlesheets4)
+gs4_deauth()
+md2_milestones <- read_sheet("https://docs.google.com/spreadsheets/d/1o1Bux8H0Xy-qqpApkalYfIOrhD8YbSWyf1S97yymMxw/") |> 
+  rename(summary = Heading, description = Description) |> 
+  mutate(Phase = str_to_title(Phase)) |> 
+  fill(Phase)
+phases <- unique(md2_milestones$Phase)
 ```
 
-## Project Development
+## `r phases[1]`
 
 ```{r echo=FALSE, message=FALSE}
-md2_project_development <- read.csv(here::here("assets/md2_project_development_milestones.csv"))
+md2_project_development <- md2_milestones |> 
+  filter(Phase == phases[1])
 create_tml_split(df = md2_project_development, # the data frame
            smr = "summary", # the column that will be used in the summary 
            dsc = "description", # the column that will be used in the description
@@ -29,3 +38,28 @@ create_tml_split(df = md2_project_development, # the data frame
            )
 ```
 
+
+## `r phases[2]`
+
+```{r echo=FALSE, message=FALSE}
+md2_data_collection <- md2_milestones |> 
+  filter(Phase == phases[2])
+create_tml_split(df = md2_data_collection, # the data frame
+           smr = "summary", # the column that will be used in the summary 
+           dsc = "description", # the column that will be used in the description
+           split = 1
+           )
+```
+
+
+## `r phases[3]`
+
+```{r echo=FALSE, message=FALSE}
+md2_data_processing <- md2_milestones |> 
+  filter(Phase == phases[3])
+create_tml_split(df = md2_data_processing, # the data frame
+           smr = "summary", # the column that will be used in the summary 
+           dsc = "description", # the column that will be used in the description
+           split = 1
+           )
+```
