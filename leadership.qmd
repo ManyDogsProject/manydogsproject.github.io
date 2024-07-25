@@ -37,12 +37,12 @@ format:
 ![](images/jeff_stevens.jpg)
 :::
 
-[Dr. Stevens](https://jeffreyrstevens.quarto.pub/) is a Susan J. Rosowski Associate Professor of Psychology at the University of Nebraska-Lincoln, where he leads the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) studying dog behavior/cognition and canine-human interaction. He obtained his undergraduate degree at Baylor University and completed his Ph.D. at the University of Minnesota, followed by a postdoctoral fellowship at Harvard University and a research scientist position at the Max Planck Institute for Human Development. He has worked with 15 different species, ranging from fish to birds to primates. He's now settled down to two: dogs and humans.
+[Dr. Stevens](https://jeffreyrstevens.quarto.pub/) is a Susan J. Rosowski Professor of Psychology at the University of Nebraska-Lincoln, where he leads the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) studying dog behavior/cognition and canine-human interaction. He obtained his undergraduate degree at Baylor University and completed his Ph.D. at the University of Minnesota, followed by a postdoctoral fellowship at Harvard University and a research scientist position at the Max Planck Institute for Human Development. He has worked with 15 different species, ranging from fish to birds to primates. He's now settled down to two: dogs and humans.
 
 
 ## Assistant Directors
 
-#### Emily Bray - Community Building and Network Expansion
+#### Emily Bray - Communications and Community Building
 
 ::: {.column-margin}
 ![](images/emily_bray.jpg)
@@ -69,7 +69,7 @@ format:
 [Dr. Kuhlmeier](https://www.socialcognitionlab.com/) is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br>
 
 
-#### Madeline Pelgrim  - Methods Development
+#### Madeline Pelgrim  - Methods Development and Monitoring
 
 ::: {.column-margin}
 ![](images/madeline_pelgrim.jpg)
@@ -81,7 +81,7 @@ format:
 ## Committee Members
 
 
-### Community Building and Network Expansion Committee
+### Communications and Community Building Committee
 
 This committee focuses on outreach to other academic groups (globally) as well as to non-academic professionals (e.g., working dogs). It also manages the project social media accounts.
 
@@ -147,7 +147,7 @@ This committee is responsible for applying for funding opportunities, connecting
 [Dr. Buchsbaum](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/daphna-buchsbaum) is an Assistant Professor of Cognitive, Linguistic and Psychological Sciences at Brown University. She directs the Computational Cognitive Development Lab, and its sister lab the [Brown Dog Lab](https://sites.brown.edu/browndoglab/). Dr. Buchsbaum completed her postdoctoral work as a Senior Research Fellow in the University of St. Andrews Psychology department. She completed her doctoral training the UC Berkeley Psychology department, as well as a master's degree in the UC Berkeley Statistics department, focusing on applications of probability theory and statistical computing. Before that, she completed a master's degree at the MIT Media Lab, working on social learning in interactive animated characters. 
 
 
-### Methods Development Committee
+### Methods Development and Monitoring Committee
 
 This committee is responsible for supporting ManyDogs projects through protocol development and implementing best practices in canine science research methods.
 
@@ -165,9 +165,9 @@ Mia is an undergraduate student at the University of Arizona. She's currently in
 [Dr. Jim](https://www.researchgate.net/profile/Hoi-Lam-Jim) is a Postdoctoral Researcher in the Institute for Advanced Study at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br> 
 
 
-### Project Selection and Monitoring Committee
+<!-- ### Project Selection and Monitoring Committee -->
 
-This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects.
+<!-- This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects. -->
 
 #### Angie Johnston
 
