@@ -2,10 +2,6 @@
 layout: single
 title: ""
 permalink: /leadership/
-format:
-  html:
-    toc: true
-    toc-location: left
 ---
 
 # ManyDogs Leadership Team
