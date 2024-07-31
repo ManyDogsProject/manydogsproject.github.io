@@ -18,8 +18,12 @@ website:
     left:
       - href: getinvolved.qmd
         text: Get Involved
-      - href: manydogs1.qmd
-        text: ManyDogs1
+      - text: Projects
+        menu: 
+        - href: manydogs1.qmd
+          text: ManyDogs1
+        - href: manydogs2.qmd
+          text: ManyDogs2
       - href: publications.qmd
         text: Publications
       - href: leadership.qmd
