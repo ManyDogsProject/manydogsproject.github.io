@@ -6,7 +6,7 @@ format:
     grid:
       sidebar-width: 0px
       body-width: 1000px
-      margin-width: 0px
+      margin-width: 300px
       gutter-width: 1.5rem
 ---
 
