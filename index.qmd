@@ -54,7 +54,7 @@ We have just wrapped up our first study, ManyDogs 1, on dog-human social communi
 
 ## Next for ManyDogs
 
-We are currently developing methods for ManyDogs 2. Stay tuned for more information!
+We are currently developing ManyDogs 2. Check out our [project milestones](manydogs2.qmd) for more information!
 
 <!-- ::: {.callout-important icon=false} -->
 <!-- # Call for Project Ideas -->
