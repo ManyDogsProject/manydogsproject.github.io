@@ -8,6 +8,7 @@ project:
     - "!call.qmd"
     - "!collaborators.qmd"
     - "!index_backup.qmd"
+    - "!md2_milestones.qmd"
     - "!team.qmd"
 
 

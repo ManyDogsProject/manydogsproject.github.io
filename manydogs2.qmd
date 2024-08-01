@@ -1,13 +1,14 @@
 ---
 title: ""
 css: ["assets/cronologia.css", "assets/cronologia.min.css"]
-format:
-  html: 
-    grid:
-      sidebar-width: 0px
-      body-width: 1000px
-      margin-width: 300px
-      gutter-width: 1.5rem
+# format:
+#   html: 
+#   page-layout: custom
+    # grid:
+    #   sidebar-width: 0px
+    #   body-width: 1000px
+    #   margin-width: 300px
+    #   gutter-width: 1.5rem
 ---
 
 
@@ -35,6 +36,8 @@ Our ManyDogs 2 project will be on overimitation in dogs. Overimitation occurs wh
 </center>
 
 In ManyDogs 2, we plan to leverage the power of large sample sizes across many labs to study overimitation in dogs. Completing the project is a long process, so we have outlined our project milestones below, letting you know where we are in the process. Keep checking it to see how we're coming along!
+
+:::{.column-page}
 
 ## Project Milestones
 
@@ -75,3 +78,6 @@ create_tml_split(df = md2_data_processing, # the data frame
            split = 1
            )
 ```
+
+:::
+
