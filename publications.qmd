@@ -4,6 +4,15 @@ title: ""
 
 # Publications
 
+## 2024
+
+ManyDogs Project, Espinosa, J., Hare, E., Alberghina, D., Valverde, B. M. P., & Stevens, J. R. (2024). Data from ManyDogs 1. _Journal of Open Psychology Data_, 12(1). [doi:10.5334/jopd.109](https://doi.org/10.5334/jopd.109)
+
+[PDF](https://doi.org/10.5334/jopd.109) • [Preprint](https://doi.org/10.31219/osf.io/jw24a) • [Data and code](https://osf.io/7rwpc/)
+
+* This article publishes all of the data for the ManyDogs 1 project, along with a codebook and a description of how the data were collected.
+
+
 ## 2023
 
 ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N.A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V.A., MacLean, E., Pelgrim, M.H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & Stevens, J.R. (2023). ManyDogs Project: A big team science approach to investigating canine behavior and cognition. _Comparative Cognition and Behavior Reviews_, 18, 59-77. 
