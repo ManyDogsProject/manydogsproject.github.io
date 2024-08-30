@@ -22,13 +22,13 @@ format:
 [Dr. Cavalli](https://www.linkedin.com/in/camila-cavalli/) is a Postdoctoral Research Fellow in the [Human Animal Interaction Lab](https://awp.landfood.ubc.ca/human-animal-interaction-lab/), Animal Welfare Program, Faculty of Land and Food Systems, University of British Columbia (Vancouver, Canada). While many studies in the field of dog cognition compare family dogs with dogs that have a limited experience interacting with humans, such as shelter or free ranging dogs, her research focuses on therapy dogs. This allows her to explore what happens with the socio-cognitive abilities of dogs that experience the opposite situation of having an increase in their frequency and variety of interactions with humans. <br> <br> 
 
 
-#### Ljerka Ostojić
+#### Julia Espinosa
 
 ::: {.column-margin}
-![](images/ljerka_ostojic.jpg)
+![](images/julia_espinosa.jpg)
 :::
 
-[Dr. Ostojić](https://www.cogsci.uniri.hr/people/ljerka-ostojic/) is Assistant Professor at the Faculty of Humanities and Social Sciences, University of Rijeka in Croatia, where she is currently Head of the Division for Cognitive Sciences. She hold an undergraduate and Masters degree in Psychology from the University of Vienna, Austria, and a PhD in Experimental Psychology from the University of Cambridge, UK. She has continued to work as a postdoctoral researcher in Cambridge on social cognition in humans, corvids, cephalopods, and dogs before moving to the University of Rijeka, where she is now continuing her research on social cognition, primarily in humans and dogs, as well as working on meta-science projects at the Centre for Mind and Behaviour, where she runs the Comparative Cognitive Science Lab.
+[Dr. Espinosa](https://sites.google.com/view/jespinosa) co-founded the ManyDogs Project and was the project lead for ManyDogs 1. Dr. Espinosa is a National Science Foundation (NSF) Postdoctoral Fellow at Harvard University's Department of Human Evolutionary Biology where she works with Dr. Erin Hecht's [Evolutionary Neuroscience Lab](https://projects.iq.harvard.edu/evolutionaryneurosciencelab/home) investigating the heritable and experience-dependent factors that influence the development of dog personality and behavior. After graduating with a BSc in Neuroscience  from University of Michigan, she earned a MSc in Animal Biosciences from University of Guelph and a PhD in Cognitive Psychology at University of Toronto. Her work with dogs uses a multi-disciplinary approach to understand the evolution and current phenotypes of aggression and pro-sociality. <br> <br>
 
 
 #### Jeffrey R. Stevens
@@ -116,13 +116,13 @@ This committee focuses on outreach to other academic groups (globally) as well a
 
 This committee is responsible for supporting ManyDogs projects in implementing open science practices and adhering to reproducibility standards, as well as developing database infrastructure/storage at the larger organization level.
 
-#### Daniela Alberghina
+<!-- #### Daniela Alberghina -->
 
-::: {.column-margin}
-![](images/daniela_alberghina.jpg)
-:::
+<!-- ::: {.column-margin} -->
+<!-- ![](images/daniela_alberghina.jpg) -->
+<!-- ::: -->
 
-[Dr. Alberghina](https://www.researchgate.net/profile/Daniela-Alberghina) is an Associate Professor of Veterinary Ethology and Animal Welfare at Università degli Studi di Messina. Her research focuses on management factors that could affect the welfare of animal domestic species and on factors influencing the development of stereotypic behaviors. She is Diplomate at the European College of Animal Welfare and Behavioral Medicine (AWSEL). <br> <br> <br>
+<!-- [Dr. Alberghina](https://www.researchgate.net/profile/Daniela-Alberghina) is an Associate Professor of Veterinary Ethology and Animal Welfare at Università degli Studi di Messina. Her research focuses on management factors that could affect the welfare of animal domestic species and on factors influencing the development of stereotypic behaviors. She is Diplomate at the European College of Animal Welfare and Behavioral Medicine (AWSEL). <br> <br> <br> -->
 
 
 #### Bryan Perez
@@ -185,15 +185,15 @@ Mia is an undergraduate student at the University of Arizona. She's currently in
 ![](images/sarah_byosiere.jpg)
 :::
 
-[Dr. Byosiere](https://www.linkedin.com/in/sarahbyosiere/) co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of Canine Research and Development at [Guide Dogs for the Blind](https://www.guidedogs.com/). Previously, she was the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> <br>
+[Dr. Byosiere](https://www.linkedin.com/in/sarahbyosiere/) co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of Canine Research and Development at [Guide Dogs for the Blind](https://www.guidedogs.com/). Previously, she was the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> 
 
 
-#### Julia Espinosa
+#### Ljerka Ostojić
 
 ::: {.column-margin}
-![](images/julia_espinosa.jpg)
+![](images/ljerka_ostojic.jpg)
 :::
 
-[Dr. Espinosa](https://sites.google.com/view/jespinosa) co-founded the ManyDogs Project and was the project lead for ManyDogs 1. Dr. Espinosa is a National Science Foundation (NSF) Postdoctoral Fellow at Harvard University's Department of Human Evolutionary Biology where she works with Dr. Erin Hecht's [Evolutionary Neuroscience Lab](https://projects.iq.harvard.edu/evolutionaryneurosciencelab/home) investigating the heritable and experience-dependent factors that influence the development of dog personality and behavior. After graduating with a BSc in Neuroscience  from University of Michigan, she earned a MSc in Animal Biosciences from University of Guelph and a PhD in Cognitive Psychology at University of Toronto. Her work with dogs uses a multi-disciplinary approach to understand the evolution and current phenotypes of aggression and pro-sociality. <br> <br>
+[Dr. Ostojić](https://www.cogsci.uniri.hr/people/ljerka-ostojic/) is Assistant Professor at the Faculty of Humanities and Social Sciences, University of Rijeka in Croatia, where she is currently Head of the Division for Cognitive Sciences. She hold an undergraduate and Masters degree in Psychology from the University of Vienna, Austria, and a PhD in Experimental Psychology from the University of Cambridge, UK. She has continued to work as a postdoctoral researcher in Cambridge on social cognition in humans, corvids, cephalopods, and dogs before moving to the University of Rijeka, where she is now continuing her research on social cognition, primarily in humans and dogs, as well as working on meta-science projects at the Centre for Mind and Behaviour, where she runs the Comparative Cognitive Science Lab.
 
 
