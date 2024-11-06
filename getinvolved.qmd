@@ -23,6 +23,7 @@ We're thrilled to partner with other big team science, multi-lab consortiums tha
 * [ManyFishes](https://themanyfishes.github.io/)
 * [ManyGoats](https://www.themanygoatsproject.com/)
 * [ManyManys](https://manymanys.github.io/)
+* [ManyOtters](https://manyotters.github.io/)
 * [ManyPrimates](https://manyprimates.github.io)
 * [ManyZoos](https://manyzoos.weebly.com/)
 * [Psychological Science Accelerator](https://psysciacc.org/)
