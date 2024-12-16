@@ -98,11 +98,95 @@
     "text": "Next for ManyDogs\nWe are currently developing ManyDogs 2. Check out our project milestones for more information!"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "ManyDogs",
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "ManyDogs FAQ",
     "section": "",
-    "text": "The ManyDogs Project is an international consortium of researchers interested in canine science.\nIf you are interested in learning more about ManyDogs, we recommend reading our introductory article, which includes our consortium’s mission statement and more general information about our approach.\nFor information or inquiries from the media, please email the ManyDogs project coordinators.\nFollow us on Twitter or Mastodon for updates!"
+    "text": "The ManyDogs Project is an international consortium of canine scientists who collaborate in multi-site studies of canine cognition and behavior. We are a grassroots movement of volunteers with research training, ranging in experience from undergraduate students to tenured professors, and also including scientists that work in other dog-related professions. We promote open science practices in research and work to build a stronger connection between geographically distant canine scientists through information sharing and big team science methods."
+  },
+  {
+    "objectID": "faq.html#what-is-manydogs-md",
+    "href": "faq.html#what-is-manydogs-md",
+    "title": "ManyDogs FAQ",
+    "section": "",
+    "text": "The ManyDogs Project is an international consortium of canine scientists who collaborate in multi-site studies of canine cognition and behavior. We are a grassroots movement of volunteers with research training, ranging in experience from undergraduate students to tenured professors, and also including scientists that work in other dog-related professions. We promote open science practices in research and work to build a stronger connection between geographically distant canine scientists through information sharing and big team science methods."
+  },
+  {
+    "objectID": "faq.html#how-can-i-get-involved-in-manydogs",
+    "href": "faq.html#how-can-i-get-involved-in-manydogs",
+    "title": "ManyDogs FAQ",
+    "section": "How can I get involved in ManyDogs?",
+    "text": "How can I get involved in ManyDogs?\nThere are two main ways to connect to ManyDogs: 1) as a research member or 2) as a community member. Research members are individuals with formal research training who directly help conduct the research activities involved with MD studies. This could include, but is not limited to, collecting data for our studies, analyzing behavioral data from our studies, or providing administrative help for the projects. Community members (including dog professionals that are not trained in research) are individuals that are interested in joining our mailing list to receive news and periodic updates on study progress. They are also very welcome to participate with their dog in an MD study that is taking place at a research site near them."
+  },
+  {
+    "objectID": "faq.html#how-do-i-become-a-manydogs-community-member",
+    "href": "faq.html#how-do-i-become-a-manydogs-community-member",
+    "title": "ManyDogs FAQ",
+    "section": "How do I become a ManyDogs community member?",
+    "text": "How do I become a ManyDogs community member?\nWe have a community mailing list that you are able to join by filling out this brief survey. After joining the mailing list, you can expect to receive periodic updates about study progress from ManyDogs, including a call for dogs and guardians to visit our participating research sites when we begin new studies."
+  },
+  {
+    "objectID": "faq.html#how-do-i-become-a-maydogs-research-member",
+    "href": "faq.html#how-do-i-become-a-maydogs-research-member",
+    "title": "ManyDogs FAQ",
+    "section": "How do I become a MayDogs research member?",
+    "text": "How do I become a MayDogs research member?\nResearch member applicants who would like to directly help conduct the research activities are asked to complete the Member Registration Survey. This brief survey will ask you to provide some basic information about yourself and includes the ManyDogs code of conduct. Membership is contingent on agreeing to abide by the code of conduct. If you would like to read the code of conduct prior to starting the survey, you can find the full text here. Please note that becoming a research member is a prerequisite to contribute to the research activities of an active MD study, but that you are not automatically enrolled as a study contributor upon submitting the Member Registration Survey. Once you submit the survey and are connected to the MD network (i.e., Slack, email lists), you are very welcome and encouraged to become a contributor to any ongoing studies that have open enrollment. Depending on the study, there may be additional study-specific collaborator agreements or registration surveys for you to complete to officially join the list of research contributors."
+  },
+  {
+    "objectID": "faq.html#what-are-the-various-contribution-areas-within-manydogs",
+    "href": "faq.html#what-are-the-various-contribution-areas-within-manydogs",
+    "title": "ManyDogs FAQ",
+    "section": "What are the various contribution areas within ManyDogs?",
+    "text": "What are the various contribution areas within ManyDogs?\nThere are several ways that individuals can become actively involved in ManyDogs.\nResearch members may join one of the various administrative committees that oversee consortium functioning, outreach to researchers and the broader dog community, or funding acquisition. Some of the roles in these committees are open for volunteers to join at any time of the year, and other positions are determined through a formal nomination and voting at MD annual elections. To find out more about the different administrative roles in ManyDogs, visit the Leadership Team page of this website and read our election guidelines. MD researcher membership is required to vote in annual elections. If you have questions about consortium administrative roles, please contact the current co-directors at manydogsproject@gmail.com.\nResearch members may also choose to join administrative and/or research activities related to specific ManyDogs studies that have open enrollment. The exact nature and availability of the roles within an MD study will vary based on the study and the stage at which you are joining. To find out more about possible opportunities, visit the Projects tab and read about our active studies and reach out to study leads with specific questions.\nCommunity members are welcome to join our mailing list and participate in any active studies that are accessible to them. Typically, study participation involves a behavioral component that will take place during a visit to one of the research sites collecting data. You are welcome to review the list of participating sites to find one near you if you would like to contribute data to one of the studies."
+  },
+  {
+    "objectID": "faq.html#what-is-the-time-commitment-associated-with-joining-manydogs-as-a-research-member",
+    "href": "faq.html#what-is-the-time-commitment-associated-with-joining-manydogs-as-a-research-member",
+    "title": "ManyDogs FAQ",
+    "section": "What is the time commitment associated with joining ManyDogs as a research member?",
+    "text": "What is the time commitment associated with joining ManyDogs as a research member?\nYou are welcome to contribute at a level that works for you. Depending on your availability and interest level, you can decide to engage in various research activities associated with one of the ongoing studies (e.g., data collection, methodological design, pre-registration, manuscript writing) and/or join an administrative committee that supports the greater consortium infrastructure and canine science community. The time commitments and period of service will vary according to role, don’t hesitate to reach out to current leadership team members or study leads with specific questions about time commitments."
+  },
+  {
+    "objectID": "faq.html#can-i-receive-manydogs-updates-and-announcements-if-im-not-a-research-member",
+    "href": "faq.html#can-i-receive-manydogs-updates-and-announcements-if-im-not-a-research-member",
+    "title": "ManyDogs FAQ",
+    "section": "Can I receive ManyDogs updates and announcements if I’m not a research member?",
+    "text": "Can I receive ManyDogs updates and announcements if I’m not a research member?\nYes, you are very welcome to join our Google Group (i.e., listserv) and receive occasional updates without making any time commitment to the project (this is the same process as becoming a ManyDogs community member, outlined above). To sign up for our general mailing list, fill out this brief survey. If you intend to sign up as a research member, you are automatically added to the general list, you do not need to complete the survey above."
+  },
+  {
+    "objectID": "faq.html#is-manydogs-study-data-available-for-secondary-analyses",
+    "href": "faq.html#is-manydogs-study-data-available-for-secondary-analyses",
+    "title": "ManyDogs FAQ",
+    "section": "Is ManyDogs study data available for secondary analyses?",
+    "text": "Is ManyDogs study data available for secondary analyses?\nYes, our datasets are open access and do not require advance approval to use. Data collected in ManyDogs studies is available for researchers and students to use for their own secondary data analyses and projects. If you are interested in using data from an MD study, you can find the published datasets linked through our publications page of this website. If you have questions that are not answered by the data paper corresponding to the dataset of interest, please contact the study’s corresponding author or the MD administration team with your inquiry."
+  },
+  {
+    "objectID": "faq.html#how-should-i-credit-manydogs-on-secondary-projects-that-use-data-from-a-md-study",
+    "href": "faq.html#how-should-i-credit-manydogs-on-secondary-projects-that-use-data-from-a-md-study",
+    "title": "ManyDogs FAQ",
+    "section": "How should I credit ManyDogs on secondary projects that use data from a MD study?",
+    "text": "How should I credit ManyDogs on secondary projects that use data from a MD study?\nDepending on the nature of your project, you may decide it is appropriate to include ManyDogs Project as an author, or to include a mention in the acknowledgements section.\nIf you use ManyDogs data, please cite the publication(s) associated with the data. Also, please notify the MD administrative team of your publication, and send any DOIs or links to conference proceedings so that your work can be featured on our website."
+  },
+  {
+    "objectID": "faq.html#how-can-i-propose-a-study-idea-to-do-with-the-manydogs-project",
+    "href": "faq.html#how-can-i-propose-a-study-idea-to-do-with-the-manydogs-project",
+    "title": "ManyDogs FAQ",
+    "section": "How can I propose a study idea to do with the ManyDogs Project?",
+    "text": "How can I propose a study idea to do with the ManyDogs Project?\nWhen we are ready to consider the next project, MD will post a public call for research proposals, at which time anyone who is a research member (or willing to become a research member) and available to play a key role in leading a study is welcome to submit a proposal. Proposed projects should align with the open science and inclusivity standards of MD to maximize the participation of both individual researchers and research sites. Details on the proposal structure and content will be included in the call."
+  },
+  {
+    "objectID": "faq.html#does-manydogs-financially-support-research-participation",
+    "href": "faq.html#does-manydogs-financially-support-research-participation",
+    "title": "ManyDogs FAQ",
+    "section": "Does ManyDogs financially support research participation?",
+    "text": "Does ManyDogs financially support research participation?\nAt this time, MD does not financially support research participation. One of our committees is actively seeking funding opportunities that support big team science work, so this answer may change in the future. If you are aware of any such funding opportunities or would like to be involved in the committee working on obtaining funding, please contact the MD administrative team."
+  },
+  {
+    "objectID": "faq.html#do-i-need-to-obtain-my-own-ethics-approval-to-implement-a-md-study",
+    "href": "faq.html#do-i-need-to-obtain-my-own-ethics-approval-to-implement-a-md-study",
+    "title": "ManyDogs FAQ",
+    "section": "Do I need to obtain my own ethics approval to implement a MD study?",
+    "text": "Do I need to obtain my own ethics approval to implement a MD study?\nYes, research activities with nonhuman animals require ethical approval or proof of exemption. Research members who intend to collect data for a MD study at their research site will be required to seek approval for the protocol from their local institutional review board and submit a copy of the approval letter prior to collecting data. At some institutions, behavioral studies with dogs do not meet the requirements to undergo a full review process and an exemption letter indicating that the study is exempt under the institutional review board’s research guidelines is sufficient. If you have questions about how to apply for ethics for an MD study, please get in touch with the study leadership team or members of the MD administrative team. Individual research members who plan to contribute to the study in other capacities besides organizing data collection in their own facility (e.g., manuscript writing, general project administration) do not need to seek ethical approval for their participation."
   },
   {
     "objectID": "codeofconduct.html",
@@ -166,6 +250,13 @@
     "title": "Code of Conduct",
     "section": "",
     "text": "Note that this is a living document. Comments and questions are explicitly encouraged. Feel free to contact the leadership team or submit a GitHub issue."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "ManyDogs",
+    "section": "",
+    "text": "The ManyDogs Project is an international consortium of researchers interested in canine science.\nIf you are interested in learning more about ManyDogs, we recommend reading our introductory article, which includes our consortium’s mission statement and more general information about our approach.\nFor information or inquiries from the media, please email the ManyDogs project coordinators.\nFollow us on Twitter or Mastodon for updates!"
   },
   {
     "objectID": "getinvolved.html",
