@@ -34,7 +34,7 @@ website:
 
   page-footer: 
     background: light
-    left: "&copy; 2024 ManyDogs. Powered by Quarto." 
+    left: "&copy; 2025 ManyDogs. Powered by Quarto." 
     right: 
       - icon: github
         href: https://github.com/manydogsproject
