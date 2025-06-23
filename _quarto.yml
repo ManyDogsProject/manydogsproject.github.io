@@ -5,11 +5,11 @@ project:
     - "lib/"
   render: 
     - "*.qmd"
-    - "!call.qmd"
-    - "!collaborators.qmd"
-    - "!index_backup.qmd"
-    - "!md2_milestones.qmd"
-    - "!team.qmd"
+    - "!backup_index.qmd"
+    - "!deprecated_call.qmd"
+    - "!deprecated_collaborators.qmd"
+    - "!deprecated_md2_milestones.qmd"
+    - "!deprecated_team.qmd"
 
 
 website:
