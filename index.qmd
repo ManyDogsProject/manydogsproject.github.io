@@ -47,14 +47,14 @@ Hover over dots to see lab names, and zoom and drag map to explore lab locations
 
 
 
-## ManyDogs 1
+## Projects
 
-We have just wrapped up our first study, ManyDogs 1, on dog-human social communication. The aim of ManyDogs 1 was to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We investigated this by running a single study with standardized methodology in a large number of labs in North America, South America, and Europe. For more information on this study, please see the [ManyDogs 1](manydogs1.qmd) section of this website. 
+We have completed our first study, [ManyDogs 1](manydogs1.qmd), on dog-human social communication. The aim of ManyDogs 1 was to take a closer look at the long-debated question of whether dogs understand pointing as an informative gesture or as a command. We investigated this by running a single study with standardized methodology on over 700 dogs in 20 research sites in North America, South America, and Europe.
 
 
-## Next for ManyDogs
+### ManyDogs 2
 
-We are currently developing ManyDogs 2. Check out our [project milestones](manydogs2.qmd) for more information!
+We are currently recruiting research sites for our next study. Check out our [ManyDogs 2 project page](manydogs2.qmd) for more information!
 
 <!-- ::: {.callout-important icon=false} -->
 <!-- # Call for Project Ideas -->
