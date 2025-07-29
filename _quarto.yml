@@ -36,10 +36,12 @@ website:
     background: light
     left: "&copy; 2025 ManyDogs. Powered by Quarto." 
     right: 
+      - icon: opencollective
+        href: https://opencollective.com/manydogs
       - icon: github
         href: https://github.com/manydogsproject
-      - icon: twitter 
-        href: https://twitter.com/manydogsproject
+      - text: "{{< iconify fa6-brands:bluesky title='Bluesky'>}}"
+        href: https://bsky.app/profile/manydogsproject.bsky.social
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
       - icon: envelope
