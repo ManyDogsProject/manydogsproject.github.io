@@ -17,6 +17,16 @@ website:
   favicon: images/favicon.ico
   navbar:
     left:
+      - text: About
+        menu: 
+          - href: mission.qmd
+            text: Mission
+          - href: faq.qmd
+            text: FAQ
+          - href: leadership.qmd
+            text: "Leadership Team"
+          - href: codeofconduct.qmd
+            text: "Code of Conduct"
       - href: getinvolved.qmd
         text: Get Involved
       - text: Projects
@@ -27,8 +37,8 @@ website:
           text: ManyDogs2
       - href: publications.qmd
         text: Publications
-      - href: leadership.qmd
-        text: "Leadership Team"
+      - href: donate.qmd
+        text: Donate
       - href: contact.qmd
         text: Contact
 
