@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.23">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-1fe81d0376b2c50856e68e651e390326.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-54eb60a3e74d736761952ee019b59740.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fe1f2a72398956e897cd67e5e76b00c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -84,6 +85,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">ManyDogs Project</span>
     </a>
@@ -174,11 +177,11 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Open call
+<span class="screen-reader-only">Note</span>Open call
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>We are currently recruiting research sites to conduct the ManyDogs 2 project! If you want to participate, please contact us at <a href="mailto:manydogsproject2@gmail.com">manydogsproject2@gmail.com</a> to begin the onboarding process.</p>
+<p>We are currently recruiting research sites to conduct the ManyDogs 2 project! If you want to participate, please contact us at <a href="mailto:manydogsproject2@gmail.com">manydogsproject2@gmail.com</a> to begin the onboarding process. Or view our <a href="https://docs.google.com/document/d/1EDe3BrTc-ur6c6KTjX2HLbouxp3WTNyT9EFqaD4npHg/">study manual</a> to see what we’re doing.</p>
 </div>
 </div>
 <p>Our ManyDogs 2 project will be on overimitation in dogs. Overimitation occurs when an individual imitates another’s action that is unnecessary to achieve a goal. For example, if you see someone wipe their brow before picking up a heavy object, wiping the brow isn’t necessary to pick up the object. So copying the brow wiping would be an example of overimitation. Human children do this <strong>a lot</strong> (<a href="https://doi.org/10.1016/j.dr.2018.12.002">Hoehl et al., 2019</a>), and dogs overimitate in certain situations (<a href="https://doi.org/10.3758/s13420-019-00400-w">Huber et al.&nbsp;2020</a>).</p>
@@ -515,13 +518,14 @@ Open call
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
