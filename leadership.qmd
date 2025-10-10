@@ -69,17 +69,17 @@ format:
 [Dr. Kuhlmeier](https://www.socialcognitionlab.com/) is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br>
 
 
-#### Madeline Pelgrim  - Methods Development and Monitoring
+#### Hoi-Lam Jim - Methods Development and Monitoring
 
 ::: {.column-margin}
-![](images/madeline_pelgrim.jpg)
+![](images/hoi-lam_jim.jpg)
 :::
 
-[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br>
+[Dr. Jim](https://www.researchgate.net/profile/Hoi-Lam-Jim) is a Postdoctoral Researcher in the Institute for Advanced Study at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br> 
+
 
 
 ## Committee Members
-
 
 ### Communications and Community Building Committee
 
@@ -156,15 +156,6 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 Mia is an undergraduate student at the University of Arizona. She's currently in her senior year at the University of Arizona. For her senior thesis, she's working on ManyDogs 1 with the [Arizona Canine Cognition Center](https://dogs.arizona.edu/). She helps to run the experiments, and she's collecting data on the effect of canine engagement on experimental performance for her thesis question. <br> <br>
 
 
-#### Hoi-Lam Jim
-
-::: {.column-margin}
-![](images/hoi-lam_jim.jpg)
-:::
-
-[Dr. Jim](https://www.researchgate.net/profile/Hoi-Lam-Jim) is a Postdoctoral Researcher in the Institute for Advanced Study at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br> 
-
-
 <!-- ### Project Selection and Monitoring Committee -->
 
 <!-- This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects. -->
@@ -197,3 +188,10 @@ Mia is an undergraduate student at the University of Arizona. She's currently in
 [Dr. Ostojić](https://www.cogsci.uniri.hr/people/ljerka-ostojic/) is Assistant Professor at the Faculty of Humanities and Social Sciences, University of Rijeka in Croatia, where she is currently Head of the Division for Cognitive Sciences. She hold an undergraduate and Masters degree in Psychology from the University of Vienna, Austria, and a PhD in Experimental Psychology from the University of Cambridge, UK. She has continued to work as a postdoctoral researcher in Cambridge on social cognition in humans, corvids, cephalopods, and dogs before moving to the University of Rijeka, where she is now continuing her research on social cognition, primarily in humans and dogs, as well as working on meta-science projects at the Centre for Mind and Behaviour, where she runs the Comparative Cognitive Science Lab.
 
 
+#### Madeline Pelgrim
+
+::: {.column-margin}
+![](images/madeline_pelgrim.jpg)
+:::
+
+[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br>
