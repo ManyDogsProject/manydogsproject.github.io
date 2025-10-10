@@ -46,15 +46,22 @@ ManyDogs Project, Espinosa, J., Byosiere, S.-E., Pelgrim M. (2021). ManyDogs Pro
 Stevens, J.R. (2021). The ManyDogs Project: A big team science approach to canine cognition, International Society for Anthrozoology, virtual meeting.
 
 
-## Posters and social media conferences
+## Posters and social media conferences (* presenters)
 
-Bray, E.E. (2023). ManyDogs Project: Leveraging big team science to understand canine behavior and cognition. [Animal Behaviour Twitter Conference](https://twitter.com/search?q=%23AnimBehav2023&src=typed_query&f=top).
+Gerwisch, K.*, Mackie, L., Folkertsma, R., ManyDogs Project, Huber, L. (2025). Overimitation in assistance and family dogs: The influence of the human-dog relationship quality. Canine Science Forum, Budapest, Hungary.
+
+Jim, H.-L.*, Song, X., Kuroshima, H., Yamamoto, S., Gerwisch, K., Mackie, L., & ManyDogs Project (2025). ManyDogs 2: Investigating overimitation in dogs. [85th Annual Meeting of the Japanese Society of Animal Psychology](https://sites.google.com/hatapsydoshisha.com/jsap2025), Kyoto, Japan.
+
+ManyDogs Project, Gerwisch, K.*, Mackie, L., Huber, L. (2025). Investigating Overimitation in Dogs:
+ The ManyDogs 2 Project. [Big Team Science Conference](https://bigteamscienceconference.github.io/), online.
+
+Bray, E.E.* (2023). ManyDogs Project: Leveraging big team science to understand canine behavior and cognition. [Animal Behaviour Twitter Conference](https://twitter.com/search?q=%23AnimBehav2023&src=typed_query&f=top).
 
 Collins-Pisano, C., Montgomery, L., Elrod, L., Lazarowski, L., & Katz, J. (2023).  Dogs’ performance on an object-choice task utilizing a momentary contralateral point. Comparative Cognition Conference, Melbourne, Florida, USA.
 
 Srdoc, T., Ostojić, L., & ManyDogs Project (2023). ManyDogs 1: A multi-lab replication study of dogs' pointing comprehension. [Behavior 2023](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/veranstaltungen/behaviour2023/), Bielefeld, Germany.
 
-Barela, J., Wolff, L., & Stevens, J.R. (2022). The ManyDogs Project: A team science approach to canine cognition. [Nebraska Symposium on Motivation: Canine Cognition and the Human Bond](https://psychology.unl.edu/symposium/recent-symposia/#sym2022), Lincoln, Nebraska, USA.
+Barela, J.*, Wolff, L., & Stevens, J.R. (2022). The ManyDogs Project: A team science approach to canine cognition. [Nebraska Symposium on Motivation: Canine Cognition and the Human Bond](https://motivation.unl.edu/previous-symposia/), Lincoln, Nebraska, USA.
 
-Gnanadesikan, G. & Espinosa, J. (2021). ManyDogs 1: An international collaborative approach to pointing comprehension in domestic dogs. [Animal Behaviour Twitter Conference](https://twitter.com/search?q=%23AnimBehav2021&src=typed_query&f=top).
+Gnanadesikan, G. & Espinosa, J. (2021). ManyDogs 1: An international collaborative approach to pointing comprehension in domestic dogs. [Animal Behaviour Twitter Conference](https://twitter.com/search?q=%23AnimBehav2021&src=typed_query&f=top), online.
 
