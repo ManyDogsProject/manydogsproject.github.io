@@ -19,7 +19,7 @@ format:
 ![](images/camila_cavalli.jpg)
 :::
 
-[Dr. Cavalli](https://www.linkedin.com/in/camila-cavalli/) is a Postdoctoral Research Fellow in the [Human Animal Interaction Lab](https://awp.landfood.ubc.ca/human-animal-interaction-lab/), Animal Welfare Program, Faculty of Land and Food Systems, University of British Columbia (Vancouver, Canada). While many studies in the field of dog cognition compare family dogs with dogs that have a limited experience interacting with humans, such as shelter or free ranging dogs, her research focuses on therapy dogs. This allows her to explore what happens with the socio-cognitive abilities of dogs that experience the opposite situation of having an increase in their frequency and variety of interactions with humans. <br> <br> 
+[Dr. Cavalli](https://psych.ubc.ca/profile/camila-cavalli/) is a Lecturer at the Department of Psychology at the University of British Columbia (UBC - Vancouver, Canada). Prior to starting that position, she was a Postdoctoral Research Fellow in the [Human Animal Interaction Lab](https://awp.landfood.ubc.ca/human-animal-interaction-lab/), Animal Welfare Program at UBC. Her research focuses on therapy dogs, both exploring the effects of increased interaction with humans on dogs' sociocognitive behaviours; as well as studying ways to improve the welfare of these dogs during sessions.  <br> <br> <br>
 
 
 #### Julia Espinosa
@@ -37,7 +37,7 @@ format:
 ![](images/jeff_stevens.jpg)
 :::
 
-[Dr. Stevens](https://jeffreyrstevens.quarto.pub/) is a Susan J. Rosowski Professor of Psychology at the University of Nebraska-Lincoln, where he leads the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) studying dog behavior/cognition and canine-human interaction. He obtained his undergraduate degree at Baylor University and completed his Ph.D. at the University of Minnesota, followed by a postdoctoral fellowship at Harvard University and a research scientist position at the Max Planck Institute for Human Development. He has worked with 15 different species, ranging from fish to birds to primates. He's now settled down to two: dogs and humans.
+[Dr. Stevens](https://jeffreyrstevens.quarto.pub/) is a Professor of Psychology at the University of Nebraska-Lincoln, where he leads the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu) studying dog behavior/cognition and canine-human interaction. He obtained his undergraduate degree at Baylor University and completed his Ph.D. at the University of Minnesota, followed by a postdoctoral fellowship at Harvard University and a research scientist position at the Max Planck Institute for Human Development. He has worked with 15 different species, ranging from fish to birds to primates. He's now settled down to two: dogs and humans.
 
 
 ## Assistant Directors
@@ -66,16 +66,16 @@ format:
 ![](images/valerie_kuhlmeier.png)
 :::
 
-[Dr. Kuhlmeier](https://www.socialcognitionlab.com/) is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br>
+[Dr. Kuhlmeier](https://www.socialcognitionlab.com/) is a Professor in the Department of Psychology, Queen’s University (Kingston, Ontario, Canada). Her research program explores cognition from a developmental and evolutionary perspective. She examines the origins of our cognitive capacities in a comparative manner, studying infants, young children, non-human primates, and dogs. <br> <br> <br> <br>
 
 
 #### Hoi-Lam Jim - Methods Development and Monitoring
 
 ::: {.column-margin}
-![](images/hoi-lam_jim.jpg)
+![](images/hoi_lab_jim.jpg)
 :::
 
-[Dr. Jim](https://www.researchgate.net/profile/Hoi-Lam-Jim) is a Postdoctoral Researcher in the Institute for Advanced Study at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br> 
+[Dr. Jim](https://www.researchgate.net/profile/Hoi-Lam-Jim)  is a Postdoctoral Researcher in the Institute for the Future of Human Society at Kyoto University. She is interested in animal behavior and cognition in a variety of cooperative, group-living species to further our understanding of social cognition in non-human animals. She obtained her PhD on eavesdropping in dogs, wolves, and elephants at the University of Veterinary Medicine Vienna, Austria.<br> <br> <br> 
 
 
 
@@ -84,6 +84,16 @@ format:
 ### Communications and Community Building Committee
 
 This committee focuses on outreach to other academic groups (globally) as well as to non-academic professionals (e.g., working dogs). It also manages the project social media accounts.
+
+#### Hannah Burrows
+
+::: {.column-margin}
+![](images/hannah_burrows.jpg)
+:::
+
+
+Hannah Burrows is a graduate student in Psychology (Cognitive Neuroscience) at Queen’s University, Canada, where she studies dog–human interaction and comparative cognition in the Social Cognition Lab. Her research examines how guardians perceive canine behaviour and how these perceptions relate to real-time behavioural dynamics in dog–guardian dyads. Her work aims to link guardian-report measures with observable behaviour to inform welfare, training, and handler–dog compatibility. 
+
 
 #### Lucia Lazarowski
 
@@ -106,10 +116,10 @@ This committee focuses on outreach to other academic groups (globally) as well a
 #### Andrea Sommese
 
 ::: {.column-margin}
-![](images/andrea_sommese.png)
+![](images/andrea_sommese.jpg)
 :::
 
-[Dr. Sommese](https://andreasommese.wordpress.com/) has worked mostly with canids, on topics spacing between ecology and behavior. His particular field of expertise is dog-human communication and dogs' cognition. In the last 3 years, his research focused on language learning in dogs. The gifted dog project received considerable attention from the media, especially since it was the first live broadcast scientific event of its kind (‘the [Genius Dog Challenge](https://geniusdogchallenge.com/)’). The outcome of this research has been featured in many news reports across TV, radio, newspapers, and other platforms. <br> <br> <br>
+[Dr. Sommese](https://andreasommese.wordpress.com/) is a cognitive ethologist whose research spans animal cognition, welfare, and human–animal interaction. While much of his work has focused on canids, his expertise extends across species, including cats and guinea pigs. His research investigates how animals perceive and interpret their environment, with a particular emphasis on dog–human communication, attention, and social cognition. <br> <br> <br>
 
 
 ### Data Management and Open Science Committee
@@ -125,13 +135,36 @@ This committee is responsible for supporting ManyDogs projects in implementing o
 <!-- [Dr. Alberghina](https://www.researchgate.net/profile/Daniela-Alberghina) is an Associate Professor of Veterinary Ethology and Animal Welfare at Università degli Studi di Messina. Her research focuses on management factors that could affect the welfare of animal domestic species and on factors influencing the development of stereotypic behaviors. She is Diplomate at the European College of Animal Welfare and Behavioral Medicine (AWSEL). <br> <br> <br> -->
 
 
-#### Bryan Perez
+<!-- #### Bryan Perez -->
+
+<!-- ::: {.column-margin} -->
+<!-- ![](images/bryan_perez.jpg) -->
+<!-- ::: -->
+
+<!-- [Brian](https://www.linkedin.com/in/bryan-mitchel-perez-valverde-904b8b1b3/) is a volunteer at the Hunter College [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) and lab technician at Rockefeller University. His interests are on human-nonhuman animal interactions and bonds of domestic and wild species. He has a preference in studying canine cognition and behavior such as language, communication, emotions, and perception. He graduated from undergrad at City University of New York, Hunter College studying Psychology: Animal Behavior and in the Animal Behavior & Conservation Masters Advanced Certificate program. He has been helping in the Thinking Dog Center in behavioral coding of stress behavior in dog shelters, handling dogs for the Impossible tasks and Bolgna Study. He participated in the draft writing intro and as an election teller for ManyDogs. -->
+
+
+#### Muhzina Shajid Pyari
 
 ::: {.column-margin}
-![](images/bryan_perez.jpg)
+![](images/muhzina_pyari.jpg)
 :::
 
-[Brian](https://www.linkedin.com/in/bryan-mitchel-perez-valverde-904b8b1b3/) is a volunteer at the Hunter College [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) and lab technician at Rockefeller University. His interests are on human-nonhuman animal interactions and bonds of domestic and wild species. He has a preference in studying canine cognition and behavior such as language, communication, emotions, and perception. He graduated from undergrad at City University of New York, Hunter College studying Psychology: Animal Behavior and in the Animal Behavior & Conservation Masters Advanced Certificate program. He has been helping in the Thinking Dog Center in behavioral coding of stress behavior in dog shelters, handling dogs for the Impossible tasks and Bolgna Study. He participated in the draft writing intro and as an election teller for ManyDogs.
+Dr. Muhzina is a research associate at Maueyes. She brings a wealth of insight into animal behaviour and cognition. Her research explores the subtle intricacies of social behavior, cognitive flexibility, individual variations and the developmental impact of the environment.
+Her academic journey spans from the bustling streets of Kolkata, where she studied free-ranging dogs, to the heart of Budapest, where she completed her doctoral work exploring predatory play in domestic cats. 
+Beyond the lab, she is a seasoned educator and science communicator with a flair for storytelling and a heart for animal welfare. 
+
+
+#### Em Sundby
+
+
+#### Lupin Teles
+
+::: {.column-margin}
+![](images/lupin_teles.jpg)
+:::
+
+Lupin is a research assistant at the Quantitative Ecology Lab at Federal University of Alagoas in Brazil. They contribute to ManyDogs as a data analysis team member, working on data storage infrastructure and has served as an election teller for the project. With a background in behavioral observation, statistical analysis, and field research, they are interested in canine behavior and cognition, human-animal relationships, and the evolution of canine cognition.
 
 
 ### Funding Committee
@@ -144,7 +177,9 @@ This committee is responsible for applying for funding opportunities, connecting
 ![](images/daphna_buchsbaum.jpg)
 :::
 
-[Dr. Buchsbaum](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/daphna-buchsbaum) is an Assistant Professor of Cognitive, Linguistic and Psychological Sciences at Brown University. She directs the Computational Cognitive Development Lab, and its sister lab the [Brown Dog Lab](https://sites.brown.edu/browndoglab/). Dr. Buchsbaum completed her postdoctoral work as a Senior Research Fellow in the University of St. Andrews Psychology department. She completed her doctoral training the UC Berkeley Psychology department, as well as a master's degree in the UC Berkeley Statistics department, focusing on applications of probability theory and statistical computing. Before that, she completed a master's degree at the MIT Media Lab, working on social learning in interactive animated characters. 
+[Dr. Buchsbaum](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/daphna-buchsbaum) is an Associate Professor of Cognitive and Psychological Sciences at Brown University. She directs the Computational Cognitive Development Lab, and its sister lab the Brown Dog Lab. She was previously a faculty member at the University of Toronto. Dr. Buchsbaum completed her postdoctoral work as a Senior Research Fellow at the University of St. Andrews studying primate cognition. She completed her doctoral training in the UC Berkeley Psychology department, as well as a master’s degree in statistics, focusing on applications of probability theory and statistical computing. Before that, she completed a master’s degree at the MIT Media Lab, working on social learning in interactive animated characters. However, the first species she ever studied was the crab spider Misumena vatia. 
+
+#### Ana Rita Farias
 
 
 ### Methods Development and Monitoring Committee
@@ -153,12 +188,25 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 
 #### Mia Hickey
 
-Mia is an undergraduate student at the University of Arizona. She's currently in her senior year at the University of Arizona. For her senior thesis, she's working on ManyDogs 1 with the [Arizona Canine Cognition Center](https://dogs.arizona.edu/). She helps to run the experiments, and she's collecting data on the effect of canine engagement on experimental performance for her thesis question. <br> <br>
+::: {.column-margin}
+![](images/mia_hickey.jpg)
+:::
+
+Mia Hickey is a graduate of the University of Arizona. For her senior thesis, she worked on ManyDogs 1 collecting data and studying the effect of canine engagement on experimental performance. Mia is honored to be a part of the Methods Development Committee for ManyDogs 2, as she is deeply passionate about animal welfare and the future of science dedicated to a greater understanding of dogs and other animals. <br> <br>
 
 
 <!-- ### Project Selection and Monitoring Committee -->
 
 <!-- This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects. -->
+
+#### Hillary Jean-Joseph
+
+::: {.column-margin}
+![](images/hillary_jean-joseph.jpg)
+:::
+
+Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans.
+
 
 #### Angie Johnston
 
@@ -167,6 +215,15 @@ Mia is an undergraduate student at the University of Arizona. She's currently in
 :::
 
 [Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br>
+
+#### Ella Williamson
+
+::: {.column-margin}
+![](images/ella_williamson.png)
+:::
+
+Ella Williamson is a PhD student at the University of York’s Department of Psychology in the UK. Her research focuses on social cognition in candidate assistance dogs and breeding stock, with the aim of developing a clearer understanding of the socio-cognitive profiles that contribute to successful assistance dog performance. She is also interested in dog and puppy sensitivity to human vocal communication, such as speech type and language, as well as dog vocal behaviour, and explores these topics through playback experiments and citizen science surveys. Ella has previously contributed to the ManyBirds 1 project, working with a variety of bird of prey species. When she’s not working, you’ll likely find her competing in agility or canicross with her dogs, Russo and Turbo.
+
 
 # Previous Leadership Team Members
 
