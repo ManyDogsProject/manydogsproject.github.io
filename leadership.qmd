@@ -48,7 +48,7 @@ format:
 ![](images/emily_bray.jpg)
 :::
 
-[Dr. Bray](https://www.emilyebray.com/) is an Assistant Professor in The University of Arizona College of Veterinary Medicine and a Research Scientist at [Canine Companions](https://canine.org/), the largest US non-profit providing service dogs to people with disabilities. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D. from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.
+[Dr. Bray](https://www.emilyebray.com/) is an Assistant Professor in The University of Arizona College of Veterinary Medicine, where she leads the Behavioral Research Across Years (BRAY) Lab. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D. from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.
 
 
 #### Liz Hare -  Data Management and Open Science
@@ -208,13 +208,21 @@ Mia Hickey is a graduate of the University of Arizona. For her senior thesis, sh
 Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans.
 
 
-#### Angie Johnston
+<!-- #### Angie Johnston -->
+
+<!-- ::: {.column-margin} -->
+<!-- ![](images/angie_johnston.jpg) -->
+<!-- ::: -->
+
+<!-- [Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br> -->
+
+#### Madeline Pelgrim
 
 ::: {.column-margin}
-![](images/angie_johnston.jpg)
+![](images/madeline_pelgrim.jpg)
 :::
 
-[Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br>
+[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br> <br>
 
 #### Ella Williamson
 
@@ -245,10 +253,4 @@ Ella Williamson is a PhD student at the University of York’s Department of Psy
 [Dr. Ostojić](https://www.cogsci.uniri.hr/people/ljerka-ostojic/) is Assistant Professor at the Faculty of Humanities and Social Sciences, University of Rijeka in Croatia, where she is currently Head of the Division for Cognitive Sciences. She hold an undergraduate and Masters degree in Psychology from the University of Vienna, Austria, and a PhD in Experimental Psychology from the University of Cambridge, UK. She has continued to work as a postdoctoral researcher in Cambridge on social cognition in humans, corvids, cephalopods, and dogs before moving to the University of Rijeka, where she is now continuing her research on social cognition, primarily in humans and dogs, as well as working on meta-science projects at the Centre for Mind and Behaviour, where she runs the Comparative Cognitive Science Lab.
 
 
-#### Madeline Pelgrim
 
-::: {.column-margin}
-![](images/madeline_pelgrim.jpg)
-:::
-
-[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br>
