@@ -186,13 +186,13 @@ This committee is responsible for applying for funding opportunities, connecting
 
 This committee is responsible for supporting ManyDogs projects through protocol development and implementing best practices in canine science research methods.
 
-#### Mia Hickey
+<!-- #### Mia Hickey -->
 
-::: {.column-margin}
-![](images/mia_hickey.jpg)
-:::
+<!-- ::: {.column-margin} -->
+<!-- ![](images/mia_hickey.jpg) -->
+<!-- ::: -->
 
-Mia Hickey is a graduate of the University of Arizona. For her senior thesis, she worked on ManyDogs 1 collecting data and studying the effect of canine engagement on experimental performance. Mia is honored to be a part of the Methods Development Committee for ManyDogs 2, as she is deeply passionate about animal welfare and the future of science dedicated to a greater understanding of dogs and other animals. <br> <br>
+<!-- Mia Hickey is a graduate of the University of Arizona. For her senior thesis, she worked on ManyDogs 1 collecting data and studying the effect of canine engagement on experimental performance. Mia is honored to be a part of the Methods Development Committee for ManyDogs 2, as she is deeply passionate about animal welfare and the future of science dedicated to a greater understanding of dogs and other animals. <br> <br> -->
 
 
 <!-- ### Project Selection and Monitoring Committee -->
