@@ -205,7 +205,7 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 ![](images/hillary_jean-joseph.jpg)
 :::
 
-Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans.
+Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans. <br> <br> <br>
 
 
 <!-- #### Angie Johnston -->
