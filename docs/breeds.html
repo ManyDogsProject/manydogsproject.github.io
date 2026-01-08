@@ -1,0 +1,3167 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Dog breeds – ManyDogs Project</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-fe1f2a72398956e897cd67e5e76b00c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">ManyDogs Project</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./mission.html">
+ <span class="dropdown-text">Mission</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./faq.html">
+ <span class="dropdown-text">FAQ</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./leadership.html">
+ <span class="dropdown-text">Leadership Team</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./codeofconduct.html">
+ <span class="dropdown-text">Code of Conduct</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./getinvolved.html"> 
+<span class="menu-text">Get Involved</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="./manydogs1.html">
+ <span class="dropdown-text">ManyDogs1</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./manydogs2.html">
+ <span class="dropdown-text">ManyDogs2</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./donate.html"> 
+<span class="menu-text">Donate</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Dog breeds</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>This is a list of all allowable breeds for our study. To search for your breed, type Ctrl/Cmd+F or click <em>Edit</em> &gt; <em>Find in Page</em>, then start typing the breed name. Find the breed name closest to your breed and select that for the survey question.</p>
+<p>Note: If your breed is a crossbreed (e.g., doodles), they will not be included in this list of single breeds. To enter doodles, go back to the previous question and select crossbreed instead of single breed.</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 23%">
+<col style="width: 20%">
+<col style="width: 32%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">EN</th>
+<th style="text-align: left;">DE</th>
+<th style="text-align: left;">HU</th>
+<th style="text-align: left;">JA</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Affenpinscher</td>
+<td style="text-align: left;">Affenpinscher</td>
+<td style="text-align: left;">Affenpinscher</td>
+<td style="text-align: left;">アーフェンピンシャー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Afghan Hound</td>
+<td style="text-align: left;">Afghanischer Windhund</td>
+<td style="text-align: left;">Afgán agár</td>
+<td style="text-align: left;">アフガンハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Aidi</td>
+<td style="text-align: left;">Aidi</td>
+<td style="text-align: left;">Aidi</td>
+<td style="text-align: left;">アイディ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Airedale Terrier</td>
+<td style="text-align: left;">Airedale Terrier</td>
+<td style="text-align: left;">Airedale terrier</td>
+<td style="text-align: left;">エアデール・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Akbash</td>
+<td style="text-align: left;">Akbash</td>
+<td style="text-align: left;">Akbash</td>
+<td style="text-align: left;">アクバシュ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Akita (American)</td>
+<td style="text-align: left;">Akita (Amerikanisch)</td>
+<td style="text-align: left;">Akita (amerikai)</td>
+<td style="text-align: left;">秋田犬(アメリカン)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Akita (Japanese)</td>
+<td style="text-align: left;">Akita (Japanisch)</td>
+<td style="text-align: left;">Akita (japán)</td>
+<td style="text-align: left;">秋田犬</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Alapaha Blue Blood Bulldog</td>
+<td style="text-align: left;">Alapaha Blaublut-Bulldogge</td>
+<td style="text-align: left;">Alapaha kékvérű bulldog</td>
+<td style="text-align: left;">アラパハ・ブルーブラッド・ブルドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Alaskan Klee Kai</td>
+<td style="text-align: left;">Alaskan Klee Kai</td>
+<td style="text-align: left;">Alaszkai Klee Kai</td>
+<td style="text-align: left;">アラスカン・クリー・カイ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Alaskan Malamute</td>
+<td style="text-align: left;">Alaskan Malamute</td>
+<td style="text-align: left;">Alaszkai malamut</td>
+<td style="text-align: left;">アラスカン・マラミュート</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Alpine Dachsbracke</td>
+<td style="text-align: left;">Alpenländische Dachsbracke</td>
+<td style="text-align: left;">Alpesi tacskókopó</td>
+<td style="text-align: left;">アルペン・ダックスブラッケ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Bulldog</td>
+<td style="text-align: left;">Amerikanische Bulldogge</td>
+<td style="text-align: left;">Amerikai bulldog</td>
+<td style="text-align: left;">アメリカンブルドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">American English Coonhound</td>
+<td style="text-align: left;">Amerikanischer English Coonhound</td>
+<td style="text-align: left;">Amerikai angol mosómedvekutya</td>
+<td style="text-align: left;">アメリカン・イングリッシュ・クーンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Eskimo Dog (Miniature)</td>
+<td style="text-align: left;">Amerikanischer Eskimohund (Miniatur)</td>
+<td style="text-align: left;">Amerikai eszkimó kutya (miniatűr)</td>
+<td style="text-align: left;">アメリカン・エスキモー・ドッグ（ミニチュア）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">American Eskimo Dog (Standard)</td>
+<td style="text-align: left;">Amerikanischer Eskimohund (Standard)</td>
+<td style="text-align: left;">Amerikai eszkimó kutya (standard)</td>
+<td style="text-align: left;">アメリカン・エスキモー・ドッグ（スタンダード）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Eskimo Dog (Toy)</td>
+<td style="text-align: left;">Amerikanischer Eskimohund (Toy)</td>
+<td style="text-align: left;">Amerikai eszkimó kutya (játék)</td>
+<td style="text-align: left;">アメリカン・エスキモー・ドッグ（トイ）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">American Foxhound</td>
+<td style="text-align: left;">Amerikanischer Foxhound</td>
+<td style="text-align: left;">Amerikai rókakutya</td>
+<td style="text-align: left;">アメリカン・フォックスハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Hairless Terrier</td>
+<td style="text-align: left;">Amerikanischer Nackthund</td>
+<td style="text-align: left;">Amerikai meztelen terrier</td>
+<td style="text-align: left;">アメリカン・ヘアレス・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">American Leopard Hound</td>
+<td style="text-align: left;">Amerikanischer Leopardenhund</td>
+<td style="text-align: left;">Amerikai leopárdkutya</td>
+<td style="text-align: left;">アメリカン・レパード・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Pit Bull Terrier</td>
+<td style="text-align: left;">Amerikanischer Pitbull Terrier</td>
+<td style="text-align: left;">Amerikai pitbull terrier</td>
+<td style="text-align: left;">アメリカン・ピット・ブル・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">American Staffordshire Terrier</td>
+<td style="text-align: left;">Amerikanischer Staffordshire Terrier</td>
+<td style="text-align: left;">Amerikai staffordshire terrier</td>
+<td style="text-align: left;">アメリカン・スタッフォードシャー・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">American Water Spaniel</td>
+<td style="text-align: left;">Amerikanischer Wasserspaniel</td>
+<td style="text-align: left;">Amerikai vízispániel</td>
+<td style="text-align: left;">アメリカン・ウォーター・スパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Anatolian Shepherd Dog</td>
+<td style="text-align: left;">Anatolischer Hirtenhund</td>
+<td style="text-align: left;">Anatóliai juhászkutya</td>
+<td style="text-align: left;">アナトリアン・シェパード・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Anglo-Français de Moyen Venerie</td>
+<td style="text-align: left;">Anglo-Français de Moyen Venerie</td>
+<td style="text-align: left;">Anglo-Français de Moyen Venerie</td>
+<td style="text-align: left;">アングロ＝フランセ・ド・モワン・ヴェヌリー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Anglo-Français de Petite Venerie</td>
+<td style="text-align: left;">Anglo-Français de Petite Venerie</td>
+<td style="text-align: left;">Angol-francia de Petite Venerie</td>
+<td style="text-align: left;">アングロ＝フランセ・ド・プティット・ヴェヌリー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Appenzeller Sennenhunde</td>
+<td style="text-align: left;">Appenzeller Sennenhunde</td>
+<td style="text-align: left;">Appenzelli szarvasmarha</td>
+<td style="text-align: left;">アペンツェラー・ゼネンフント</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ariegeois</td>
+<td style="text-align: left;">Ariègeois</td>
+<td style="text-align: left;">Ariégeai</td>
+<td style="text-align: left;">アリエージョワ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Australian Cattle Dog</td>
+<td style="text-align: left;">Australischer Treibhund</td>
+<td style="text-align: left;">Ausztrál pásztorkutya</td>
+<td style="text-align: left;">オーストラリアン・キャトル・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Australian Kelpie</td>
+<td style="text-align: left;">Australischer Kelpie</td>
+<td style="text-align: left;">Ausztrál kelpie</td>
+<td style="text-align: left;">オーストラリアン・ケルピー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Australian Shepherd</td>
+<td style="text-align: left;">Australischer Schäferhund</td>
+<td style="text-align: left;">Ausztrál juhászkutya</td>
+<td style="text-align: left;">オーストラリアンシェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Australian Stumpy Tail Cattle Dog</td>
+<td style="text-align: left;">Australischer Stumpy Tail Cattle Dog</td>
+<td style="text-align: left;">Ausztrál csonkafarkú pásztorkutya</td>
+<td style="text-align: left;">オーストラリアン・スタンピーテイル・キャトル・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Australian Terrier</td>
+<td style="text-align: left;">Australischer Terrier</td>
+<td style="text-align: left;">Ausztrál terrier</td>
+<td style="text-align: left;">オーストラリアン・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Austrian Black and Tan Hound</td>
+<td style="text-align: left;">Österreichischer Schwarzbrauner Laufhund</td>
+<td style="text-align: left;">Osztrák fekete-cser kopó</td>
+<td style="text-align: left;">オーストリアン・ブラック・アンド・タン・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Austrian Pinscher</td>
+<td style="text-align: left;">Österreichischer Pinscher</td>
+<td style="text-align: left;">Osztrák pincser</td>
+<td style="text-align: left;">オーストリアン・ピンシャー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Azawakh</td>
+<td style="text-align: left;">Azawakh</td>
+<td style="text-align: left;">Azawakh</td>
+<td style="text-align: left;">アザワク</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Barak</td>
+<td style="text-align: left;">Barak</td>
+<td style="text-align: left;">Bárák</td>
+<td style="text-align: left;">バラク</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Barbet</td>
+<td style="text-align: left;">Barbet</td>
+<td style="text-align: left;">Barbet</td>
+<td style="text-align: left;">バルビー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Basenji</td>
+<td style="text-align: left;">Basenji</td>
+<td style="text-align: left;">Basenji</td>
+<td style="text-align: left;">バセンジー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Basset Artesien Normand</td>
+<td style="text-align: left;">Basset Artésien Normand</td>
+<td style="text-align: left;">Basset Artésien Normand</td>
+<td style="text-align: left;">バセット・アルテジアン・ノルマン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Basset Bley de Gascogne</td>
+<td style="text-align: left;">Basset Bley de Gascogne</td>
+<td style="text-align: left;">Gascogne-i basset bley</td>
+<td style="text-align: left;">バセット・ブレイ・ド・ガスコーニュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Basset Fauve de Bretagne</td>
+<td style="text-align: left;">Basset Fauve de Bretagne</td>
+<td style="text-align: left;">Bretagne-i fauve basset</td>
+<td style="text-align: left;">バセット・フォーヴ・ド・ブルターニュ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Basset Hound</td>
+<td style="text-align: left;">Basset</td>
+<td style="text-align: left;">Basset Hound</td>
+<td style="text-align: left;">バセットハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bavarian Mountain Hound</td>
+<td style="text-align: left;">Bayerischer Gebirgsschweißhund</td>
+<td style="text-align: left;">Bajor hegyi véreb</td>
+<td style="text-align: left;">バイエルン・マウンテン・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Beagle</td>
+<td style="text-align: left;">Beagle</td>
+<td style="text-align: left;">Vizsla</td>
+<td style="text-align: left;">ビーグル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Beagle Harrier</td>
+<td style="text-align: left;">Beagle Harrier</td>
+<td style="text-align: left;">Beagle Harrier</td>
+<td style="text-align: left;">ビーグルハリアー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bearded Collie</td>
+<td style="text-align: left;">Bearded Collie</td>
+<td style="text-align: left;">Szakállas collie</td>
+<td style="text-align: left;">ビアデッド・コリー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Beauceron</td>
+<td style="text-align: left;">Beauceron</td>
+<td style="text-align: left;">Beauceron</td>
+<td style="text-align: left;">ボースロン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bedlington Terrier</td>
+<td style="text-align: left;">Bedlington Terrier</td>
+<td style="text-align: left;">Bedlington terrier</td>
+<td style="text-align: left;">ベドリントン・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Belgian Laekenois</td>
+<td style="text-align: left;">Belgisches Laekenois</td>
+<td style="text-align: left;">Belga juhászkutya (laekenois)</td>
+<td style="text-align: left;">ベルジアン・シェパード・ドッグ・ラケノア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Belgian Malinois</td>
+<td style="text-align: left;">Belgischer Malinois</td>
+<td style="text-align: left;">Belga juhászkutya (malinois)</td>
+<td style="text-align: left;">ベルジアン・シェパード・ドッグ・マリノア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Belgian Sheepdog</td>
+<td style="text-align: left;">Belgischer Schäferhund</td>
+<td style="text-align: left;">Belga juhászkutya</td>
+<td style="text-align: left;">ベルジアン・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Belgian Tervuren</td>
+<td style="text-align: left;">Belgischer Tervuren</td>
+<td style="text-align: left;">Belga juhászkutya (tervueren)</td>
+<td style="text-align: left;">ベルギー・タービュレン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bergamasco</td>
+<td style="text-align: left;">Bergamasco</td>
+<td style="text-align: left;">Bergamasco</td>
+<td style="text-align: left;">ベルガマスコ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Berger Blanc Suisse</td>
+<td style="text-align: left;">Berger Blanc Suisse</td>
+<td style="text-align: left;">Berger Blanc Suisse</td>
+<td style="text-align: left;">ホワイト・スイス・シェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Berger Picard</td>
+<td style="text-align: left;">Berger Picard</td>
+<td style="text-align: left;">Berger Picard</td>
+<td style="text-align: left;">ピカルディ・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bernese Mountain Dog</td>
+<td style="text-align: left;">Berner Sennenhund</td>
+<td style="text-align: left;">Berni pásztorkutya</td>
+<td style="text-align: left;">バーニーズ・マウンテン・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bichon Frisé</td>
+<td style="text-align: left;">Bichon Frisé</td>
+<td style="text-align: left;">Bichon Frisé</td>
+<td style="text-align: left;">ビション・フリーゼ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Biewer Terrier</td>
+<td style="text-align: left;">Biewer Terrier</td>
+<td style="text-align: left;">Biewer terrier</td>
+<td style="text-align: left;">ビエバー・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Billy</td>
+<td style="text-align: left;">Billy</td>
+<td style="text-align: left;">Fütykösbot</td>
+<td style="text-align: left;">ビリー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Black Mouth Cur</td>
+<td style="text-align: left;">Black Mouth Cur</td>
+<td style="text-align: left;">Fekete szájú curly</td>
+<td style="text-align: left;">ブラックマウスカー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Black Russian Terrier</td>
+<td style="text-align: left;">Schwarzer Russischer Terrier</td>
+<td style="text-align: left;">Fekete orosz terrier</td>
+<td style="text-align: left;">ブラック・ロシアン・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Black and Tan Coonhound</td>
+<td style="text-align: left;">Black and Tan Coonhound</td>
+<td style="text-align: left;">Fekete-cser mosómedvekopó</td>
+<td style="text-align: left;">ブラック・アンド・タン・クーンハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bloodhound</td>
+<td style="text-align: left;">Bluthund</td>
+<td style="text-align: left;">Véreb</td>
+<td style="text-align: left;">ブラッドハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bluetick Coonhound</td>
+<td style="text-align: left;">Bluetick Coonhound</td>
+<td style="text-align: left;">Kék mosómedvekopó</td>
+<td style="text-align: left;">ブルーティック・クーンハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Boerboel</td>
+<td style="text-align: left;">Boerboel</td>
+<td style="text-align: left;">Boerboel</td>
+<td style="text-align: left;">ボーアボール</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bolognese</td>
+<td style="text-align: left;">Bolognese</td>
+<td style="text-align: left;">Bolognai pincs</td>
+<td style="text-align: left;">ボロニーズ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Border Collie</td>
+<td style="text-align: left;">Border Collie</td>
+<td style="text-align: left;">Border Collie</td>
+<td style="text-align: left;">ボーダーコリー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Border Terrier</td>
+<td style="text-align: left;">Border Terrier</td>
+<td style="text-align: left;">Határterrier</td>
+<td style="text-align: left;">ボーダーテリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Borzoi</td>
+<td style="text-align: left;">Barsoi</td>
+<td style="text-align: left;">Borzoi</td>
+<td style="text-align: left;">ボルゾイ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Boston Terrier</td>
+<td style="text-align: left;">Boston Terrier</td>
+<td style="text-align: left;">Bostoni terrier</td>
+<td style="text-align: left;">ボストンテリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bouvier des Ardennes</td>
+<td style="text-align: left;">Bouvier des Ardennes</td>
+<td style="text-align: left;">Ardenni pásztorkutya</td>
+<td style="text-align: left;">ブービエ・デ・アルデンヌ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bouvier des Flandres</td>
+<td style="text-align: left;">Bouvier des Flandres</td>
+<td style="text-align: left;">Flandriai pásztorkutya</td>
+<td style="text-align: left;">ブービエ・デ・フランダース</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Boxer</td>
+<td style="text-align: left;">Boxer</td>
+<td style="text-align: left;">Boxer</td>
+<td style="text-align: left;">ボクサー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Boykin Spaniel</td>
+<td style="text-align: left;">Boykin Spaniel</td>
+<td style="text-align: left;">Boykin spániel</td>
+<td style="text-align: left;">ボイキンスパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bracco Italiano</td>
+<td style="text-align: left;">Bracco Italiano</td>
+<td style="text-align: left;">Olasz vizsla</td>
+<td style="text-align: left;">ブラッコ・イタリアーノ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Braque Francais Pyrenean</td>
+<td style="text-align: left;">Französische Pyrenäen-Braque</td>
+<td style="text-align: left;">Francia vizsla</td>
+<td style="text-align: left;">ピレニアン・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Braque Saint-Germain</td>
+<td style="text-align: left;">Braque Saint-Germain</td>
+<td style="text-align: left;">Saint-Germain vizsla</td>
+<td style="text-align: left;">サンジェルマン・ポインター</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Braque d’Auvergne</td>
+<td style="text-align: left;">Braque d’Auvergne</td>
+<td style="text-align: left;">Auvergne-i vizsla</td>
+<td style="text-align: left;">オーヴェルニュ・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Braque de l’Ariege</td>
+<td style="text-align: left;">Braque de l’Ariege</td>
+<td style="text-align: left;">Ariège-i vizsla</td>
+<td style="text-align: left;">アリエージュ・ポインター</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Braque du Bourbonnais</td>
+<td style="text-align: left;">Braque du Bourbonnais</td>
+<td style="text-align: left;">Bourbonnai vizsla</td>
+<td style="text-align: left;">ブルボネ・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Briard</td>
+<td style="text-align: left;">Briard</td>
+<td style="text-align: left;">Briard</td>
+<td style="text-align: left;">ブリアード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Briquette Griffon Vendeen</td>
+<td style="text-align: left;">Brikett Griffon Vendéen</td>
+<td style="text-align: left;">Griffon Vendéen brikett</td>
+<td style="text-align: left;">ブリケット・グリフォン・ヴァンデーン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Brittany (American)</td>
+<td style="text-align: left;">Brittany (Amerikanisch)</td>
+<td style="text-align: left;">Brittany (amerikai)</td>
+<td style="text-align: left;">ブリタニー（アメリカン）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Brittany (French)</td>
+<td style="text-align: left;">Bretagne (Französisch)</td>
+<td style="text-align: left;">Bretagne (francia)</td>
+<td style="text-align: left;">ブルターニュ（フレンチ）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Broholmer (Danish Broholmer)</td>
+<td style="text-align: left;">Broholmer (Dänischer Broholmer)</td>
+<td style="text-align: left;">Broholmer (dán broholmer)</td>
+<td style="text-align: left;">ブロホルマー（デーニッシュ・ブロホルマー ）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Brussels Griffon</td>
+<td style="text-align: left;">Brüsseler Griffon</td>
+<td style="text-align: left;">Brüsszeli griffon</td>
+<td style="text-align: left;">ブリュッセル・グリフォン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bull Terrier</td>
+<td style="text-align: left;">Bullterrier</td>
+<td style="text-align: left;">Bullterrier</td>
+<td style="text-align: left;">ブルテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Bulldog</td>
+<td style="text-align: left;">Bulldogge</td>
+<td style="text-align: left;">Buldog</td>
+<td style="text-align: left;">ブルドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bullmastiff</td>
+<td style="text-align: left;">Bullmastiff</td>
+<td style="text-align: left;">Bullmasztiff</td>
+<td style="text-align: left;">ブルマスティフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CIobanesc Romanesc Mioritic</td>
+<td style="text-align: left;">CIobanesc Romanesc Mioritic</td>
+<td style="text-align: left;">Ciobanesc román mioritikus</td>
+<td style="text-align: left;">ルーマニアン・ミオリティック・シープドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ca de Bestiar</td>
+<td style="text-align: left;">Ca de Bestiar</td>
+<td style="text-align: left;">Ca de Bestiar</td>
+<td style="text-align: left;">カ・デ・ベスティアル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cairn Terrier</td>
+<td style="text-align: left;">Cairn Terrier</td>
+<td style="text-align: left;">Cairn terrier</td>
+<td style="text-align: left;">ケアン・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Canaan Dog</td>
+<td style="text-align: left;">Kanaan-Hund</td>
+<td style="text-align: left;">Kánaáni kutya</td>
+<td style="text-align: left;">カナーン・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Canadian Eskimo Dog</td>
+<td style="text-align: left;">Kanadischer Eskimohund</td>
+<td style="text-align: left;">Kanadai eszkimó kutya</td>
+<td style="text-align: left;">カナディアン・エスキモー・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cane Corso</td>
+<td style="text-align: left;">Cane Corso</td>
+<td style="text-align: left;">Cane Corso</td>
+<td style="text-align: left;">イタリアン・コルソ・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cardigan Welsh Corgi</td>
+<td style="text-align: left;">Cardigan Welsh Corgi</td>
+<td style="text-align: left;">Kardigán Welsh Corgi</td>
+<td style="text-align: left;">カーディガン・ウェルシュ・コーギー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Carolina Dog</td>
+<td style="text-align: left;">Carolina Hund</td>
+<td style="text-align: left;">Karolinai kutya</td>
+<td style="text-align: left;">カロライナドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Catahoula Leopard Dog</td>
+<td style="text-align: left;">Catahoula Leopard Dog</td>
+<td style="text-align: left;">Catahoula leopárdkutya</td>
+<td style="text-align: left;">カタフーラ・レオパード・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Catalonian Sheepdog</td>
+<td style="text-align: left;">Katalonischer Schäferhund</td>
+<td style="text-align: left;">Katalán juhászkutya</td>
+<td style="text-align: left;">カタロニアン・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Caucasian Ovcharka</td>
+<td style="text-align: left;">Kaukasischer Owtscharka</td>
+<td style="text-align: left;">Kaukázusi juhászkutya</td>
+<td style="text-align: left;">コーカシアン・シェパード・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cavalier King Charles Spaniel</td>
+<td style="text-align: left;">Cavalier King Charles Spaniel</td>
+<td style="text-align: left;">Cavalier King Charles spániel</td>
+<td style="text-align: left;">キャバリア・キング・チャールズ・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Central Asian Shepherd Dog</td>
+<td style="text-align: left;">Zentralasiatischer Schäferhund</td>
+<td style="text-align: left;">Közép-ázsiai juhászkutya</td>
+<td style="text-align: left;">セントラル・アジア・シェパード・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cesky Terrier</td>
+<td style="text-align: left;">Cesky Terrier</td>
+<td style="text-align: left;">Cesky terrier</td>
+<td style="text-align: left;">チェスキー・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chart Polski</td>
+<td style="text-align: left;">Chart Polski</td>
+<td style="text-align: left;">Lengyel agár</td>
+<td style="text-align: left;">チャート・ポルスキ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chesapeake Bay Retriever</td>
+<td style="text-align: left;">Chesapeake Bay Retriever</td>
+<td style="text-align: left;">Chesapeake Bay retriever</td>
+<td style="text-align: left;">チェサピークベイレトリーバー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chien Français Blanc Tricolore</td>
+<td style="text-align: left;">Chien Français Blanc Tricolore</td>
+<td style="text-align: left;">Trikolor francia kopó</td>
+<td style="text-align: left;">シアン フランセ ブラン トリコロール</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chien Français Blanc et Noir</td>
+<td style="text-align: left;">Französischer weiß-schwarzer Laufhund</td>
+<td style="text-align: left;">Fehér-fekete francia kopó</td>
+<td style="text-align: left;">シアン・フランセ・ブラン・エ・ノワール</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chien Français Blanc et Orange</td>
+<td style="text-align: left;">Chien Français Blanc et Orange</td>
+<td style="text-align: left;">Fehér-cser francia kopó</td>
+<td style="text-align: left;">シアン フランセ ブラン エ オランジュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chien d’Artois</td>
+<td style="text-align: left;">Chien d’Artois</td>
+<td style="text-align: left;">Artois-i kopó</td>
+<td style="text-align: left;">シアン・ダルトワ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chihuahua</td>
+<td style="text-align: left;">Chihuahua</td>
+<td style="text-align: left;">Csivava</td>
+<td style="text-align: left;">チワワ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chinese Crested Dog</td>
+<td style="text-align: left;">Chinesischer Schopfhund</td>
+<td style="text-align: left;">Kínai meztelen kutya</td>
+<td style="text-align: left;">チャイニーズ・クレステッド・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chinese Shar Pei</td>
+<td style="text-align: left;">Chinesischer Shar Pei</td>
+<td style="text-align: left;">Kínai Shar Pei</td>
+<td style="text-align: left;">チャイニーズ・シャーペイ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chinook</td>
+<td style="text-align: left;">Chinook</td>
+<td style="text-align: left;">Chinook</td>
+<td style="text-align: left;">チヌーク</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chow Chow</td>
+<td style="text-align: left;">Chow-Chow</td>
+<td style="text-align: left;">Csau-csu</td>
+<td style="text-align: left;">チャウチャウ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cimarron Uruguayo</td>
+<td style="text-align: left;">Cimarron Uruguayo</td>
+<td style="text-align: left;">Cimarron Uruguayo</td>
+<td style="text-align: left;">シマロン・ウルグアヨ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ciobanesc Romanesc Carpatin</td>
+<td style="text-align: left;">Ciobanesc Romanesc Carpatin</td>
+<td style="text-align: left;">Ciobanesc Romanesc Carpatin</td>
+<td style="text-align: left;">カルパチアン・シェパード・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cirneco dell’Etna</td>
+<td style="text-align: left;">Cirneco dell’Etna</td>
+<td style="text-align: left;">Cirneco dell’Etna</td>
+<td style="text-align: left;">チルネコ・デル・エトナ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Clumber Spaniel</td>
+<td style="text-align: left;">Clumber Spaniel</td>
+<td style="text-align: left;">Clumber spániel</td>
+<td style="text-align: left;">クランバースパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cocker Spaniel (American)</td>
+<td style="text-align: left;">Cocker Spaniel (Amerikanisch)</td>
+<td style="text-align: left;">Cocker spániel (amerikai)</td>
+<td style="text-align: left;">コッカースパニエル（アメリカン）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Collie (Rough/Smooth)</td>
+<td style="text-align: left;">Collie (Rauhaar/Glatthaar)</td>
+<td style="text-align: left;">Collie (durva/sima szőrű)</td>
+<td style="text-align: left;">コリー（ラフ/スムース）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Coton de Tulear</td>
+<td style="text-align: left;">Coton de Tuléar</td>
+<td style="text-align: left;">Coton de Tulear</td>
+<td style="text-align: left;">コトン・ド・テュレアール</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Crnogorski Planinski Gonic (Montenegrin Mountain Hound)</td>
+<td style="text-align: left;">Crnogorski Planinski Gonic (Montenegrinischer Gebirgshund)</td>
+<td style="text-align: left;">Crnogorski Planinski Gonic (montenegrói hegyi kopó)</td>
+<td style="text-align: left;">クロノゴルスキー・プラニンスキー・ゴニッチ（モンテネグロ・マウンテン・ハウンド）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Croatian Sheepdog</td>
+<td style="text-align: left;">Kroatischer Schäferhund</td>
+<td style="text-align: left;">Horvát juhászkutya</td>
+<td style="text-align: left;">クロアチアン・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Curly-Coated Retriever</td>
+<td style="text-align: left;">Curly Coated Retriever</td>
+<td style="text-align: left;">Göndör szőrű retriever</td>
+<td style="text-align: left;">カーリーコート・レトリーバー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Czechoslovakian Vlcak</td>
+<td style="text-align: left;">Tschechoslowakischer Vlcak</td>
+<td style="text-align: left;">Csehszlovák Vlcak</td>
+<td style="text-align: left;">チェコスロバキアン・ウルフドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cão Fila de São Miguel</td>
+<td style="text-align: left;">Cão Fila de São Miguel</td>
+<td style="text-align: left;">Azori-szigeteki kutya</td>
+<td style="text-align: left;">カオ・フィラ・デ・サン・ミゲル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cão de Castro Laboreiro</td>
+<td style="text-align: left;">Cão de Castro Laboreiro</td>
+<td style="text-align: left;">Castro Laboreiro-i kutya</td>
+<td style="text-align: left;">カオ・デ・カストロ・ラボレイロ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dachshund (Longhaired/Smooth/Wirehaired)</td>
+<td style="text-align: left;">Dackel (Langhaar/Glatthaar/Rauhaar)</td>
+<td style="text-align: left;">Tacskó (hosszú szőrű/sima/drótszőrű)</td>
+<td style="text-align: left;">ダックスフント（ロングヘアー／スムース／ワイヤーヘア）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dachshund (Miniature)</td>
+<td style="text-align: left;">Dackel (Zwerg)</td>
+<td style="text-align: left;">Tacskó (miniatűr)</td>
+<td style="text-align: left;">ダックスフント（ミニチュア）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dalmatian</td>
+<td style="text-align: left;">Dalmatiner</td>
+<td style="text-align: left;">Dalmata</td>
+<td style="text-align: left;">ダルメシアン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dandie Dinmont Terrier</td>
+<td style="text-align: left;">Dandie Dinmont Terrier</td>
+<td style="text-align: left;">Dandie Dinmont terrier</td>
+<td style="text-align: left;">ダンディ・ディンモント・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Danish-Swedish Farmdog</td>
+<td style="text-align: left;">Dänisch-Schwedischer Farmhund</td>
+<td style="text-align: left;">Dán-svéd őrkutya</td>
+<td style="text-align: left;">デニッシュ・スウィディッシュ・ファームドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Deutsche Bracke</td>
+<td style="text-align: left;">Deutsche Bracke</td>
+<td style="text-align: left;">Német Bracke</td>
+<td style="text-align: left;">ジャーマン・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Deutscher Wachtelhund</td>
+<td style="text-align: left;">Deutscher Wachtelhund</td>
+<td style="text-align: left;">Német fürjészeb</td>
+<td style="text-align: left;">ジャーマン・スパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dingo</td>
+<td style="text-align: left;">Dingo</td>
+<td style="text-align: left;">Dingó</td>
+<td style="text-align: left;">ディンゴ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Doberman Pinscher</td>
+<td style="text-align: left;">Dobermann</td>
+<td style="text-align: left;">Dobermann</td>
+<td style="text-align: left;">ドーベルマン・ピンシャー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dogo Argentino (Argentine Dogo)</td>
+<td style="text-align: left;">Dogo Argentino (Argentinischer Dogo)</td>
+<td style="text-align: left;">Dogo Argentino (argentin dogo)</td>
+<td style="text-align: left;">ドゴ・アルヘンティーノ (アルゼンチン・ドゴ)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dogue de Bordeaux</td>
+<td style="text-align: left;">Bordeauxdogge</td>
+<td style="text-align: left;">Bordeauxi dog</td>
+<td style="text-align: left;">ボルドー・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Drentsche Patrijschond</td>
+<td style="text-align: left;">Drentsche Patrijschond</td>
+<td style="text-align: left;">Drentsche Patrijschond</td>
+<td style="text-align: left;">ドレンチェ・パトリショホンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Drever</td>
+<td style="text-align: left;">Drever</td>
+<td style="text-align: left;">Drever</td>
+<td style="text-align: left;">ドレバー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dunker</td>
+<td style="text-align: left;">Dunker</td>
+<td style="text-align: left;">Dunker</td>
+<td style="text-align: left;">ダンカー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dutch Shepherd</td>
+<td style="text-align: left;">Holländischer Schäferhund</td>
+<td style="text-align: left;">Holland juhászkutya</td>
+<td style="text-align: left;">ダッチシェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dutch Smoushond</td>
+<td style="text-align: left;">Niederländischer Smoushond</td>
+<td style="text-align: left;">Holland smoushond</td>
+<td style="text-align: left;">ダッチ・スムースホンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">East Siberian Laika</td>
+<td style="text-align: left;">Ostsibirischer Laika</td>
+<td style="text-align: left;">Kelet-szibériai lajka</td>
+<td style="text-align: left;">イーストシベリアンライカ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">English Cocker Spaniel</td>
+<td style="text-align: left;">Englischer Cocker Spaniel</td>
+<td style="text-align: left;">Angol cocker spániel</td>
+<td style="text-align: left;">イングリッシュ・コッカー・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">English Foxhound</td>
+<td style="text-align: left;">Englischer Foxhound</td>
+<td style="text-align: left;">Angol rókakopó</td>
+<td style="text-align: left;">イングリッシュ・フォックスハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">English Setter</td>
+<td style="text-align: left;">Englischer Setter</td>
+<td style="text-align: left;">Angol szetter</td>
+<td style="text-align: left;">イングリッシュ・セッター</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">English Shepherd</td>
+<td style="text-align: left;">Englischer Schäferhund</td>
+<td style="text-align: left;">Angol juhászkutya</td>
+<td style="text-align: left;">イングリッシュ・シェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">English Springer Spaniel</td>
+<td style="text-align: left;">Englischer Springer Spaniel</td>
+<td style="text-align: left;">Angol springer spániel</td>
+<td style="text-align: left;">イングリッシュ・スプリンガー・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">English Toy Spaniel</td>
+<td style="text-align: left;">Englischer Toy Spaniel</td>
+<td style="text-align: left;">Angol Toy Spániel</td>
+<td style="text-align: left;">イングリッシュ・トイ・スパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">English Toy Terrier (Black and Tan)</td>
+<td style="text-align: left;">Englischer Toy Terrier (Schwarz und Braun)</td>
+<td style="text-align: left;">Angol Toy Terrier (fekete-barna)</td>
+<td style="text-align: left;">イングリッシュ・トイ・テリア（ブラック・アンド・タン）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Entlebucher Mountain Dog</td>
+<td style="text-align: left;">Entlebucher Sennenhund</td>
+<td style="text-align: left;">Entlebuchi havasi kutya</td>
+<td style="text-align: left;">エントレブッチャー・マウンテン・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Epagneul Bleu de Picardie</td>
+<td style="text-align: left;">Epagneul Bleu de Picardie</td>
+<td style="text-align: left;">Picardie kék epángneul</td>
+<td style="text-align: left;">エパニュル・ブルー・ド・ピカルディ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Epagneul Picard</td>
+<td style="text-align: left;">Epagneul Picard</td>
+<td style="text-align: left;">Pikárdiai spániel</td>
+<td style="text-align: left;">エパニュル・ピカード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Epagneul Pont-Audemer</td>
+<td style="text-align: left;">Epagneul Pont-Audemer</td>
+<td style="text-align: left;">Pont-Audemer-i spániel</td>
+<td style="text-align: left;">エパニュル ポントードメール</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Estonian Hound</td>
+<td style="text-align: left;">Estnischer Laufhund</td>
+<td style="text-align: left;">Észt kopó</td>
+<td style="text-align: left;">エストニアン・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Estrela Mountain Dog</td>
+<td style="text-align: left;">Estrela-Berghund</td>
+<td style="text-align: left;">Estrela hegyi kutya</td>
+<td style="text-align: left;">エストレラ・マウンテン・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Eurasier</td>
+<td style="text-align: left;">Eurasier</td>
+<td style="text-align: left;">Eurázsiai</td>
+<td style="text-align: left;">ユーラシア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Field Spaniel</td>
+<td style="text-align: left;">Field Spaniel</td>
+<td style="text-align: left;">Field spániel</td>
+<td style="text-align: left;">フィールドスパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fila Brasileiro</td>
+<td style="text-align: left;">Fila Brasileiro</td>
+<td style="text-align: left;">Fila Brasileiro</td>
+<td style="text-align: left;">フィラ・ブラジレイロ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Finnish Hound</td>
+<td style="text-align: left;">Finnischer Laufhund</td>
+<td style="text-align: left;">finn kopó</td>
+<td style="text-align: left;">フィニッシュ・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Finnish Lapphund</td>
+<td style="text-align: left;">Finnischer Lapphund</td>
+<td style="text-align: left;">Finn lapphund</td>
+<td style="text-align: left;">フィニッシュ・ラップフンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Finnish Spitz</td>
+<td style="text-align: left;">Finnischer Spitz</td>
+<td style="text-align: left;">Finn spicc</td>
+<td style="text-align: left;">フィニッシュ・スピッツ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Flat-Coated Retriever</td>
+<td style="text-align: left;">Flat Coated Retriever</td>
+<td style="text-align: left;">Simaszőrű retriver</td>
+<td style="text-align: left;">フラットコーテッド・レトリーバー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">French Bulldog</td>
+<td style="text-align: left;">Französische Bulldogge</td>
+<td style="text-align: left;">Francia bulldog</td>
+<td style="text-align: left;">フレンチブルドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">French Spaniel</td>
+<td style="text-align: left;">Französischer Spaniel</td>
+<td style="text-align: left;">Francia spániel</td>
+<td style="text-align: left;">フレンチスパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Frisian Water Dog</td>
+<td style="text-align: left;">Friesischer Wasserhund</td>
+<td style="text-align: left;">Fríz vízikutya</td>
+<td style="text-align: left;">フリージアン・ウォーター・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">German Longhaird Pointer</td>
+<td style="text-align: left;">Deutscher Langhaar-Vorstehhund</td>
+<td style="text-align: left;">Német Hosszúszőrű Vizsla</td>
+<td style="text-align: left;">ジャーマン・ロングヘアード・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">German Pinscher</td>
+<td style="text-align: left;">Deutscher Pinscher</td>
+<td style="text-align: left;">Német pincser</td>
+<td style="text-align: left;">ジャーマン・ピンシャー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">German Rough-Haired Pointer</td>
+<td style="text-align: left;">Deutscher Rauhhaar-Vorstehhund</td>
+<td style="text-align: left;">Német durvaszőrű vizsla</td>
+<td style="text-align: left;">ジャーマン・ラフヘアード・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">German Shepherd Dog</td>
+<td style="text-align: left;">Deutscher Schäferhund</td>
+<td style="text-align: left;">Németjuhász</td>
+<td style="text-align: left;">ジャーマン・シェパード・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">German Shorthaired Pointer</td>
+<td style="text-align: left;">Deutsch Kurzhaar</td>
+<td style="text-align: left;">Német rövidszőrű vizsla</td>
+<td style="text-align: left;">ジャーマン・ショートヘアード・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">German Spitz</td>
+<td style="text-align: left;">Deutscher Spitz</td>
+<td style="text-align: left;">Német Spitz</td>
+<td style="text-align: left;">ジャーマン・スピッツ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">German Wirehaired Pointer</td>
+<td style="text-align: left;">Deutsch Drahthaar</td>
+<td style="text-align: left;">Német drótszőrű vizsla</td>
+<td style="text-align: left;">ジャーマン・ワイヤーヘアード・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Giant Schnauzer</td>
+<td style="text-align: left;">Riesenschnauzer</td>
+<td style="text-align: left;">Óriás schnauzer</td>
+<td style="text-align: left;">ジャイアントシュナウザー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Glen of Imaal Terrier</td>
+<td style="text-align: left;">Glen of Imaal Terrier</td>
+<td style="text-align: left;">Glen of Imaal terrier</td>
+<td style="text-align: left;">グレン・オブ・イマール・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Golden Retriever</td>
+<td style="text-align: left;">Golden Retriever</td>
+<td style="text-align: left;">Arany-retriever</td>
+<td style="text-align: left;">ゴールデンレトリバー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Gordon Setter</td>
+<td style="text-align: left;">Gordon Setter</td>
+<td style="text-align: left;">Gordon szetter</td>
+<td style="text-align: left;">ゴードン・セッター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Gończy polski</td>
+<td style="text-align: left;">Polnische Gończy</td>
+<td style="text-align: left;">Lengyel vadászkutya</td>
+<td style="text-align: left;">ゴンツィー・ポルスキー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Grand Anglo-Français Blanc et Noir</td>
+<td style="text-align: left;">Großer Anglo-Französischer Weiß-Schwarzer Laufhund</td>
+<td style="text-align: left;">Fehér-fekete nagy angol-francia kopó</td>
+<td style="text-align: left;">グラン アングロ フランセ ブラン エ ノワール</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Grand Anglo-Français Blanc et Orange</td>
+<td style="text-align: left;">Großer Anglo-Französischer Weiß-Oranger Laufhund</td>
+<td style="text-align: left;">Fehér-cser nagy angol-francia kopó</td>
+<td style="text-align: left;">グラン アングロ フランセ ブラン エ オランジュ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Grand Anglo-Français Tricolore</td>
+<td style="text-align: left;">Großer Anglo-Französischer Dreifarbiger Laufhund</td>
+<td style="text-align: left;">Trikolor nagy angol-francia kopó</td>
+<td style="text-align: left;">グラン アングロ フランセ トリコロール</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Grand Basset Griffon Vendeen</td>
+<td style="text-align: left;">Grand Basset Griffon Vendéen</td>
+<td style="text-align: left;">Nagy vendée-i griffon basset</td>
+<td style="text-align: left;">グラン・バセ・グリフォン・ヴァンデーン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Grand Bleu de Gascogne</td>
+<td style="text-align: left;">Grand Bleu de Gascogne</td>
+<td style="text-align: left;">Nagy gascogne-i kék kopó</td>
+<td style="text-align: left;">グラン・ブルー・ド・ガスコーニュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Grand Gascon-Saintongeois</td>
+<td style="text-align: left;">Grand Gascon-Saintongeois</td>
+<td style="text-align: left;">Nagy gascon-saintongeois-i kopó</td>
+<td style="text-align: left;">グランガスコン・サントンジョワ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Grand Griffon Vendeen</td>
+<td style="text-align: left;">Grand Griffon Vendéen</td>
+<td style="text-align: left;">Vendée-i nagy griffon</td>
+<td style="text-align: left;">グラン・グリフォン・ヴァンデーン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Great Dane</td>
+<td style="text-align: left;">Deutsche Dogge</td>
+<td style="text-align: left;">Nagy dán dog</td>
+<td style="text-align: left;">グレート・デーン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Great Pyrenees</td>
+<td style="text-align: left;">Pyrenäenberghund</td>
+<td style="text-align: left;">Pireneusi hegyikutya</td>
+<td style="text-align: left;">グレートピレニーズ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Greater Swiss Mountain Dog</td>
+<td style="text-align: left;">Großer Schweizer Sennenhund</td>
+<td style="text-align: left;">Nagy svájci havasi kutya</td>
+<td style="text-align: left;">グレーター・スイス・マウンテン・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Greenland Dog</td>
+<td style="text-align: left;">Grönlandhund</td>
+<td style="text-align: left;">Grönlandi kutya</td>
+<td style="text-align: left;">グリーンランド・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Greyhound</td>
+<td style="text-align: left;">Greyhound</td>
+<td style="text-align: left;">Agár</td>
+<td style="text-align: left;">グレイハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Griffon Belge</td>
+<td style="text-align: left;">Belgischer Griffon</td>
+<td style="text-align: left;">Belga griffon</td>
+<td style="text-align: left;">グリフォン・ベルジュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Griffon Bleu de Gascogne</td>
+<td style="text-align: left;">Blauer Griffon de Gascogne</td>
+<td style="text-align: left;">Gascogne-i kék griffon</td>
+<td style="text-align: left;">グリフォン・ブルー・ド・ガスコーニュ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Griffon Fauve de Bretagne</td>
+<td style="text-align: left;">Griffon Fauve de Bretagne</td>
+<td style="text-align: left;">Bretagne-i vörös griffon</td>
+<td style="text-align: left;">グリフォン・フォーヴ・ド・ブルターニュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Griffon Nivernais</td>
+<td style="text-align: left;">Griffon Nivernais</td>
+<td style="text-align: left;">Nivernais-i griffon</td>
+<td style="text-align: left;">グリフォン・ニヴェルネ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Haldenstovare</td>
+<td style="text-align: left;">Haldenstøvåger</td>
+<td style="text-align: left;">Halden kopó</td>
+<td style="text-align: left;">ハルデン・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hamiltonstovare</td>
+<td style="text-align: left;">Hamiltonstøvare</td>
+<td style="text-align: left;">Hamilton-kopó</td>
+<td style="text-align: left;">ハミルトン・シュトーヴァレ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hanoverian Hound</td>
+<td style="text-align: left;">Hannoveraner Bracke</td>
+<td style="text-align: left;">Hannoveri kopó</td>
+<td style="text-align: left;">ハノーバーハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Harrier</td>
+<td style="text-align: left;">Harrier</td>
+<td style="text-align: left;">Harrier</td>
+<td style="text-align: left;">ハリアー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Havanese</td>
+<td style="text-align: left;">Havaneser</td>
+<td style="text-align: left;">Havannai pincs (Bichon havanese)</td>
+<td style="text-align: left;">ハバニーズ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hellenic Hound</td>
+<td style="text-align: left;">Griechischer Laufhund</td>
+<td style="text-align: left;">Görög kopó</td>
+<td style="text-align: left;">ヘレニックハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hokkaido</td>
+<td style="text-align: left;">Hokkaido</td>
+<td style="text-align: left;">Hokkaido</td>
+<td style="text-align: left;">北海道犬</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hovawart</td>
+<td style="text-align: left;">Hovawart</td>
+<td style="text-align: left;">Hovawart</td>
+<td style="text-align: left;">ホファヴァルト</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hungarian Greyhound</td>
+<td style="text-align: left;">Ungarischer Windhund</td>
+<td style="text-align: left;">Magyar agár</td>
+<td style="text-align: left;">ハンガリアン・グレイハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hygen Hound</td>
+<td style="text-align: left;">Hygen Hound</td>
+<td style="text-align: left;">Hygeni vadászkutya</td>
+<td style="text-align: left;">ハイゲンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ibizan Hound</td>
+<td style="text-align: left;">Podenco Ibicenco</td>
+<td style="text-align: left;">Ibizan Hound</td>
+<td style="text-align: left;">イビザンハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Icelandic Sheepdog</td>
+<td style="text-align: left;">Isländischer Schäferhund</td>
+<td style="text-align: left;">Izlandi juhászkutya</td>
+<td style="text-align: left;">アイスランド・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Irish Red and White Setter</td>
+<td style="text-align: left;">Irischer rot-weißer Setter</td>
+<td style="text-align: left;">Vörös-fehér ír szetter</td>
+<td style="text-align: left;">アイリッシュ・レッド・アンド・ホワイト・セッター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Irish Setter</td>
+<td style="text-align: left;">Irish Setter</td>
+<td style="text-align: left;">Ír szetter</td>
+<td style="text-align: left;">アイリッシュ・セッター</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Irish Terrier</td>
+<td style="text-align: left;">Irischer Terrier</td>
+<td style="text-align: left;">Ír terrier</td>
+<td style="text-align: left;">アイリッシュ・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Irish Water Spaniel</td>
+<td style="text-align: left;">Irischer Wasserspaniel</td>
+<td style="text-align: left;">Ír vízispániel</td>
+<td style="text-align: left;">アイリッシュ・ウォーター・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Irish Wolfhound</td>
+<td style="text-align: left;">Irischer Wolfshund</td>
+<td style="text-align: left;">Ír farkaskutya</td>
+<td style="text-align: left;">アイリッシュ・ウルフハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Istrian Coarse-Haired Hound</td>
+<td style="text-align: left;">Istrischer Rauhhaarlaufhund</td>
+<td style="text-align: left;">Isztriai durva szőrű kopó</td>
+<td style="text-align: left;">イストリアン・コースヘアード・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Istrian Short-Haired Hound</td>
+<td style="text-align: left;">Istrischer Kurzhaarhund</td>
+<td style="text-align: left;">Isztriai rövidszőrű kopó</td>
+<td style="text-align: left;">イストリアン・ショートヘアード・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Italian Greyhound</td>
+<td style="text-align: left;">Italienisches Windspiel</td>
+<td style="text-align: left;">Olasz agár</td>
+<td style="text-align: left;">イタリアン・グレイハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Italian Hound, Coarsehaired</td>
+<td style="text-align: left;">Italienischer Laufhund, Rauhaar</td>
+<td style="text-align: left;">Olasz kopó (drótszőrű)</td>
+<td style="text-align: left;">イタリアンハウンド、ワイヤーヘアー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Italian Hound, Shorthaired</td>
+<td style="text-align: left;">Italienischer Laufhund, Kurzhaar</td>
+<td style="text-align: left;">Olasz kopó (rövidszőrű)</td>
+<td style="text-align: left;">イタリアンハウンド、ショートヘアード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Jack Russell Terrier</td>
+<td style="text-align: left;">Jack Russell Terrier</td>
+<td style="text-align: left;">Jack Russell terrier</td>
+<td style="text-align: left;">ジャックラッセルテリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jagdterrier</td>
+<td style="text-align: left;">Jagdterrier</td>
+<td style="text-align: left;">Jagdterrier</td>
+<td style="text-align: left;">ヤクトテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Japanese Chin</td>
+<td style="text-align: left;">Japan Chin</td>
+<td style="text-align: left;">Japán spániel</td>
+<td style="text-align: left;">チン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Japanese Spitz</td>
+<td style="text-align: left;">Japanischer Spitz</td>
+<td style="text-align: left;">Japán spicc</td>
+<td style="text-align: left;">日本スピッツ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Japanese Terrier</td>
+<td style="text-align: left;">Japanischer Terrier</td>
+<td style="text-align: left;">Japán terrier</td>
+<td style="text-align: left;">日本テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jindo</td>
+<td style="text-align: left;">Jindo</td>
+<td style="text-align: left;">Jindo</td>
+<td style="text-align: left;">珍島犬</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kai Ken</td>
+<td style="text-align: left;">Kai Ken</td>
+<td style="text-align: left;">Kai Ken</td>
+<td style="text-align: left;">甲斐犬</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Kangal Dog</td>
+<td style="text-align: left;">Kangal-Hund</td>
+<td style="text-align: left;">Kangal kutya</td>
+<td style="text-align: left;">カンガルドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Karelian Bear Dog</td>
+<td style="text-align: left;">Karelischer Bärenhund</td>
+<td style="text-align: left;">Karéliai medvekutya</td>
+<td style="text-align: left;">カレリアン・ベア・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Keeshond</td>
+<td style="text-align: left;">Wolfsspitz</td>
+<td style="text-align: left;">Keeshond</td>
+<td style="text-align: left;">キースホンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kerry Blue Terrier</td>
+<td style="text-align: left;">Kerry Blue Terrier</td>
+<td style="text-align: left;">Kerry kék terrier</td>
+<td style="text-align: left;">ケリーブルーテリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">King Shepherd</td>
+<td style="text-align: left;">King Shepherd</td>
+<td style="text-align: left;">Királypásztor</td>
+<td style="text-align: left;">キング・シェパード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kishu Ken</td>
+<td style="text-align: left;">Kishu Ken</td>
+<td style="text-align: left;">Kishu Ken</td>
+<td style="text-align: left;">紀州犬</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Komondor</td>
+<td style="text-align: left;">Komondor</td>
+<td style="text-align: left;">Komondor</td>
+<td style="text-align: left;">コモンドール</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kooikerhondji</td>
+<td style="text-align: left;">Kooikerhondji</td>
+<td style="text-align: left;">Kooikerhondji</td>
+<td style="text-align: left;">コーイケルホンディエ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Krasky Ovcar</td>
+<td style="text-align: left;">Krasky Ovcar</td>
+<td style="text-align: left;">Krasky Ovcar</td>
+<td style="text-align: left;">カルスト・シェパード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kromfohrlander</td>
+<td style="text-align: left;">Kromfohrländer</td>
+<td style="text-align: left;">Kromfohrländer</td>
+<td style="text-align: left;">クロムフォアランダー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Kuvasz</td>
+<td style="text-align: left;">Kuvasz</td>
+<td style="text-align: left;">Kuvasz</td>
+<td style="text-align: left;">クヴァス</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kyi-Leo</td>
+<td style="text-align: left;">Kyi-Leo</td>
+<td style="text-align: left;">Kyi-Leo</td>
+<td style="text-align: left;">キイ・レオ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Labrador Retriever</td>
+<td style="text-align: left;">Labrador Retriever</td>
+<td style="text-align: left;">Labrador retriever</td>
+<td style="text-align: left;">ラブラドール・レトリバー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lagotto Romagnolo</td>
+<td style="text-align: left;">Lagotto Romagnolo</td>
+<td style="text-align: left;">Lagotto Romagnolo</td>
+<td style="text-align: left;">ラゴット・ロマニョーロ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Lakeland Terrier</td>
+<td style="text-align: left;">Lakeland Terrier</td>
+<td style="text-align: left;">Lakeland terrier</td>
+<td style="text-align: left;">レイクランド・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lancashire Heeler</td>
+<td style="text-align: left;">Lancashire Heeler</td>
+<td style="text-align: left;">Lancashire Heeler</td>
+<td style="text-align: left;">ランカシャー・ヒーラー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Landseer</td>
+<td style="text-align: left;">Landseer</td>
+<td style="text-align: left;">Landseer</td>
+<td style="text-align: left;">ランドシーア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lapinporokoira</td>
+<td style="text-align: left;">Lapinporokoira</td>
+<td style="text-align: left;">Lapinporokoira</td>
+<td style="text-align: left;">ラピンポロコイラ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Large Münsterländer</td>
+<td style="text-align: left;">Großer Münsterländer</td>
+<td style="text-align: left;">Nagy münsterländi</td>
+<td style="text-align: left;">ラージ・ミュンスターレンダー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Leonberger</td>
+<td style="text-align: left;">Leonberger</td>
+<td style="text-align: left;">Leonbergi</td>
+<td style="text-align: left;">レオンベルガー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Lhasa Apso</td>
+<td style="text-align: left;">Lhasa Apso</td>
+<td style="text-align: left;">Lhasa Apso</td>
+<td style="text-align: left;">ラサ・アプソ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Löwchen</td>
+<td style="text-align: left;">Löwchen</td>
+<td style="text-align: left;">Kis oroszlánkutya</td>
+<td style="text-align: left;">ローシェン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Majorca Mastiff</td>
+<td style="text-align: left;">Mallorca-Dogge (Ca de Bou)</td>
+<td style="text-align: left;">Mallorcai masztiff</td>
+<td style="text-align: left;">マヨルカ・マスティフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Maltese</td>
+<td style="text-align: left;">Malteser</td>
+<td style="text-align: left;">máltai</td>
+<td style="text-align: left;">マルチーズ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Manchester Terrier (Standard)</td>
+<td style="text-align: left;">Manchester Terrier (Standard)</td>
+<td style="text-align: left;">Manchester terrier (standard)</td>
+<td style="text-align: left;">マンチェスター・テリア（スタンダード）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Manchester Terrier (Toy)</td>
+<td style="text-align: left;">Manchester Terrier (Spielzeug)</td>
+<td style="text-align: left;">Manchester terrier (játék)</td>
+<td style="text-align: left;">マンチェスター・テリア（トイ）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Maremma Sheepdog</td>
+<td style="text-align: left;">Maremma-Schäferhund</td>
+<td style="text-align: left;">Maremma juhászkutya</td>
+<td style="text-align: left;">マレンマ・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mastiff</td>
+<td style="text-align: left;">Mastiff</td>
+<td style="text-align: left;">Mészároskutya</td>
+<td style="text-align: left;">マスティフ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Mi-Ki</td>
+<td style="text-align: left;">Mi-Ki</td>
+<td style="text-align: left;">Mi-Ki</td>
+<td style="text-align: left;">ミキ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mini-Pei</td>
+<td style="text-align: left;">Mini-Pei</td>
+<td style="text-align: left;">Mini-Pei</td>
+<td style="text-align: left;">ミニペイ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Miniature American Shepherd</td>
+<td style="text-align: left;">Miniatur-Amerikanischer Schäferhund</td>
+<td style="text-align: left;">Miniatűr amerikai juhászkutya</td>
+<td style="text-align: left;">ミニチュアアメリカンシェパード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Miniature Australian Shepherd</td>
+<td style="text-align: left;">Miniatur-Australian Shepherd</td>
+<td style="text-align: left;">Miniatűr ausztrál juhászkutya</td>
+<td style="text-align: left;">ミニチュアオーストラリアンシェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Miniature Bull Terrier</td>
+<td style="text-align: left;">Miniatur-Bullterrier</td>
+<td style="text-align: left;">Miniatűr bullterrier</td>
+<td style="text-align: left;">ミニチュア・ブル・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Miniature Pinscher</td>
+<td style="text-align: left;">Zwergpinscher</td>
+<td style="text-align: left;">Törpe Pinscher</td>
+<td style="text-align: left;">ミニチュア・ピンシャー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Miniature Schnauzer</td>
+<td style="text-align: left;">Zwergschnauzer</td>
+<td style="text-align: left;">Törpe schnauzer</td>
+<td style="text-align: left;">ミニチュアシュナウザー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mountain Cur</td>
+<td style="text-align: left;">Berg Cur</td>
+<td style="text-align: left;">Hegyi Cur</td>
+<td style="text-align: left;">マウンテンカー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Mudi</td>
+<td style="text-align: left;">Mudi</td>
+<td style="text-align: left;">Mudi</td>
+<td style="text-align: left;">ムディ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Neapolitan Mastiff</td>
+<td style="text-align: left;">Neapolitanischer Mastiff</td>
+<td style="text-align: left;">Nápolyi masztiff</td>
+<td style="text-align: left;">ナポリタン・マスティフ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Nederlandse Kooikerhondje</td>
+<td style="text-align: left;">Niederländischer Kooikerhondje</td>
+<td style="text-align: left;">Holland Kutyaszőrű Kutya</td>
+<td style="text-align: left;">オランダ・コーイケルホンディエ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">New Guinea Singing Dog</td>
+<td style="text-align: left;">Neuguinea-Dingo</td>
+<td style="text-align: left;">Új-guineai éneklő kutya</td>
+<td style="text-align: left;">ニューギニア・シンギング・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Newfoundland</td>
+<td style="text-align: left;">Neufundländer</td>
+<td style="text-align: left;">újfundlandi</td>
+<td style="text-align: left;">ニューファンドランド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Norfolk Terrier</td>
+<td style="text-align: left;">Norfolk Terrier</td>
+<td style="text-align: left;">Norfolk terrier</td>
+<td style="text-align: left;">ノーフォーク・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Norrbottenspets</td>
+<td style="text-align: left;">Norrbottenspitz</td>
+<td style="text-align: left;">Norrbottenspets</td>
+<td style="text-align: left;">ノルボッテンシュペッツ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Norwegian Buhund</td>
+<td style="text-align: left;">Norwegischer Buhund</td>
+<td style="text-align: left;">Norvég buhund</td>
+<td style="text-align: left;">ノルウェー・ブフント</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Norwegian Elkhound</td>
+<td style="text-align: left;">Norwegischer Elchhund</td>
+<td style="text-align: left;">Norvég elkhound</td>
+<td style="text-align: left;">ノルウェー・エルクハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Norwegian Lundehund</td>
+<td style="text-align: left;">Norwegischer Lundehund</td>
+<td style="text-align: left;">Norvég lundehund</td>
+<td style="text-align: left;">ノルウェー・ルンデフンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Norwich Terrier</td>
+<td style="text-align: left;">Norwich Terrier</td>
+<td style="text-align: left;">Norwich terrier</td>
+<td style="text-align: left;">ノーリッチ・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nova Scotia Duck-Tolling Retriever</td>
+<td style="text-align: left;">Nova Scotia Duck-Tolling Retriever</td>
+<td style="text-align: left;">Új-Skóciai récevadász retriever</td>
+<td style="text-align: left;">ノバスコシア・ダック・トーリング・レトリーバー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Old Danish Bird Dog</td>
+<td style="text-align: left;">Altdänischer Vorstehhund</td>
+<td style="text-align: left;">Régi dán madárkutya</td>
+<td style="text-align: left;">オールド・デニッシュ・バード・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Old English Sheepdog</td>
+<td style="text-align: left;">Bobtail</td>
+<td style="text-align: left;">Óangol juhászkutya</td>
+<td style="text-align: left;">オールド・イングリッシュ・シープドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Olde English Bulldogge</td>
+<td style="text-align: left;">Olde English Bulldogge</td>
+<td style="text-align: left;">Óangol bulldog</td>
+<td style="text-align: left;">オールド・イングリッシュ・ブルドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Otterhound</td>
+<td style="text-align: left;">Otterhund</td>
+<td style="text-align: left;">Vidravadász kopó</td>
+<td style="text-align: left;">オッターハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Owczarek Podhalanski (Polish Mountain Sheepdog)</td>
+<td style="text-align: left;">Owczarek Podhalanski (Polnischer Gebirgsschäferhund)</td>
+<td style="text-align: left;">Owczarek Podhalanski (lengyel hegyi juhászkutya)</td>
+<td style="text-align: left;">オウチャレク・ポドハランスキ（ポーランド・マウンテン・シープドッグ）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Papillon</td>
+<td style="text-align: left;">Papillon</td>
+<td style="text-align: left;">Papillon</td>
+<td style="text-align: left;">パピヨン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Parson Russell Terrier</td>
+<td style="text-align: left;">Parson Russell Terrier</td>
+<td style="text-align: left;">Parson Russell terrier</td>
+<td style="text-align: left;">パーソン・ラッセル・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Patterdale Terrier</td>
+<td style="text-align: left;">Patterdale Terrier</td>
+<td style="text-align: left;">Patterdale terrier</td>
+<td style="text-align: left;">パターデール・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Pekingese</td>
+<td style="text-align: left;">Pekinese</td>
+<td style="text-align: left;">pekingi</td>
+<td style="text-align: left;">ペキニーズ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pembroke Welsh Corgi</td>
+<td style="text-align: left;">Pembroke Welsh Corgi</td>
+<td style="text-align: left;">Pembroke Welsh Corgi</td>
+<td style="text-align: left;">ペンブローク・ウェルシュ・コーギー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Perdiguero de Burgos</td>
+<td style="text-align: left;">Perdiguero de Burgos</td>
+<td style="text-align: left;">Perdiguero de Burgos</td>
+<td style="text-align: left;">ペルディゲロ・デ・ブルゴス</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perro de Presa Canario</td>
+<td style="text-align: left;">Presa Canario</td>
+<td style="text-align: left;">Kanári-szigeteki kutya</td>
+<td style="text-align: left;">ペロ・デ・プレサ・カナリオ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Perucian Inca Orchid</td>
+<td style="text-align: left;">Peruanische Inka-Orchidee</td>
+<td style="text-align: left;">Perui meztelen kutya</td>
+<td style="text-align: left;">ペルービアン・ヘアレス・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Petit Basset Griffon Vendéen</td>
+<td style="text-align: left;">Petit Basset Griffon Vendéen</td>
+<td style="text-align: left;">Kis basset griffon vendée-i</td>
+<td style="text-align: left;">プチ・バセット・グリフォン・ヴァンデーン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Petit Bleu de Gascogne</td>
+<td style="text-align: left;">Petit Bleu de Gascogne</td>
+<td style="text-align: left;">Kis gasogne-i kék kopó</td>
+<td style="text-align: left;">プチ・ブルー・ド・ガスコーニュ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Petit Bragançon</td>
+<td style="text-align: left;">Petit Bragançon</td>
+<td style="text-align: left;">Brabanti kis griffon</td>
+<td style="text-align: left;">プチ・ブラバンソン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Petit Gascon-Saintongeois</td>
+<td style="text-align: left;">Petit Gascon-Saintongeois</td>
+<td style="text-align: left;">Kis gascon-saintongeois-i kopó</td>
+<td style="text-align: left;">プティ・ガスコン＝サントンジョワ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Petit Griffon Bleu de Gascogne</td>
+<td style="text-align: left;">Petit Griffon Bleu de Gascogne</td>
+<td style="text-align: left;">Gascogne-i kis kék griffon</td>
+<td style="text-align: left;">プティ グリフォン ブルー ド ガスコーニュ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Pharaoh Hound</td>
+<td style="text-align: left;">Pharaonenhund</td>
+<td style="text-align: left;">Fáraókutya</td>
+<td style="text-align: left;">ファラオハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Plott</td>
+<td style="text-align: left;">Plott Hound</td>
+<td style="text-align: left;">Plott</td>
+<td style="text-align: left;">プロット</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Podenco Canario</td>
+<td style="text-align: left;">Podenco Canario</td>
+<td style="text-align: left;">Kanári-podenco</td>
+<td style="text-align: left;">ポデンコ・カナリオ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pointer</td>
+<td style="text-align: left;">Pointer</td>
+<td style="text-align: left;">Pointer</td>
+<td style="text-align: left;">ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Poitevin</td>
+<td style="text-align: left;">Poitevin</td>
+<td style="text-align: left;">Poitevin</td>
+<td style="text-align: left;">ポワトヴァン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Polish Hound</td>
+<td style="text-align: left;">Polnischer Laufhund</td>
+<td style="text-align: left;">Lengyel kopó</td>
+<td style="text-align: left;">ポーランドハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Polish Lowland Sheepdog</td>
+<td style="text-align: left;">Polnischer Niederungshütehund</td>
+<td style="text-align: left;">Lengyel alföldi juhászkutya</td>
+<td style="text-align: left;">ポリッシュ・ローランド・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pomeranian</td>
+<td style="text-align: left;">Pomeranian</td>
+<td style="text-align: left;">pomerániai</td>
+<td style="text-align: left;">ポメラニアン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Poodle (Medium)</td>
+<td style="text-align: left;">Pudel (mittelgroß)</td>
+<td style="text-align: left;">Uszkár (közepes)</td>
+<td style="text-align: left;">プードル（中型）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Poodle (Miniature)</td>
+<td style="text-align: left;">Pudel (Zwerg)</td>
+<td style="text-align: left;">Uszkár (miniatűr)</td>
+<td style="text-align: left;">プードル（ミニチュア）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Poodle (Standard)</td>
+<td style="text-align: left;">Pudel (Standard)</td>
+<td style="text-align: left;">Uszkár (standard)</td>
+<td style="text-align: left;">プードル（スタンダード）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Poodle (Toy)</td>
+<td style="text-align: left;">Pudel (Toy)</td>
+<td style="text-align: left;">Uszkár (játék)</td>
+<td style="text-align: left;">プードル（トイ）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Porcelaine</td>
+<td style="text-align: left;">Porcelaine</td>
+<td style="text-align: left;">Porcelánkopó</td>
+<td style="text-align: left;">ポルスレーヌ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Portuguese Podengo</td>
+<td style="text-align: left;">Portugiesischer Podengo</td>
+<td style="text-align: left;">Portugál podengo</td>
+<td style="text-align: left;">ポデンゴ・ポルトゥゲス</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Portuguese Podengo Pequeno</td>
+<td style="text-align: left;">Portugiesischer Podengo Pequeno</td>
+<td style="text-align: left;">Portugál Podengo Pequeno</td>
+<td style="text-align: left;">ポデンゴ・ポルトゥゲス・ペケーノ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Portuguese Pointer</td>
+<td style="text-align: left;">Portugiesischer Vorstehhund</td>
+<td style="text-align: left;">Portugál vizsla</td>
+<td style="text-align: left;">ポルトガル・ポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Portuguese Sheepdog</td>
+<td style="text-align: left;">Portugiesischer Schäferhund</td>
+<td style="text-align: left;">Portugál juhászkutya</td>
+<td style="text-align: left;">ポルトガル・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Portuguese Water Dog</td>
+<td style="text-align: left;">Portugiesischer Wasserhund</td>
+<td style="text-align: left;">Portugál vízikutya</td>
+<td style="text-align: left;">ポルトガル・ウォーター・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Posavaz Hound</td>
+<td style="text-align: left;">Posavaz-Hund (Posavski Gonič)</td>
+<td style="text-align: left;">Posavazi kutya</td>
+<td style="text-align: left;">ポサヴァズ・ハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pudelpointer</td>
+<td style="text-align: left;">Pudelpointer</td>
+<td style="text-align: left;">Pudelpointer</td>
+<td style="text-align: left;">プードルポインター</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Pug</td>
+<td style="text-align: left;">Mops</td>
+<td style="text-align: left;">Mopsz</td>
+<td style="text-align: left;">パグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Puli</td>
+<td style="text-align: left;">Puli</td>
+<td style="text-align: left;">Puli</td>
+<td style="text-align: left;">プーリー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Pyrenean Mastiff</td>
+<td style="text-align: left;">Pyrenäenmastiff</td>
+<td style="text-align: left;">Pireneusi masztiff</td>
+<td style="text-align: left;">ピレニアン・マスティフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pyrenean Shepherd</td>
+<td style="text-align: left;">Pyrenäenschäferhund</td>
+<td style="text-align: left;">Pireneusi juhászkutya</td>
+<td style="text-align: left;">ピレネーシェパード</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Rafeiro do Alentejo</td>
+<td style="text-align: left;">Rafeiro do Alentejo</td>
+<td style="text-align: left;">Alentejo masztiff</td>
+<td style="text-align: left;">ラフェイロ・ド・アレンテージョ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Rastreador Brasileiro</td>
+<td style="text-align: left;">Rastreador Brasileiro</td>
+<td style="text-align: left;">Rastreador Brasileiro</td>
+<td style="text-align: left;">ブラジリアン・トラッカー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Rat Terrier</td>
+<td style="text-align: left;">Rat Terrier</td>
+<td style="text-align: left;">Patkányterrier</td>
+<td style="text-align: left;">ラット・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Redbone Coonhound</td>
+<td style="text-align: left;">Redbone Coonhound</td>
+<td style="text-align: left;">Vörös mosómedvekopó</td>
+<td style="text-align: left;">レッドボーン・クーンハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Rhodesian Ridgeback</td>
+<td style="text-align: left;">Rhodesian Ridgeback</td>
+<td style="text-align: left;">Rodéziai Ridgeback</td>
+<td style="text-align: left;">ローデシアン・リッジバック</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Rottweiler</td>
+<td style="text-align: left;">Rottweiler</td>
+<td style="text-align: left;">Rottweiler</td>
+<td style="text-align: left;">ロットワイラー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Russell Terrier</td>
+<td style="text-align: left;">Russell Terrier</td>
+<td style="text-align: left;">Russell terrier</td>
+<td style="text-align: left;">ラッセルテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Russian Toy</td>
+<td style="text-align: left;">Russian Toy</td>
+<td style="text-align: left;">Orosz toy terrier</td>
+<td style="text-align: left;">ロシアン・トイ・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Russian Tsvetnaya Bolonka</td>
+<td style="text-align: left;">Russische Tsvetnaya Bolonka</td>
+<td style="text-align: left;">Orosz Cvetnaja Bolonka</td>
+<td style="text-align: left;">ボロンカ・ツヴェトナ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Russo-European Laika</td>
+<td style="text-align: left;">Russisch-Europäischer Laika</td>
+<td style="text-align: left;">Orosz-európai lajka</td>
+<td style="text-align: left;">ラッソ・ヨーロピアン・ライカ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Saarlooswolfhond</td>
+<td style="text-align: left;">Saarlooswolfhund</td>
+<td style="text-align: left;">Saarloosi farkaskutya</td>
+<td style="text-align: left;">ザールロスウルフホンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sabueso Español</td>
+<td style="text-align: left;">Sabueso Español</td>
+<td style="text-align: left;">Sabueso Español</td>
+<td style="text-align: left;">サブエソ・エスパニョール</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Saluki</td>
+<td style="text-align: left;">Saluki</td>
+<td style="text-align: left;">Szaluki</td>
+<td style="text-align: left;">サルーキ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Samoyed</td>
+<td style="text-align: left;">Samojede</td>
+<td style="text-align: left;">Szamojéd</td>
+<td style="text-align: left;">サモエド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sanshu</td>
+<td style="text-align: left;">Sanshu</td>
+<td style="text-align: left;">Sanshu</td>
+<td style="text-align: left;">三河犬</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sarplaninac</td>
+<td style="text-align: left;">Sarplaninac</td>
+<td style="text-align: left;">Sarplaninac</td>
+<td style="text-align: left;">シャルプラニナッツ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Schapendoes</td>
+<td style="text-align: left;">Schapendoes</td>
+<td style="text-align: left;">Schapendoes</td>
+<td style="text-align: left;">シャペンドーズ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Schiller Hound</td>
+<td style="text-align: left;">Schillerstövare</td>
+<td style="text-align: left;">Schiller-kutya</td>
+<td style="text-align: left;">シラーハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Schipperke</td>
+<td style="text-align: left;">Schipperke</td>
+<td style="text-align: left;">Schipperke</td>
+<td style="text-align: left;">シッパーキ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Scottish Deerhound</td>
+<td style="text-align: left;">Schottischer Hirschhund (Scottish Deerhound)</td>
+<td style="text-align: left;">Skót szarvashús</td>
+<td style="text-align: left;">スコティッシュ・ディアハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Scottish Terrier</td>
+<td style="text-align: left;">Scottish Terrier</td>
+<td style="text-align: left;">Skót terrier</td>
+<td style="text-align: left;">スコティッシュ・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sealyham Terrier</td>
+<td style="text-align: left;">Sealyham Terrier</td>
+<td style="text-align: left;">Sealyham terrier</td>
+<td style="text-align: left;">シーリハム・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Serbian Hound</td>
+<td style="text-align: left;">Serbischer Laufhund</td>
+<td style="text-align: left;">Szerb kopó</td>
+<td style="text-align: left;">セルビアンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Serbian Tricolor Hound</td>
+<td style="text-align: left;">Serbischer dreifarbiger Laufhund</td>
+<td style="text-align: left;">Szerb háromszínű kopó</td>
+<td style="text-align: left;">セルビアン・トライカラー・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Shetland Sheepdog</td>
+<td style="text-align: left;">Shetland Sheepdog</td>
+<td style="text-align: left;">Shetlandi juhászkutya</td>
+<td style="text-align: left;">シェットランド・シープドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Shiba Inu</td>
+<td style="text-align: left;">Shiba Inu</td>
+<td style="text-align: left;">Shiba Inu</td>
+<td style="text-align: left;">柴犬</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Shih Tzu</td>
+<td style="text-align: left;">Shih Tzu</td>
+<td style="text-align: left;">Shih Tzu</td>
+<td style="text-align: left;">シーズー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Shikoku</td>
+<td style="text-align: left;">Shikoku</td>
+<td style="text-align: left;">Shikoku</td>
+<td style="text-align: left;">四国犬</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Shiloh Shepherd</td>
+<td style="text-align: left;">Shiloh Shepherd</td>
+<td style="text-align: left;">Shiloh pásztor</td>
+<td style="text-align: left;">シロ・シェパード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Siberian Husky</td>
+<td style="text-align: left;">Sibirischer Husky</td>
+<td style="text-align: left;">Szibériai husky</td>
+<td style="text-align: left;">シベリアンハスキー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Silky Terrier</td>
+<td style="text-align: left;">Silky Terrier</td>
+<td style="text-align: left;">Selymes terrier</td>
+<td style="text-align: left;">シルキーテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Skye Terrier</td>
+<td style="text-align: left;">Skye Terrier</td>
+<td style="text-align: left;">Skye terrier</td>
+<td style="text-align: left;">スカイ・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sloughi</td>
+<td style="text-align: left;">Sloughi</td>
+<td style="text-align: left;">Sloughi</td>
+<td style="text-align: left;">スルーギ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Slovakian Hound</td>
+<td style="text-align: left;">Slowakischer Laufhund</td>
+<td style="text-align: left;">szlovák kopó</td>
+<td style="text-align: left;">スロバキアン・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Slovakian Wire-Haired Pointing Dog</td>
+<td style="text-align: left;">Slowakischer Rauhaar-Vorstehhund</td>
+<td style="text-align: left;">Szlovák drótszőrű vizsla</td>
+<td style="text-align: left;">スロバキアン・ワイヤーヘアード・ポインティング・ドッグ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Slovensky Cuvac</td>
+<td style="text-align: left;">Slowakischer Cuvac</td>
+<td style="text-align: left;">Szlovák kuvasz</td>
+<td style="text-align: left;">スロヴェンスキー・クヴァック</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Slovensky Kopov</td>
+<td style="text-align: left;">Slovensky Kopov</td>
+<td style="text-align: left;">Slovenský Kopov</td>
+<td style="text-align: left;">スロベンスキー・コポフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Smaland Hound</td>
+<td style="text-align: left;">Smålandhund</td>
+<td style="text-align: left;">Smålandi kopó</td>
+<td style="text-align: left;">スモーランドハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Small Munsterlander Pointer</td>
+<td style="text-align: left;">Kleiner Münsterländer</td>
+<td style="text-align: left;">Kis münsterlandi vizsla</td>
+<td style="text-align: left;">スモール・ミュンスターレンダー・ポインター</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Smooth Fox Terrier</td>
+<td style="text-align: left;">Glatthaar-Foxterrier</td>
+<td style="text-align: left;">Sima foxterrier</td>
+<td style="text-align: left;">スムース・フォックス・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Soft-Coated Wheaten Terrier</td>
+<td style="text-align: left;">Soft Coated Wheaten Terrier</td>
+<td style="text-align: left;">Ír lágyszőrű búzaszínű terrier</td>
+<td style="text-align: left;">ソフトコーテッド・ウィートン・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">South Russian Ovcharka</td>
+<td style="text-align: left;">Südrussischer Owtscharka</td>
+<td style="text-align: left;">Dél-oroszországi ovcsarka</td>
+<td style="text-align: left;">サウス・ロシアン・シェパード・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">South Russian Steppe Hound</td>
+<td style="text-align: left;">Südrussischer Steppenhund</td>
+<td style="text-align: left;">Dél-orosz sztyeppei kutya</td>
+<td style="text-align: left;">サウス・ロシアン・ステップハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Spanish Greyhound</td>
+<td style="text-align: left;">Spanischer Windhund</td>
+<td style="text-align: left;">Spanyol agár</td>
+<td style="text-align: left;">スペイン・グレイハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Spanish Mastiff</td>
+<td style="text-align: left;">Spanischer Mastiff</td>
+<td style="text-align: left;">Spanyol masztiff</td>
+<td style="text-align: left;">スペイン・マスティフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Spanish Water Dog</td>
+<td style="text-align: left;">Spanischer Wasserhund</td>
+<td style="text-align: left;">Spanyol vízikutya</td>
+<td style="text-align: left;">スパニッシュ・ウォーター・ドッグ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Spinone Italiano</td>
+<td style="text-align: left;">Spinone Italiano</td>
+<td style="text-align: left;">Olasz drótszőrű vizsla</td>
+<td style="text-align: left;">スピノーネ・イタリアーノ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sporting Lucas Terrier</td>
+<td style="text-align: left;">Sporting Lucas Terrier</td>
+<td style="text-align: left;">Sporting Lucas terrier</td>
+<td style="text-align: left;">スポーツルーカステリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">St.&nbsp;Bernard</td>
+<td style="text-align: left;">Bernhardiner</td>
+<td style="text-align: left;">Szent Bernát</td>
+<td style="text-align: left;">セントバーナード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Stabyhoun</td>
+<td style="text-align: left;">Stabyhoun</td>
+<td style="text-align: left;">Stabyhoun</td>
+<td style="text-align: left;">スタビーフーン</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Staffordshire Bull Terrier</td>
+<td style="text-align: left;">Staffordshire Bullterrier</td>
+<td style="text-align: left;">Staffordshire Bull Terrier</td>
+<td style="text-align: left;">スタッフォードシャー・ブル・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Standard Schnauzer</td>
+<td style="text-align: left;">Standardschnauzer</td>
+<td style="text-align: left;">Közép schnauzer</td>
+<td style="text-align: left;">スタンダードシュナウザー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Stephens’ Cur</td>
+<td style="text-align: left;">Stephens’ Cur</td>
+<td style="text-align: left;">Stephens’Cur</td>
+<td style="text-align: left;">スティーブンス・カー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Stryian Coarse-Haired Hound</td>
+<td style="text-align: left;">Steirische Rauhhaarbracke</td>
+<td style="text-align: left;">Stryian durva szőrű kopó</td>
+<td style="text-align: left;">ストリアン・コースヘアード・ハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sussex Spaniel</td>
+<td style="text-align: left;">Sussex Spaniel</td>
+<td style="text-align: left;">Sussexi spániel</td>
+<td style="text-align: left;">サセックス・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swedish Elkhound</td>
+<td style="text-align: left;">Schwedischer Elchhund</td>
+<td style="text-align: left;">Svéd elkhound</td>
+<td style="text-align: left;">スウェーデン・エルクハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Swedish Lapphund</td>
+<td style="text-align: left;">Schwedischer Lapphund</td>
+<td style="text-align: left;">Svéd lapphund</td>
+<td style="text-align: left;">スウェーディッシュ・ラップフンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swedish Vallhund</td>
+<td style="text-align: left;">Schwedischer Vallhund</td>
+<td style="text-align: left;">Svéd juhászkutya</td>
+<td style="text-align: left;">スウェーディッシュ・ヴァルフント</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Swiss Hound, Bernese Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Berner Laufhund</td>
+<td style="text-align: left;">Svájci agár, Berni agár</td>
+<td style="text-align: left;">スイスハウンド、バーニーズハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swiss Hound, Jura Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Jura Laufhund</td>
+<td style="text-align: left;">Svájci kopó, Jura kopó</td>
+<td style="text-align: left;">スイスハウンド、ジュラハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Swiss Hound, Lucerne Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Luzerner Laufhund</td>
+<td style="text-align: left;">Svájci kopó, Luzerni kopó</td>
+<td style="text-align: left;">スイスハウンド、ルツェルンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swiss Hound, Schwyz Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Schwyzer Laufhund</td>
+<td style="text-align: left;">Svájci kopó, Schwyz kopó</td>
+<td style="text-align: left;">スイスハウンド、シュヴィーツハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Swiss Hound, Small Bernese Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Kleiner Berner Laufhund</td>
+<td style="text-align: left;">Svájci agár, kis berni agár</td>
+<td style="text-align: left;">スイスハウンド、スモールバーニーズハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swiss Hound, Small Jura Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Jura-Kleinlaufhund</td>
+<td style="text-align: left;">Svájci kopó, Kis Jura kopó</td>
+<td style="text-align: left;">スイスハウンド、スモールジュラハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Swiss Hound, Small Lucerne Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Kleiner Luzerner Laufhund</td>
+<td style="text-align: left;">Svájci kopó, Kis lucerni kopó</td>
+<td style="text-align: left;">スイスハウンド、スモールルツェルンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Swiss Hound, Small Schwyz Hound</td>
+<td style="text-align: left;">Schweizer Laufhund, Schwyzer Kleinlaufhund</td>
+<td style="text-align: left;">Svájci kopó, Kis schwyz kopó</td>
+<td style="text-align: left;">スイスハウンド、スモールシュヴィーツハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Taiwan Dog</td>
+<td style="text-align: left;">Taiwan-Hund</td>
+<td style="text-align: left;">Tajvani kutya</td>
+<td style="text-align: left;">台湾犬</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Teddy Roosevelt Terrier</td>
+<td style="text-align: left;">Teddy Roosevelt Terrier</td>
+<td style="text-align: left;">Teddy Roosevelt terrier</td>
+<td style="text-align: left;">テディ・ルーズベルト・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Telomian</td>
+<td style="text-align: left;">Telomian</td>
+<td style="text-align: left;">Telomian</td>
+<td style="text-align: left;">テロミアン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Tenterfield Terrier</td>
+<td style="text-align: left;">Tenterfield Terrier</td>
+<td style="text-align: left;">Tenterfield terrier</td>
+<td style="text-align: left;">テンターフィールド・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Terrier Brasileiro</td>
+<td style="text-align: left;">Brasileiro Terrier</td>
+<td style="text-align: left;">Brazil terrier</td>
+<td style="text-align: left;">テリア・ブラジレイロ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Thai Ridgeback</td>
+<td style="text-align: left;">Thai Ridgeback</td>
+<td style="text-align: left;">Thai Ridgeback</td>
+<td style="text-align: left;">タイ・リッジバック</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tibetan Mastiff</td>
+<td style="text-align: left;">Tibetdogge</td>
+<td style="text-align: left;">Tibeti masztiff</td>
+<td style="text-align: left;">チベタン・マスティフ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Tibetan Spaniel</td>
+<td style="text-align: left;">Tibetischer Spaniel</td>
+<td style="text-align: left;">Tibeti spániel</td>
+<td style="text-align: left;">チベタン・スパニエル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tibetan Terrier</td>
+<td style="text-align: left;">Tibet Terrier</td>
+<td style="text-align: left;">Tibeti terrier</td>
+<td style="text-align: left;">チベタン・テリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Tornjak</td>
+<td style="text-align: left;">Tornjak</td>
+<td style="text-align: left;">Tornjak</td>
+<td style="text-align: left;">トルニャク</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tosa</td>
+<td style="text-align: left;">Tosa</td>
+<td style="text-align: left;">Tosa</td>
+<td style="text-align: left;">土佐犬</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Toy Fox Terrier</td>
+<td style="text-align: left;">Toy Fox Terrier</td>
+<td style="text-align: left;">Törpe foxterrier</td>
+<td style="text-align: left;">トイ・フォックス・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Transylvanian Hound</td>
+<td style="text-align: left;">Siebenbürgischer Laufhund</td>
+<td style="text-align: left;">Erdélyi kopó</td>
+<td style="text-align: left;">トランシルバニアハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Treeing Cur</td>
+<td style="text-align: left;">Treeing Cur</td>
+<td style="text-align: left;">Treeing Cur</td>
+<td style="text-align: left;">ツリーイング・カー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Treeing Feist</td>
+<td style="text-align: left;">Treeing Feist</td>
+<td style="text-align: left;">Treeing Feist</td>
+<td style="text-align: left;">ツリーイング・フェイスト</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Treeing Tennessee Brindle</td>
+<td style="text-align: left;">Treeing Tennessee Brindle</td>
+<td style="text-align: left;">Treeing Tennessee Brindle</td>
+<td style="text-align: left;">ツリーイング・テネシー・ブリンドル</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Treeing Walker Coonhound</td>
+<td style="text-align: left;">Treeing Walker Coonhound</td>
+<td style="text-align: left;">Treeing Walker mosómedvekopó</td>
+<td style="text-align: left;">ツリーイングウォーカー・クーンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trigg Hound</td>
+<td style="text-align: left;">Trigg Hound</td>
+<td style="text-align: left;">Trigg kutya</td>
+<td style="text-align: left;">トリッグハウンド</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tyrolean Hound</td>
+<td style="text-align: left;">Tiroler Bracke</td>
+<td style="text-align: left;">Tiroli kopó</td>
+<td style="text-align: left;">チロリアンハウンド</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Vizsla</td>
+<td style="text-align: left;">Vizsla</td>
+<td style="text-align: left;">Vizsla</td>
+<td style="text-align: left;">ヴィズラ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Volpino Italiano</td>
+<td style="text-align: left;">Volpino Italiano</td>
+<td style="text-align: left;">Olasz volpinó</td>
+<td style="text-align: left;">ヴォルピーノ・イタリアーノ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Weimaraner</td>
+<td style="text-align: left;">Weimaraner</td>
+<td style="text-align: left;">Weimari vizsla</td>
+<td style="text-align: left;">ワイマラナー</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Welsh Springer Spaniel</td>
+<td style="text-align: left;">Welsh Springer Spaniel</td>
+<td style="text-align: left;">Walesi springer spániel</td>
+<td style="text-align: left;">ウェルシュ・スプリンガー・スパニエル</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Welsh Terrier</td>
+<td style="text-align: left;">Welsh Terrier</td>
+<td style="text-align: left;">Walesi terrier</td>
+<td style="text-align: left;">ウェルシュ・テリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">West Highland White Terrier</td>
+<td style="text-align: left;">West Highland White Terrier</td>
+<td style="text-align: left;">Nyugat-hegyvidéki fehér terrier</td>
+<td style="text-align: left;">ウエストハイランドホワイトテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">West Siberian Laika</td>
+<td style="text-align: left;">Westsibirische Laika</td>
+<td style="text-align: left;">Nyugat-szibériai lajka</td>
+<td style="text-align: left;">ウエストシベリアンライカ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Westphalian Dachsbracke</td>
+<td style="text-align: left;">Westfälische Dachsbracke</td>
+<td style="text-align: left;">Vesztfáliai tacskókopó</td>
+<td style="text-align: left;">ヴェストファーレン州ダックスブラッケ</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Whippet</td>
+<td style="text-align: left;">Whippet</td>
+<td style="text-align: left;">Kis angol agár</td>
+<td style="text-align: left;">ウィペット</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">White Shepherd</td>
+<td style="text-align: left;">Weißer Schäferhund</td>
+<td style="text-align: left;">Fehér Juhász</td>
+<td style="text-align: left;">ホワイトシェパード</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Wire Fox Terrier</td>
+<td style="text-align: left;">Drahthaar-Foxterrier</td>
+<td style="text-align: left;">Drótvázas foxterrier</td>
+<td style="text-align: left;">ワイヤーフォックステリア</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Wirehaired Pointing Griffon</td>
+<td style="text-align: left;">Drahthaariger Vorstehhund</td>
+<td style="text-align: left;">Drótszőrű Griffon</td>
+<td style="text-align: left;">ワイヤーヘアード・ポインティング・グリフォン</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Wirehaired Vizsla</td>
+<td style="text-align: left;">Drahthaariger Vizsla</td>
+<td style="text-align: left;">Drótszőrű vizsla</td>
+<td style="text-align: left;">ワイヤーヘアード・ヴィズラ</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Working Kelpie</td>
+<td style="text-align: left;">Arbeitender Kelpie</td>
+<td style="text-align: left;">Dolgozó kelpie</td>
+<td style="text-align: left;">ワーキングケルピー</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xoloitzcuintli (Miniature)</td>
+<td style="text-align: left;">Xoloitzcuintli (Miniatur)</td>
+<td style="text-align: left;">Xoloitzcuintli (miniatűr)</td>
+<td style="text-align: left;">メキシカン・ヘアレス・ドッグ（ミニチュア）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Xoloitzcuintli (Standard)</td>
+<td style="text-align: left;">Xoloitzcuintli (Standard)</td>
+<td style="text-align: left;">Xoloitzcuintli (Standard)</td>
+<td style="text-align: left;">メキシカン・ヘアレス・ドッグ（スタンダード）</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xoloitzcuintli (Toy)</td>
+<td style="text-align: left;">Xoloitzcuintli (Spielzeug)</td>
+<td style="text-align: left;">Xoloitzcuintli (játék)</td>
+<td style="text-align: left;">メキシカン・ヘアレス・ドッグ（トイ）</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Yorkshire Terrier</td>
+<td style="text-align: left;">Yorkshire Terrier</td>
+<td style="text-align: left;">Yorkshire terrier</td>
+<td style="text-align: left;">ヨークシャーテリア</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Český Fousek</td>
+<td style="text-align: left;">Český Fousek</td>
+<td style="text-align: left;">Český Fousek</td>
+<td style="text-align: left;">チェスキー・フォーセク</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2025 ManyDogs. Powered by Quarto.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://opencollective.com/manydogs">
+      <i class="bi bi-opencollective" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/manydogsproject">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/manydogsproject.bsky.social">
+<p><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://fediscience.org/@ManyDogs">
+      <i class="bi bi-mastodon" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:manydogsproject@gmail.com">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -1,0 +1,18 @@
+---
+title: "Dog breeds"
+---
+
+This is a list of all allowable breeds for our study. To search for your breed, type Ctrl/Cmd+F or click _Edit_ > _Find in Page_, then start typing the breed name. Find the breed name closest to your breed and select that for the survey question.
+
+Note: If your breed is a crossbreed (e.g., doodles), they will not be included in this list of single breeds. To enter doodles, go back to the previous question and select crossbreed instead of single breed.
+
+
+```{r}
+#| echo: false
+#| message: false
+# Authenticate -----
+googlesheets4::gs4_auth() # use personal email
+
+breed_table <- googlesheets4::read_sheet(ss = "12sLeMg-X-YpUL1oSVwW5Eq0Xw8cgsFmma652reMwa7M", sheet = 1)
+knitr::kable(breed_table)
+```
