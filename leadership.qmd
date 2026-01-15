@@ -179,7 +179,7 @@ This committee is responsible for applying for funding opportunities, connecting
 
 [Dr. Buchsbaum](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/daphna-buchsbaum) is an Associate Professor of Cognitive and Psychological Sciences at Brown University. She directs the Computational Cognitive Development Lab, and its sister lab the Brown Dog Lab. She was previously a faculty member at the University of Toronto. Dr. Buchsbaum completed her postdoctoral work as a Senior Research Fellow at the University of St. Andrews studying primate cognition. She completed her doctoral training in the UC Berkeley Psychology department, as well as a master’s degree in statistics, focusing on applications of probability theory and statistical computing. Before that, she completed a master’s degree at the MIT Media Lab, working on social learning in interactive animated characters. However, the first species she ever studied was the crab spider Misumena vatia. 
 
-#### Ana Rita Farias
+<!-- #### Ana Rita Farias -->
 
 
 ### Methods Development and Monitoring Committee
