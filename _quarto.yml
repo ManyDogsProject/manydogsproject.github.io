@@ -44,7 +44,7 @@ website:
 
   page-footer: 
     background: light
-    left: "&copy; 2025 ManyDogs. Powered by Quarto." 
+    left: "&copy; 2026 ManyDogs. Powered by Quarto." 
     right: 
       - icon: opencollective
         href: https://opencollective.com/manydogs
