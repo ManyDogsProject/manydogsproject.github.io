@@ -50,7 +50,7 @@ website:
         href: https://opencollective.com/manydogs
       - icon: github
         href: https://github.com/manydogsproject
-      - text: "{{< iconify fa6-brands:bluesky title='Bluesky'>}}"
+      - icon: bluesky
         href: https://bsky.app/profile/manydogsproject.bsky.social
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
