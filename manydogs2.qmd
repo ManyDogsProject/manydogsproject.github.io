@@ -100,7 +100,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 
 ### Methods Team
 #### Karoline Gerwisch (Vetmeduni Vienna) _Team Lead_
-#### Louise Mackie (Vetmeduni Vienna)
+#### Shany Dror (Vetmeduni Vienna) _Team Lead_
 #### Carly Fisher (Brown University)
 #### Bryan Perez (CUNY, Hunter College)
 #### Lauren Robinson (Mount Holyoke College)
@@ -114,7 +114,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 
 ### Adverstisement and Communication Team
 #### Courtney Sexton (Virginia Tech) _Team Lead_
-#### Julia Espinosa (Harvard University)
+#### Julia Espinosa (York University)
 #### Bryan Perez (CUNY, Hunter College)
 
 ### Data Team
