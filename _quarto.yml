@@ -29,7 +29,7 @@ website:
             text: "Code of Conduct"
       - href: getinvolved.qmd
         text: Get Involved
-      - text: Projects
+      - text: Studies
         menu: 
         - href: manydogs1.qmd
           text: ManyDogs1
