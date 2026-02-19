@@ -69,6 +69,7 @@ create_tml_split <- function(
   smr,
   dsc,
   split,
+  complete = TRUE,
   smr_col = "white",
   smr_bgcol = "#28679C",
   smr2_col = "#132E53",
@@ -109,7 +110,56 @@ create_tml_split <- function(
     ))
   }
 
-  if (split > 1) {
+  if (split == 0) {
+    htmltools::tagList(
+      cronologia_dependency(),
+      timeline(
+        df[(split + 1):nrow(df), ],
+        smr,
+        dsc,
+        smr2_col,
+        smr2_bgcol,
+        dsc2_col,
+        dsc2_bgcol,
+        dsc_size,
+        open
+      )
+    )
+  } else if (split == 1) {
+    htmltools::tagList(
+      cronologia_dependency(),
+      # htmltools::tags$p(
+      #   "Completed",
+      #   style = "text-align: center; font-size: 25px; font-weight: bold;"
+      # ),
+      # timeline(
+      #   df[1:split, ],
+      #   smr,
+      #   dsc,
+      #   smr_col,
+      #   smr_bgcol,
+      #   dsc_col,
+      #   dsc_bgcol,
+      #   dsc_size,
+      #   open
+      # ),
+      htmltools::tags$p(
+        "Currently",
+        style = "text-align: center; font-size: 25px; font-weight: bold;"
+      ),
+      timeline(
+        df[1:nrow(df), ],
+        smr,
+        dsc,
+        smr2_col,
+        smr2_bgcol,
+        dsc2_col,
+        dsc2_bgcol,
+        dsc_size,
+        open
+      )
+    )
+  } else if (split < nrow(df) & complete) {
     htmltools::tagList(
       cronologia_dependency(),
       htmltools::tags$p(
@@ -143,9 +193,28 @@ create_tml_split <- function(
         open
       )
     )
-  } else {
+  } else if (split < nrow(df) & !complete) {
     htmltools::tagList(
       cronologia_dependency(),
+      htmltools::tags$p(
+        " ",
+        style = "text-align: center; font-size: 25px; font-weight: bold;"
+      ),
+      timeline(
+        df[1:split, ],
+        smr,
+        dsc,
+        smr_col,
+        smr_bgcol,
+        dsc_col,
+        dsc_bgcol,
+        dsc_size,
+        open
+      ),
+      htmltools::tags$p(
+        "Currently",
+        style = "text-align: center; font-size: 25px; font-weight: bold;"
+      ),
       timeline(
         df[(split + 1):nrow(df), ],
         smr,
@@ -154,6 +223,25 @@ create_tml_split <- function(
         smr2_bgcol,
         dsc2_col,
         dsc2_bgcol,
+        dsc_size,
+        open
+      )
+    )
+  } else {
+    htmltools::tagList(
+      cronologia_dependency(),
+      htmltools::tags$p(
+        "Completed",
+        style = "text-align: center; font-size: 25px; font-weight: bold;"
+      ),
+      timeline(
+        df[1:nrow(df), ],
+        smr,
+        dsc,
+        smr_col,
+        smr_bgcol,
+        dsc_col,
+        dsc_bgcol,
         dsc_size,
         open
       )
