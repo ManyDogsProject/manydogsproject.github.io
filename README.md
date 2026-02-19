@@ -12,7 +12,7 @@ This repo contains the source code for the [ManyDogs Project website](https://ma
 - Edit the Quarto Markdown `.qmd` files.
 - Put images in the `images` folder.
 - Use relative URLs whenever possible, e.g., `pilot.qmd` instead of `https://manydogsproject.github.io/pilot.html`.
-- When you're ready to publish, use `quarto render` from your terminal (not in the R console). The html files are available in the `docs/` folder, so you can check everything there.
+- When you're ready to publish, use `quarto render` from your terminal (not in the R console). The html files are available in the `docs/` folder, so you can check everything there. **Please make sure to use the [most recent version of Quarto](https://quarto.org/docs/get-started/)**.
 * Then commit your changes and `git push`. See Quarto's documentation on [Publishing > GitHub Pages](https://quarto.org/docs/publishing/github-pages.html) for more information.
 - **Do not touch the files in the folders that start with an underscore `_` unless you're sure you know what you're doing!**
 
