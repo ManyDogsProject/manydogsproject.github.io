@@ -5,12 +5,14 @@ image-width: 50px
 about:
   template: solana
   links:
-      - icon: github
-        href: https://github.com/manydogsproject
-      - icon: twitter 
-        href: https://twitter.com/manydogsproject
+      - icon: bluesky 
+        href: https://bsky.app/profile/manydogsproject.bsky.social
       - icon: mastodon 
         href: https://fediscience.org/@ManyDogs
+      - icon: github
+        href: https://github.com/manydogsproject
+      # - icon: twitter 
+      #   href: https://twitter.com/manydogsproject
       # - icon: slack
       #   href: https://manydogsproject.slack.com/
       # - icon: google
@@ -25,6 +27,6 @@ If you are interested in learning more about ManyDogs, we recommend reading our 
 
 For information or inquiries from the media, please [email](mailto:manydogsproject@gmail.com) the ManyDogs project coordinators.
 
-Follow us on [Twitter](https://twitter.com/ManyDogsProject) or [Mastodon](https://fediscience.org/@ManyDogs) for updates!
+Follow us on [Bluesky](https://bsky.app/profile/manydogsproject.bsky.social) or [Mastodon](https://fediscience.org/@ManyDogs) for updates!
 
 
