@@ -4,6 +4,15 @@ title: ""
 
 # Publications
 
+## In press
+
+Espinosa, J., Cavalli, C., Bentosela, M., Bhadra, A., & Stevens, J. R. (in press). Beyond WEIRD humans and STRANGE dogs: Using big team science to improve generalizability and reproducibility in comparative psychology. _Current Directions in Psychological Science_. [doi:10.1177/09637214261450055](https://doi.org/10.1177/09637214261450055)
+
+[PDF](https://doi.org/10.31234/osf.io/e5wua_v19) • [Preprint](https://doi.org/10.31234/osf.io/e5wua_v19) • [News Release](https://www.psychologicalscience.org/news/2026-jul-canine-science.html)
+
+* This article describes how big team science projects like the ManyDogs Project can help address a lack of representativeness and potential generalizability concerns associated with conducting canine science research.
+
+
 ## 2024
 
 ManyDogs Project, Espinosa, J., Hare, E., Alberghina, D., Valverde, B. M. P., & Stevens, J. R. (2024). Data from ManyDogs 1. _Journal of Open Psychology Data_, 12(1). [doi:10.5334/jopd.109](https://doi.org/10.5334/jopd.109)
