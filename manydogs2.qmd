@@ -96,7 +96,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 ### Study Coordinators
 #### Julia Espinosa (York University)
 #### Karoline Gerwisch (Vetmeduni Vienna)
-#### Anna Korzeniowska (eLife Scientific Publications)
+#### Anna Korzeniowska (University of Southampton)
 #### Louise Mackie (Vetmeduni Vienna)
 #### Courtney Sexton (Virginia Tech)
 #### Jeffrey Stevens (University of Nebraska-Lincoln)
@@ -107,7 +107,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 #### Carly Fisher (Brown University)
 #### Bryan Perez (CUNY, Hunter College)
 #### Lauren Robinson (Mount Holyoke College)
-#### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg)
+<!-- #### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg) -->
 #### Carolyn Walsh (Memorial University of Newfoundland)
 
 ### Registration and Onboarding Team
@@ -115,7 +115,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 #### Lupin Martins Lisboa Teles (Federal University of Alagoas, Brazil)
 #### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg)
 
-### Adverstisement and Communication Team
+### Advertisement and Communication Team
 #### Courtney Sexton (Virginia Tech) _Team Lead_
 #### Julia Espinosa (York University)
 #### Bryan Perez (CUNY, Hunter College)
@@ -124,7 +124,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 #### Jeffrey Stevens (University of Nebraska-Lincoln) _Team Lead_
 #### Liz Hare (Dog Genetics LLC)
 #### Marianne Freeman (Sparsholt College Hampshire)
-#### Anna Korzeniowska (eLife Scientific Publications)
+#### Anna Korzeniowska (University of Southampton)
 #### Lupin Martins Lisboa Teles (Federal University of Alagoas, Brazil)
 #### Lauren Robinson (Mount Holyoke College)
 
