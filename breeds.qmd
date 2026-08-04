@@ -9,11 +9,12 @@ title: "Dog breeds"
 googlesheets4::gs4_auth() # use personal email
 
 breed_table <- googlesheets4::read_sheet(ss = "12sLeMg-X-YpUL1oSVwW5Eq0Xw8cgsFmma652reMwa7M", sheet = "breeds_and_groups") |> 
-  dplyr::select(!c(`FCI Name`, Notes))
+  dplyr::select(!c(`FCI Name`, Notes)) |> 
+  dplyr::select(`English Name`, `FCI Breed Group`, `AKC Breed Group`, everything())
 write.csv(breed_table, "assets/breed_table.csv", row.names = FALSE)
 ```
 
-This is a list of `r nrow(breed_table)` breeds that ManyDogs has assembled with translations in German, Hungarian, and Japanese. It also includes the [FCI breed groups](https://www.fci.be/en/Nomenclature/) and [AKC breed groups](https://www.akc.org/public-education/resources/general-tips-information/dog-breeds-sorted-groups/) where available. To search for your breed, type Ctrl/Cmd+F or click _Edit_ > _Find in Page_, then start typing the breed name. Or you can [download a CSV file of the breed table](assets/breed_table.csv).
+This is a list of `r nrow(breed_table)` breeds that ManyDogs has assembled with translations in Czech, German, Hungarian, Japanese, Polish, and Turkish. It also includes the [FCI breed groups](https://www.fci.be/en/Nomenclature/) and [AKC breed groups](https://www.akc.org/public-education/resources/general-tips-information/dog-breeds-sorted-groups/) where available. To search for your breed, type Ctrl/Cmd+F or click _Edit_ > _Find in Page_, then start typing the breed name. Or you can [download a CSV file of the breed table](assets/breed_table.csv).
 
 Note: If your breed is a crossbreed (e.g., doodles), they will not be included in this list of single breeds. If you find any errors or would like to request additional breeds, please [email ManyDogs](mailto:manydogsproject@gmail.com).
 
