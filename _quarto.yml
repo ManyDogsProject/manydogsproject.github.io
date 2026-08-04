@@ -37,6 +37,10 @@ website:
           text: ManyDogs2
       - href: publications.qmd
         text: Publications
+      - text: Resources
+        menu: 
+        - href: breeds.qmd
+          text: "Breed List"
       - href: donate.qmd
         text: Donate
       - href: contact.qmd
