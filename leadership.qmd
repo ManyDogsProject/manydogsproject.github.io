@@ -42,22 +42,22 @@ format:
 
 ## Assistant Directors
 
-#### Emily Bray - Communications and Community Building
+#### Gita Gnanadesikan - Communications and Community Building
 
 ::: {.column-margin}
-![](images/emily_bray.jpg)
+![](images/gita_gnanadesikan.jpg)
 :::
 
-[Dr. Bray](https://www.emilyebray.com/) is an Assistant Professor in The University of Arizona College of Veterinary Medicine, where she leads the Behavioral Research Across Years (BRAY) Lab. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D. from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.
+[Dr. Gnanadesikan](https://ggnanadesikan.github.io/) is an Affiliated Researcher and incoming Assistant Professor of Psychology (fall 2027) at Hunter College (The City University of New York), where she will be starting the Biological Bases of Behavior Laboratory (BioBaB Lab). She studied Ecology and Evolutionary Biology at Princeton University, where she conducted a senior thesis with Dr. Bridgett vonHoldt comparing the DNA methylation of dogs and wolves, before pivoting into comparative cognition by working as a Lab Coordinator for the Arizona Canine Cognition Center. She remained at the University of Arizona for both her MA and PhD, working with Dr. Evan MacLean; her dissertation explored the genetic and hormone contributions to individual differences in behavior and cognition in a population of working dogs. Most recently, she was an NIH IRACDA Postdoctoral Fellow at Emory University with Dr. Marcela Benítez, where she studied oxytocin and social behavior in capuchin monkeys and taught at Spelman College. The new BioBaB Lab at Hunter College will explore the biological contributions to variation in behavior and cognition across species, with a special focus on dogs and other domesticated animals, leveraging our work to support animal welfare. <br> <br>
 
 
-#### Liz Hare -  Data Management and Open Science
+#### Hillary Jean-Joseph -  Data Management and Open Science
 
 ::: {.column-margin}
-![](images/liz_hare.jpg)
+![](images/hillary_jean-joseph.jpg)
 :::
 
-[Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br>
+Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans. <br> <br> <br>
 
 
 #### Valerie Kuhlmeier - Funding
@@ -199,15 +199,6 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 
 <!-- This committee is responsible for creating materials/templates regarding prospective ManyDogs project submissions, reviewing prospective ManyDogs project submissions, and monitoring progress of accepted ManyDogs projects. -->
 
-#### Hillary Jean-Joseph
-
-::: {.column-margin}
-![](images/hillary_jean-joseph.jpg)
-:::
-
-Dr. Jean-Joseph is a Postdoctoral Researcher at the University of Paris Nanterre in France. She is interested in human–animal interactions, and more specifically, in how domestication has shaped them. Her work focuses on how domestic animals perceive and interact with humans, how these interactions affect the animals, and how they can be leveraged to improve animal welfare. She obtained her PhD at the University of Vienna (Austria), where she studied how dogs and wolves perceive their environment and humans. <br> <br> <br>
-
-
 <!-- #### Angie Johnston -->
 
 <!-- ::: {.column-margin} -->
@@ -235,6 +226,15 @@ Ella Williamson is a PhD student at the University of York’s Department of Psy
 
 # Previous Leadership Team Members
 
+#### Emily Bray
+
+::: {.column-margin}
+![](images/emily_bray.jpg)
+:::
+
+[Dr. Bray](https://www.emilyebray.com/) is an Assistant Professor in The University of Arizona College of Veterinary Medicine, where she leads the Behavioral Research Across Years (BRAY) Lab. She earned her undergraduate degree at Duke University, completing a senior thesis at the Duke Canine Cognition Center investigating context specificity of inhibitory control in pet dogs. She then went on to earn a Ph.D. from the Department of Psychology at the University of Pennsylvania. For her dissertation, she partnered with The Seeing Eye—the oldest guide dog school in the United States—to conduct a longitudinal study investigating the development of behavior and cognition in dogs. Most recently, she develops and implements cognitive tasks in hundreds of dogs from Canine Companions’ population.
+
+
 #### Sarah-Elizabeth Byosiere, CAAB
 
 ::: {.column-margin}
@@ -242,6 +242,15 @@ Ella Williamson is a PhD student at the University of York’s Department of Psy
 :::
 
 [Dr. Byosiere](https://www.linkedin.com/in/sarahbyosiere/) co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of Canine Research and Development at [Guide Dogs for the Blind](https://www.guidedogs.com/). Previously, she was the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> 
+
+
+#### Liz Hare
+
+::: {.column-margin}
+![](images/liz_hare.jpg)
+:::
+
+[Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br>
 
 
 #### Ljerka Ostojić
