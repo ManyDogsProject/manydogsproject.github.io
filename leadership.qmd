@@ -172,6 +172,15 @@ This committee is responsible for applying for funding opportunities, connecting
 
 <!-- #### Ana Rita Farias -->
 
+#### Evan MacLean
+
+::: {.column-margin}
+![](images/evan_maclean.jpg)
+:::
+
+[Dr. MacLean](https://dogs.arizona.edu/person/evan-maclean) is a Professor of Veterinary Medicine at the University of Arizona and founding Director of the Arizona Canine Cognition Center. He holds secondary appointments in Psychology, Cognitive Science, and Ecology and Evolutionary Biology. His interdisciplinary research explores the nature and evolution of animal minds and has included comparative and experimental studies with more than 40 species. His work has been supported by federal agencies, foundations, and private organizations, and is regularly featured in major media including The New York Times, The Washington Post, BBC, NPR, and National Geographic. <br> <br> <br>
+
+
 #### Andrea Sommese
 
 ::: {.column-margin}
@@ -210,10 +219,11 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 #### Madeline Pelgrim
 
 ::: {.column-margin}
-![](images/madeline_pelgrim.jpg)
+![](images/maddie_pelgrim.jpg)
 :::
 
-[Madeline](https://mpelgrim.github.io/) is a graduate student in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/) at Brown University's Department of Cognitive, Linguistic, & Psychological Sciences. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Madeline's current research explores how dogs make decisions, using head-mounted eye trackers to categorize dogs'  daily environment. <br> <br> <br> <br>
+[Dr. Pelgrim](https://mpelgrim.github.io/) is a Professor of Practice in Psychology at Stonehill College. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Dr. Pelgrim completed her PhD at Brown University’s Department of Cognitive & Psychological Sciences working in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/). Her research explores how dogs make decisions and work with human social partners. She focuses on multiple aspects of collaboration using head-mounted eye trackers and other methods.
+<br> <br> <br> <br>
 
 #### Ella Williamson
 
