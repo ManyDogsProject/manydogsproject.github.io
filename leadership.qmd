@@ -110,7 +110,7 @@ Hannah Burrows is a graduate student in Psychology (Cognitive Neuroscience) at Q
 ![](images/courtney_sexton.jpg)
 :::
 
-[Dr. Sexton](https://clsexton.wixsite.com/clsexton) is a Postdoctoral Researcher in the Department of [Population Health Sciences](https://vetmed.vt.edu/departments/population-health-sciences.html) at the Virginia-Maryland College of Veterinary Medicine. She earned her PhD from the George Washington University [Center for the Advanced Study of Human Paleobiology](https://cashp.columbian.gwu.edu/), where her dissertation explored co-evolution, interspecific communication, and social relationships between humans and dogs. As a postdoc at Virginia Tech, she is currently working on the [Dog Aging Project](https://dogagingproject.org/), and is especially interested in One Health applications of canine science research. An accomplished writer, she is passionate about scientific outreach and journalism, and often ropes her hound, Sonder, into helping out. <br> 
+[Dr. Sexton](https://clsexton.wixsite.com/clsexton) is a Postdoctoral Researcher in the Department of [Population Health Sciences](https://vetmed.vt.edu/departments/population-health-sciences.html) at the Virginia-Maryland College of Veterinary Medicine. She earned her PhD from the George Washington University [Center for the Advanced Study of Human Paleobiology](https://cashp.columbian.gwu.edu/), where her dissertation explored co-evolution, interspecific communication, and social relationships between humans and dogs. As a postdoc at Virginia Tech, she is currently working on the [Dog Aging Project](https://dogagingproject.org/), and is especially interested in One Health applications of canine science research. An accomplished writer, she is passionate about scientific outreach and journalism, and often ropes her hound, Sonder, into helping out. <br> <br> 
 
 
 ### Data Management and Open Science Committee
@@ -134,6 +134,7 @@ This committee is responsible for supporting ManyDogs projects in implementing o
 
 <!-- [Brian](https://www.linkedin.com/in/bryan-mitchel-perez-valverde-904b8b1b3/) is a volunteer at the Hunter College [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) and lab technician at Rockefeller University. His interests are on human-nonhuman animal interactions and bonds of domestic and wild species. He has a preference in studying canine cognition and behavior such as language, communication, emotions, and perception. He graduated from undergrad at City University of New York, Hunter College studying Psychology: Animal Behavior and in the Animal Behavior & Conservation Masters Advanced Certificate program. He has been helping in the Thinking Dog Center in behavioral coding of stress behavior in dog shelters, handling dogs for the Impossible tasks and Bolgna Study. He participated in the draft writing intro and as an election teller for ManyDogs. -->
 
+#### Liz Hare
 
 ::: {.column-margin}
 ![](images/liz_hare.jpg)
@@ -261,13 +262,13 @@ Ella Williamson is a PhD student at the University of York’s Department of Psy
 [Dr. Byosiere](https://www.linkedin.com/in/sarahbyosiere/) co-founded the ManyDogs Project, was a co-director from 2022-2023, and was a project coordinator for ManyDogs 1. Dr. Byosiere is the Director of Canine Research and Development at [Guide Dogs for the Blind](https://www.guidedogs.com/). Previously, she was the Director of the [Thinking Dog Center](https://sites.google.com/view/huntertdc/home) at CUNY Hunter College where she focused on studying the behavior and cognition of domestic dogs, canids, and other companion animals. She began her career at the University of Michigan and has worked at various canine cognition and behavior research groups including the Duke Canine Cognition Center, the Clever Dog Lab, and the Wolf Science Center. <br> <br> 
 
 
-#### Liz Hare
+<!-- #### Liz Hare -->
 
-::: {.column-margin}
-![](images/liz_hare.jpg)
-:::
+<!-- ::: {.column-margin} -->
+<!-- ![](images/liz_hare.jpg) -->
+<!-- ::: -->
 
-[Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br>
+<!-- [Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br> -->
 
 
 #### Ljerka Ostojić
