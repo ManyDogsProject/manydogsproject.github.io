@@ -233,6 +233,15 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 [Dr. Pelgrim](https://mpelgrim.github.io/) is a Professor of Practice in Psychology at Stonehill College. She completed her undergraduate degree at the University of Toronto studying Psychology and Biology. Dr. Pelgrim completed her PhD at Brown University’s Department of Cognitive & Psychological Sciences working in the [Brown Dog Lab](https://sites.brown.edu/browndoglab/). Her research explores how dogs make decisions and work with human social partners. She focuses on multiple aspects of collaboration using head-mounted eye trackers and other methods.
 <br> <br> <br> <br>
 
+#### Dani Sorbie
+
+::: {.column-margin}
+![](images/dani_sorbi.jpeg)
+:::
+
+Dani Sorbie is a PhD student at Manchester Metropolitan University (MMU), UK, where her research is conducted in collaboration with Dogs Trust and focuses on developing automated methods for monitoring dog welfare in rehoming centres. Prior to her PhD, Dani completed an MSc in Clinical Animal Behaviour at the University of Lincoln, UK. She has also gained practical experience working with rescue dogs, from working at rescue centres in Canada to working with the RSPCA in the UK. Her research is driven by a particular interest in the welfare and behaviour of dogs within rescue and rehoming environments, as well as following adoption. Outside of her research, Dani spends much of her time with her own rehomed animals, including her dogs, Suki and Maple, and her four cats, Horizon, Hope, Honey and Squish.
+<br> <br>
+
 #### Ella Williamson
 
 ::: {.column-margin}
