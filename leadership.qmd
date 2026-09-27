@@ -143,6 +143,15 @@ This committee is responsible for supporting ManyDogs projects in implementing o
 [Dr. Hare](http://www.doggenetics.com/) leads [Dog Genetics LLC](http://www.doggenetics.com/) where she consults on genetics and genomics research and breeding program planning in dogs. Dr. Hare earned her undergraduate degree at Bryn Mawr College before completing her Ph.D. at George Washington University. Dr. Hare then held research positions at Cornell University, the Animal Improvement Programs Laboratory for the United States Department of Agriculture, University of Texas Health Science Center San Antonio, and Texas Tech University. At Dog Genetics LLC, she has consulted for the Transportation Security Administration Canine Breeding and Development Center, Leader Dogs for the Blind, and Penn Vet Working Dog Center. <br>
 
 
+#### Anna Korzeniowska
+
+::: {.column-margin}
+![](images/anna_korzeniowska.png)
+:::
+
+
+Dr Korzeniowska is an Engagement Librarian at the University of Southampton, where she works as part of Research Data and Open Research & Publication Practice teams. She holds a PhD in Comparative Psychology from the University of Sussex, where she studied multimodal perception in domestic dogs. Since obtaining her PhD, Anna has worked as Open Research coordinator at the University of Surrey, Research Culture Project Manager at the University of Southampton and Research Culture Manager at eLife, a life sciences journal. Her current research interests include how open research practices, in particular open methods and open data, influence the quality and impact of canine behaviour and welfare research. <br> <br>
+
 #### Muhzina Shajid Pyari
 
 ::: {.column-margin}
