@@ -165,6 +165,12 @@ Beyond the lab, she is a seasoned educator and science communicator with a flair
 
 #### Em Sundby
 
+::: {.column-margin}
+![](images/em_sundby.jpg)
+:::
+
+Em is a Ph.D. candidate at Queen's University, Canada. Their research focuses on dogs' object cognition. Currently, they are investigating whether dogs exhibit ownership-like cognition for objects. <br> <br> <br> <br> <br> <br>
+
 
 #### Lupin Teles
 
@@ -232,6 +238,15 @@ This committee is responsible for supporting ManyDogs projects through protocol 
 <!-- ::: -->
 
 <!-- [Dr. Johnston](https://sites.bc.edu/angiejohnston) is an Assistant Professor at Boston College (Boston, USA). In her research, she investigates the evolutionary origins of human teaching and learning. She investigate this question from a comparative perspective, examining which aspects of human learning are unique and which are shared across other species. In particular, she compares human learning to that of domesticated dogs, as dogs demonstrate striking similarities to humans in their capacity to learn from others. <br> <br> -->
+
+#### Liza Bank
+
+::: {.column-margin}
+![](images/liza_bank.jpg)
+:::
+
+Liza is a student in the Animal Welfare Program at the University of British Columbia with an interest in canine behavior and cognition, dog-human interactions and relationships, and canine welfare. Liza graduated with a bachelor’s degree in psychology from Florida International University, and recently completed an applied animal behavior certificate program at the University of Washington. She also has a background in dog training, with experience in positive reinforcement, clicker training, pattern games, shaping and choice-based learning, as well as the sport of agility.
+
 
 #### Madeline Pelgrim
 
