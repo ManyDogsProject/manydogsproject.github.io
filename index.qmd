@@ -60,7 +60,7 @@ We have completed our first study, [ManyDogs 1](manydogs1.qmd), on dog-human soc
 
 ### ManyDogs 2
 
-We are currently recruiting research sites for our next study. Check out our [ManyDogs 2 project page](manydogs2.qmd) for more information!
+We are currently writing up our next study. Check out our [ManyDogs 2 project page](manydogs2.qmd) for more information!
 
 <!-- ::: {.callout-important icon=false} -->
 <!-- # Call for Project Ideas -->

@@ -55,7 +55,7 @@ md2_project_development <- md2_milestones |>
 create_tml_split(df = md2_project_development, # the data frame
            smr = "summary", # the column that will be used in the summary 
            dsc = "description", # the column that will be used in the description
-           split = 12,
+           split = 15,
            complete = TRUE
            )
 ```
@@ -69,7 +69,7 @@ md2_data_collection <- md2_milestones |>
 create_tml_split(df = md2_data_collection, # the data frame
            smr = "summary", # the column that will be used in the summary 
            dsc = "description", # the column that will be used in the description
-           split = 1,
+           split = 3,
            complete = FALSE
            )
 ```
@@ -83,7 +83,7 @@ md2_data_processing <- md2_milestones |>
 create_tml_split(df = md2_data_processing, # the data frame
            smr = "summary", # the column that will be used in the summary 
            dsc = "description", # the column that will be used in the description
-           split = 0,
+           split = 2,
            complete = FALSE
            )
 ```
@@ -103,9 +103,9 @@ create_tml_split(df = md2_data_processing, # the data frame
 
 ### Methods Team
 #### Karoline Gerwisch (Vetmeduni Vienna) _Team Lead_
-#### Shany Dror (Vetmeduni Vienna) _Team Lead_
+#### Shany Dror (Vetmeduni Vienna) 
 #### Carly Fisher (Brown University)
-#### Bryan Perez (CUNY, Hunter College)
+<!-- #### Bryan Perez (CUNY, Hunter College) -->
 #### Lauren Robinson (Mount Holyoke College)
 <!-- #### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg) -->
 #### Carolyn Walsh (Memorial University of Newfoundland)
@@ -113,12 +113,12 @@ create_tml_split(df = md2_data_processing, # the data frame
 ### Registration and Onboarding Team
 #### Julia Espinosa (York University) _Team Lead_
 #### Lupin Martins Lisboa Teles (Federal University of Alagoas, Brazil)
-#### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg)
+<!-- #### Susana Ruiz Fernandez (University of Technology Cottbus-Senftenberg) -->
 
 ### Advertisement and Communication Team
 #### Courtney Sexton (Virginia Tech) _Team Lead_
 #### Julia Espinosa (York University)
-#### Bryan Perez (CUNY, Hunter College)
+<!-- #### Bryan Perez (CUNY, Hunter College) -->
 
 ### Data Team
 #### Jeffrey Stevens (University of Nebraska-Lincoln) _Team Lead_
@@ -126,5 +126,5 @@ create_tml_split(df = md2_data_processing, # the data frame
 #### Marianne Freeman (Sparsholt College Hampshire)
 #### Anna Korzeniowska (University of Southampton)
 #### Lupin Martins Lisboa Teles (Federal University of Alagoas, Brazil)
-#### Lauren Robinson (Mount Holyoke College)
+<!-- #### Lauren Robinson (Mount Holyoke College) -->
 
