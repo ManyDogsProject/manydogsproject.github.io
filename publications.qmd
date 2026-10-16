@@ -44,7 +44,7 @@ ManyDogs Project, Espinosa, J., Stevens, J.R., Alberghina, D., Alway, H.E.E., Ba
 
 ## Talks and panels
 
-Stevens, J.R., Espinosa, J., and the ManyDogs Project. (2026). [Variability in demographics across research sites: Lessons from the ManyDogs Project](https://jeffreyrstevens.quarto.pub/bts_2026). [Big Team Science Conference](https://bigteamscienceconference.github.io/), online.
+Stevens, J.R., Espinosa, J., and the ManyDogs Project. (2026). [Variability in demographics across research sites: Lessons from the ManyDogs Project](https://jeffreyrstevens.quarto.pub/bts_2026). [Big Team Science Conference](https://bigteamscienceconference.github.io/), online. [[Recording](https://www.youtube.com/watch?v=fJevbRdVXdY&list=PLNpp0bcXCuwg)]
 
 Stevens, J.R., Espinosa, J., Cavalli, C., ManyDogs Project. (2026). Demographic factors in dog research. Canine Science Conference, Vancouver, Canada.
 
