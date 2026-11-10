@@ -97,7 +97,7 @@ create_tml_split(df = md2_data_processing, # the data frame
 #### Julia Espinosa (York University)
 #### Karoline Gerwisch (Vetmeduni Vienna)
 #### Anna Korzeniowska (University of Southampton)
-#### Louise Mackie (Vetmeduni Vienna)
+<!-- #### Louise Mackie (Vetmeduni Vienna) -->
 #### Courtney Sexton (Virginia Tech)
 #### Jeffrey Stevens (University of Nebraska-Lincoln)
 
